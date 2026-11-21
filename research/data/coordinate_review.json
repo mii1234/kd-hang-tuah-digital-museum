@@ -1,0 +1,205 @@
+{
+  "_comment": "Candidate coordinates for the Woodlands and Lumut base pins, supplied by the project owner on 16 Oct 2026, checked against independent geographic sources. Owner decisions of 16 Oct 2026: N4 (Woodlands) approved and applied to the public data in v5.2; N5 (Lumut) not approved for replacement: the candidate stays Needs Verification and the public pin stays provisional.",
+  "Method": "Each candidate was placed on OpenStreetMap (osm.org 'Query features' and the OSM API, opened in the project owner's built-in browser on 16 Oct 2026, because the OSM services refuse automated access from the research workspace). Mapped features at and around each point were read, and the candidate was tested against the mapped outline of the base. Coordinates published by other sites were collected for comparison. Distances are great-circle distances.",
+  "Records": [
+    {
+      "Location_ID": "LOC015",
+      "Place": "Royal Malaysian Navy base at Woodlands (KD Malaya), Singapore",
+      "Current_Public": {
+        "Latitude": 1.44889,
+        "Longitude": 103.78083,
+        "Source": "SRC026 (Wikipedia)"
+      },
+      "Candidate": {
+        "Latitude": 1.4528206675069213,
+        "Longitude": 103.77850014082183,
+        "Supplied_By": "Project owner, 16 Oct 2026"
+      },
+      "What_Is_There": "The landward end of the long pier in Woodlands Waterfront Park (OSM way 508463755, man_made=pier, unnamed; it runs about 350 m north to 1.455512, 103.779071). The OSM footpath on it is named 'Woodlands Jetty'. NParks describes the park's 400-metre jetty as 'Previously named the Royal Malaysian Naval Jetty', used by the Royal Malaysian Navy; NHB (Roots) describes the 'Former Malaysian Base Jetty', completed in 1966, off Admiralty Road West, now part of Woodlands Waterfront Park.",
+      "Evidence": [
+        {
+          "Source": "OpenStreetMap, way 508463755 (pier) and Query features at the candidate",
+          "URL": "https://www.openstreetmap.org/way/508463755",
+          "Coordinates_Reported": "pier outline 1.452802–1.455512 N, 103.777546–103.779071 E",
+          "Finding": "Candidate lies on the pier, 2 m from its southern (landward) end; enclosing features: the pier, Woodlands Waterfront Park."
+        },
+        {
+          "Source": "NParks — Woodlands Waterfront Jetty",
+          "URL": "https://www.nparks.gov.sg/visit/parks/woodlands-waterfront-park/special-features/woodlands-waterfront-jetty",
+          "Coordinates_Reported": "none",
+          "Finding": "Identifies the 400 m park jetty as the former Royal Malaysian Naval Jetty. The site once had five jetties; two remained by 2009."
+        },
+        {
+          "Source": "National Heritage Board (Roots) — Former Malaysian Base Jetty",
+          "URL": "https://www.roots.gov.sg/places/places-landing/Places/landmarks/Woodlands-at-War/Former-Malaysian-Base-Jetty",
+          "Coordinates_Reported": "none",
+          "Finding": "Jetty of the former KD Malaya base, completed 1966, off Admiralty Road West; now part of Woodlands Waterfront Park; used for parades and ship commissionings."
+        },
+        {
+          "Source": "URA Conservation Portal — 21 Admiralty Road West (Former Royal Malayan Naval Base Administrative Block)",
+          "URL": "https://www.ura.gov.sg/conservation/find-a-building/conservation-portal/fmrroyma-01/",
+          "Coordinates_Reported": "1.451425555241955, 103.7811373098975 (Street View position embedded in the page, on Admiralty Road West)",
+          "Finding": "Base administrative block, completed 1953; site returned to Singapore in 1997. Candidate is 332 m from this point."
+        },
+        {
+          "Source": "Wikipedia — Woodlands Naval Base (current public pin)",
+          "URL": "https://en.wikipedia.org/wiki/Woodlands_Naval_Base",
+          "Coordinates_Reported": "1°26′56″N 103°46′51″E (1.44889, 103.78083)",
+          "Finding": "Candidate is 508 m from it. OSM places the Wikipedia point in a construction area ('Woodlands North Verge') near Woodlands North Link, inland of Admiralty Road West."
+        }
+      ],
+      "Discrepancies": [
+        "NParks gives the jetty as 400 m long; the OSM outline is about 350 m end to end. Not material to the pin.",
+        "The panel says the ship berthed at 'jeti Pangkalan TLDM Woodlands'. Which of the base's jetties she used is not recorded, so the pin marks the base's former jetty, not her berth.",
+        "Coordinates supplied to 16 decimal places imply sub-millimetre precision; 6 decimals (about 0.1 m) are proposed."
+      ],
+      "Assessment": "Corroborated as the location of the former RMN base jetty (OSM geometry plus NParks and NHB identification). Two independent sources other than Wikipedia.",
+      "Status": "Corroborated — APPLIED (N4 approved by the owner, 16 Oct 2026)",
+      "Decision": {
+        "ID": "N4",
+        "Outcome": "Approved",
+        "Date": "2026-10-16",
+        "Conditions": "NParks and National Heritage Board references must directly support the displayed claim; label must say the pin marks the shore end of the former base jetty, now Woodlands Waterfront Jetty, and must not imply it was KD Hang Tuah's recorded berth; Wikipedia moved to Further References (Not Relied On); original coordinate, source and reasoning preserved.",
+        "Applied_As": "LOC015 and RPT046 public coordinates 1.452821, 103.7785; sources SRC001, SRC006, SRC035, SRC036, SRC037 (OSM pier outline added to cite the pin position itself); SRC026 Relied_On false. Research LOC015 keeps the original 1.44889, 103.78083."
+      },
+      "Proposed_Public": {
+        "Latitude": 1.452821,
+        "Longitude": 103.7785,
+        "Description": "Royal Malaysian Navy base at Woodlands, Singapore, where KD Hang Tuah arrived on 18 October 1977. The navy moved from Woodlands to Lumut in 1984. The pin marks the shore end of the base's former jetty, now the Woodlands Waterfront Jetty: it shows the base, not the ship's recorded berth.",
+        "Source_IDs": [
+          "SRC001",
+          "SRC006",
+          "SRC035",
+          "SRC036",
+          "SRC037"
+        ],
+        "New_Sources": [
+          {
+            "Source_ID": "SRC035",
+            "Source_Title": "Woodlands Waterfront Jetty",
+            "Author_or_Organisation": "National Parks Board (NParks), Singapore",
+            "Source_Type": "Official — government website",
+            "Source_URL": "https://www.nparks.gov.sg/visit/parks/woodlands-waterfront-park/special-features/woodlands-waterfront-jetty",
+            "Verification_Notes": "Used to identify the park's jetty as the former Royal Malaysian Naval Jetty (pin position)."
+          },
+          {
+            "Source_ID": "SRC036",
+            "Source_Title": "Former Malaysian Base Jetty",
+            "Author_or_Organisation": "National Heritage Board, Singapore (Roots)",
+            "Source_Type": "Official — heritage website",
+            "Source_URL": "https://www.roots.gov.sg/places/places-landing/Places/landmarks/Woodlands-at-War/Former-Malaysian-Base-Jetty",
+            "Verification_Notes": "Used for the jetty of the former KD Malaya base and its present location in Woodlands Waterfront Park (pin position)."
+          }
+        ],
+        "Effect": "SRC026 (Wikipedia) would no longer be cited and would move to 'Further References (Not Relied On)'. The pin would move 508 m north-west."
+      }
+    },
+    {
+      "Location_ID": "LOC016",
+      "Place": "Lumut Naval Base (Pangkalan TLDM Lumut), Perak",
+      "Current_Public": {
+        "Latitude": 4.22833,
+        "Longitude": 100.61167,
+        "Source": "SRC027 (Wikipedia)"
+      },
+      "Candidate": {
+        "Latitude": 4.237654616952472,
+        "Longitude": 100.61370829798906,
+        "Supplied_By": "Project owner, 16 Oct 2026"
+      },
+      "What_Is_There": "An unnamed pier (OSM way 261429033, man_made=pier) with a breakwater, beside a waterfront of unnamed industrial buildings and car parks. It is OUTSIDE the mapped outline of the base (OSM way 546309396, 'Pangkalan TLDM Lumut', landuse=military, military=base, military_service=navy), 347 m from its boundary. OSM does not say what the pier belongs to.",
+      "Evidence": [
+        {
+          "Source": "OpenStreetMap, way 546309396 (base outline) and way 261429033 (pier)",
+          "URL": "https://www.openstreetmap.org/way/546309396",
+          "Coordinates_Reported": "base outline 4.209395–4.243341 N, 100.590967–100.625291 E (423 nodes); pier 4.235813–4.238245 N, 100.612728–100.617365 E",
+          "Finding": "Candidate is outside the base outline (347 m from it), on the pier. The current public pin is inside it (550 m from the edge)."
+        },
+        {
+          "Source": "GLOSS Station Handbook, station 43 'Pengkalan TLDM Lumut' (BODC / National Oceanography Centre)",
+          "URL": "https://www.bodc.ac.uk/resources/inventories/gloss_handbook/stations/43/",
+          "Coordinates_Reported": "4.23333 N, 100.61666 E",
+          "Finding": "Tide gauge 'at the inner jetty of the Royal Malaysian Naval Base'; operated by JUPEM. Inside the OSM base outline (61 m from the edge). Given to about 1 arc-minute. Candidate is 582 m away."
+        },
+        {
+          "Source": "sea-seek.com — Lumut Malaysian navy (Perak)",
+          "URL": "https://sea-seek.com/en/Lumut-Malaysian-navy-Perak-Malaysia-",
+          "Coordinates_Reported": "4.2375732800973, 100.61127496338 (page metadata)",
+          "Finding": "Nearest published point to the candidate (270 m), but also outside the OSM base outline (261 m from it). Sailing guide; origin of the coordinate not stated."
+        },
+        {
+          "Source": "GlobalMilitary.net — Lumut Naval Base",
+          "URL": "https://www.globalmilitary.net/airbases/lumut-naval-base/",
+          "Coordinates_Reported": "4.2333 N, 100.6163 E",
+          "Finding": "Inside the OSM base outline. Candidate is 563 m away. Source of coordinate not stated."
+        },
+        {
+          "Source": "Honestmos — RMN Lumut Naval Base",
+          "URL": "https://www.honestmos.com/international/malaysia/bases/rmn-lumut-naval-base",
+          "Coordinates_Reported": "4.2333, 100.6167 ('Coordinates are approximate')",
+          "Finding": "Inside the OSM base outline. Candidate is 587 m away."
+        },
+        {
+          "Source": "Migflug — Lumut Naval Base (KD Rajawali)",
+          "URL": "https://migflug.com/?p=29707",
+          "Coordinates_Reported": "4.2283 N, 100.6117 E",
+          "Finding": "Same as the Wikipedia value to four decimals; probably copied, so not independent."
+        },
+        {
+          "Source": "Wikipedia — Lumut Naval Base (current public pin)",
+          "URL": "https://en.wikipedia.org/wiki/Lumut_Naval_Base",
+          "Coordinates_Reported": "4°13′42″N 100°36′42″E (4.22833, 100.61167)",
+          "Finding": "Candidate is 1,061 m away."
+        }
+      ],
+      "Discrepancies": [
+        "The candidate is not inside the mapped base, and no source identifies the pier it lies on as part of the naval base.",
+        "Published coordinates for the base differ by up to about 1 km, because the base is large (its OSM outline spans about 3.8 km by 3.8 km) and each source picks a different point.",
+        "OSM outlines are drawn by volunteers and may be incomplete; the waterfront could belong to the base or to another facility. Not resolved."
+      ],
+      "Assessment": "Not corroborated as a location within the naval base. Kept as a candidate.",
+      "Status": "Needs Verification — candidate kept; NOT applied (N5 not approved for public-coordinate replacement, 16 Oct 2026)",
+      "Decision": {
+        "ID": "N5",
+        "Outcome": "Not approved for replacement at this stage",
+        "Date": "2026-10-16",
+        "Conditions": "Keep the candidate as Needs Verification; keep the existing public pin provisionally, with source and wording that do not imply its exact position has been independently verified; record the limitations and continue research.",
+        "Applied_As": "LOC016 coordinates unchanged (4.22833, 100.61167, Wikipedia SRC027); public description now says the pin is provisional and not independently verified; Home_Coordinates note says the same. The OSM-outline citation proposed under N5 (SRC037 in the proposal) was not adopted."
+      },
+      "Limitations_Of_Current_Pin": [
+        "Taken from Wikipedia, which gives no source for it.",
+        "Lies inside the base as mapped on OpenStreetMap (550 m from the edge), but that outline is volunteer-drawn and the base is about 3.8 km across, so this shows only the general location.",
+        "Published coordinates for the base differ by up to about 1 km."
+      ],
+      "Next_Steps": [
+        "Look for an authoritative position: JUPEM topographic map or gazetteer, TLDM or Perak state publications, or the GLOSS tide-gauge benchmark sheet.",
+        "Identify the pier at the owner's candidate (OSM way 261429033) and whether it is part of the base.",
+        "Consider a pin at the base's main gate or headquarters once a source names one."
+      ],
+      "Proposed_Public": {
+        "Latitude": 4.22833,
+        "Longitude": 100.61167,
+        "Description": "Royal Malaysian Navy base at Lumut, Perak, to which the navy moved from Woodlands in 1984. Scene of the 2018 museum-ship designation, the 2025 decommissioning and the 2026 handover. The pin is a point inside the base as mapped on OpenStreetMap; it shows the base, not the ship's berth. The museum's future berth has not been published.",
+        "Source_IDs": [
+          "SRC006",
+          "SRC007",
+          "SRC009",
+          "SRC012",
+          "(proposed OSM outline source, not created)"
+        ],
+        "New_Sources": [
+          {
+            "Source_ID": "(not created)",
+            "Source_Title": "Pangkalan TLDM Lumut (Lumut Naval Base) — mapped outline, way 546309396",
+            "Author_or_Organisation": "OpenStreetMap contributors",
+            "Source_Type": "Geographic database (open data)",
+            "Source_URL": "https://www.openstreetmap.org/way/546309396",
+            "Verification_Notes": "Used only to confirm that the map pin lies within the base as mapped."
+          }
+        ],
+        "Note": "This was the N5 proposal. It was not adopted; kept for the record.",
+        "Effect": "Coordinates unchanged. SRC027 (Wikipedia) would no longer be cited and would move to 'Further References (Not Relied On)'; the pin would be supported by the OSM outline instead. The site's Home_Coordinates (same point) would get the same note."
+      }
+    }
+  ]
+}

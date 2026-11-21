@@ -1,0 +1,791 @@
+[
+  {
+    "Source_ID": "SRC001",
+    "Source_Title": "Panel 'Kepulangan ke Tanahair' (the voyage home, 1977)",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM) display on board KD Hang Tuah",
+    "Source_Type": "Primary — on-board museum panel",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Photograph IMG_8987.HEIC (iPhone 16), taken on board KD Hang Tuah, 30 September 2026, centre panel",
+    "Related_Event_IDs": [
+      "EVT017",
+      "EVT018",
+      "EVT019",
+      "EVT020",
+      "EVT021"
+    ],
+    "Related_Location_IDs": [
+      "LOC002",
+      "LOC007",
+      "LOC008",
+      "LOC009",
+      "LOC010",
+      "LOC011",
+      "LOC012",
+      "LOC013",
+      "LOC014",
+      "LOC015"
+    ],
+    "Image_Credit": "{project_photo_credit}",
+    "Rights_Status": "Panel content belongs to its producer. Photograph unpublished pending the project owner's review.",
+    "Verification_Notes": "Panel text documents: departure from Portsmouth 15 Aug 1977 at 3.00 pm; calls at Jeddah (10–17 Sep, Umrah and Hari Raya Aidilfitri), Abu Dhabi, Muscat and Colombo; arrival at Port Klang 14 Oct 1977 at 9.00 am; Malacca 16–17 Oct; Woodlands 18 Oct 1977. The panel map additionally labels Casablanca, Tunisia and Alexandria (no dates) and gives planned ETA/ETD times. The map label 'Abu Dabi, Saudi Arabia' is geographically wrong (Abu Dhabi is in the UAE). Producer and date of the panel are not shown. Claims on this panel are marked Verified only where the panel text states them directly.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC002",
+    "Source_Title": "Panel 'Pengenjinan Semula KD HANG TUAH' (re-engining)",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM) display on board KD Hang Tuah",
+    "Source_Type": "Primary — on-board museum panel",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Photograph IMG_8987.HEIC (iPhone 16), taken on board KD Hang Tuah, 30 September 2026, left panel",
+    "Related_Event_IDs": [
+      "EVT024",
+      "EVT025",
+      "EVT026",
+      "EVT027"
+    ],
+    "Related_Location_IDs": [
+      "LOC017"
+    ],
+    "Image_Credit": "{project_photo_credit}",
+    "Rights_Status": "Panel content belongs to its producer. Photograph unpublished pending the project owner's review.",
+    "Verification_Notes": "Documents: Docking Essential Defect (DED) repairs at Naval Dockyard Sdn Bhd (year cut off in photo); original eight ASR1 16 VTS main engines and four ASR1 8 LTS generators; ministerial approval August 1994; contract to Wärtsilä 22 August 1995 (two 12SW28 main engines, three generator sets, model only partly legible); tow to MSE Pasir Gudang 9 October 1995; cost RM24 million; accepted February 1997. The right edge of the panel is cut off in the photograph — re-photograph to read the missing words.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC003",
+    "Source_Title": "Panel 'Detik…' (title partly visible; handover ceremony)",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM) display on board KD Hang Tuah",
+    "Source_Type": "Primary — on-board museum panel",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Photograph IMG_8987.HEIC (iPhone 16), taken on board KD Hang Tuah, 30 September 2026, right panel (mostly outside the frame)",
+    "Related_Event_IDs": [
+      "EVT016"
+    ],
+    "Related_Location_IDs": [
+      "LOC004"
+    ],
+    "Image_Credit": "{project_photo_credit}",
+    "Rights_Status": "",
+    "Verification_Notes": "Only fragments are visible: '…penyerahan HM[S]…', '…[disem]purnakan di Southampton…', 'Datuk Abdullah Ali…'. Used only to support Southampton as the place of the handover/commissioning. Re-photograph the whole panel.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC004",
+    "Source_Title": "Site-visit list of decks and spaces ('compoment kd hang tuah.txt')",
+    "Author_or_Organisation": "Project author (field notes)",
+    "Source_Type": "Primary — field notes",
+    "Publication_Date": "2026",
+    "Source_URL": "",
+    "Document_Reference": "Text file in the research folder, last modified 15 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Lists spaces by deck (Deck 01, 1, 2, 02, 3). Some deck labels and names need confirming on board (e.g. 'Bilik' with no further name, 'Anjungan' listed on two decks).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC005",
+    "Source_Title": "Photograph of a general-arrangement drawing (Stone Marine Engineering)",
+    "Author_or_Organisation": "Project author (photograph)",
+    "Source_Type": "Primary — photograph of a document",
+    "Publication_Date": "2026-09-30",
+    "Source_URL": "",
+    "Document_Reference": "Photograph IMG_20260930_141741.jpg (realme Note 50), 30 September 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "{project_photo_credit}",
+    "Rights_Status": "",
+    "Verification_Notes": "Drawing by Stone Marine Engineering; title partly legible ('General arrangement of … hub size …'). Shows a propeller hub with automatic adjusting valve, by-pass valve and O.D. box. Where it is kept and whether it relates to this ship's propellers must be confirmed.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC006",
+    "Source_Title": "Zaman Pembaharuan: Kecil Jangan Disangka Anak",
+    "Author_or_Organisation": "Royal Malaysian Navy (navy.mil.my)",
+    "Source_Type": "Official — TLDM website",
+    "Publication_Date": "",
+    "Source_URL": "http://www.navy.mil.my/index.php/component/k2/item/3352-zaman-pembaharuan-kecll-jangan-disangka-anak",
+    "Document_Reference": "Section on 9 September 1984",
+    "Related_Event_IDs": [
+      "EVT022"
+    ],
+    "Related_Location_IDs": [
+      "LOC015",
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "States that on 9 September 1984 the royal colours (panji-panji Diraja) were moved from Woodlands to KD Malaya at Lumut by Captain Khoo Tee Chuan, Panglima Materiel Armada, 'dengan menaiki KD HANG TUAH'. CAUTION: the same page's 1965–1967 references to KD Hang Tuah concern the earlier ship (ex-HMS Loch Insh), not F76.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC007",
+    "Source_Title": "KD Hang Tuah to be turned into naval museum",
+    "Author_or_Organisation": "Bernama (republished by The Borneo Post, 22 November 2018)",
+    "Source_Type": "Secondary — news agency",
+    "Publication_Date": "2018-11-21",
+    "Source_URL": "https://www.bernama.com/en/news.php?id=1667236",
+    "Document_Reference": "Also: https://www.theborneopost.com/2018/11/22/kd-hang-tuah-to-be-turned-into-naval-museum/",
+    "Related_Event_IDs": [
+      "EVT016",
+      "EVT023",
+      "EVT030"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Commissioned 22 July 1977; asset of the 21st Frigate Squadron; oldest ship in the fleet; about 500,000 km sailed; declared a naval museum on 21 November 2018 by the Chief of Navy; opening then expected early 2019. Describes the ship as 'over 50 years old' (counting from her 1966 launch).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC008",
+    "Source_Title": "Museum Ship of the Navy",
+    "Author_or_Organisation": "Malaysian Defence",
+    "Source_Type": "Secondary — defence news website",
+    "Publication_Date": "2018",
+    "Source_URL": "https://www.malaysiandefence.com/museum-ship-of-the-navy/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT030"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "States the ship was designated the navy's museum ship on 21 November and that she was NOT being decommissioned: she kept her commission. Publication year not printed on the page.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC009",
+    "Source_Title": "KD Hang Tuah tamat perkhidmatan selepas hampir lima dekad",
+    "Author_or_Organisation": "Utusan Malaysia (Asliza Musa)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2025-12-03",
+    "Source_URL": "https://www.utusan.com.my/nasional/2025/12/kd-hang-tuah-tamat-perkhidmatan-selepas-hampir-lima-dekad/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT016",
+      "EVT023",
+      "EVT031"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Decommissioning ceremony at Lumut naval base, 3 December 2025, officiated by Western Fleet Commander Vice Admiral Datuk Baharudin Wan Md Nor. Commissioned 22 July 1977. Reports the ship focused mainly on training 'from the 1980s' and lists exercises Malindo Jaya, Emas Hitam, Milan, Kakadu and LIMA (undated). Gives beam as 12.02 m (other sources: 12.2 m).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC010",
+    "Source_Title": "KD Hang Tuah decommissioned after five decades of service",
+    "Author_or_Organisation": "Ipoh Echo (Zaki Salleh)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2025-12-03",
+    "Source_URL": "https://www.ipohecho.com.my/2025/12/03/kd-hang-tuah-decommissioned-after-five-decades-of-service/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT031"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Confirms date, place and officiating officer; ship's bell tolled and ensign lowered.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC011",
+    "Source_Title": "Malaysia Phases Out Cold War Frigate KD Hang Tuah",
+    "Author_or_Organisation": "GBP (Mohd Hanif Ismail)",
+    "Source_Type": "Secondary — news website",
+    "Publication_Date": "2025-12-05",
+    "Source_URL": "https://gbp.com.sg/stories/malaysia-phases-out-cold-war-frigate-kd-hang-tuah-amid-asia-pacific-fleet-modernisation/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT031"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Confirms decommissioning on 3 December 2025 as part of the '15 to 5' programme. Rest of article paywalled.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC012",
+    "Source_Title": "Memorial Muzium Kapal Diraja Hang Tuah tarikan baharu pelancongan di Lumut",
+    "Author_or_Organisation": "Utusan Malaysia (Asliza Musa)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2026-07-27",
+    "Source_URL": "https://www.utusan.com.my/nasional/2026/07/memorial-muzium-kapal-diraja-hang-tuah-tarikan-baharu-pelancongan-di-lumut/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT032",
+      "EVT033"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Handover to the Perak state government on 27 July 2026 at Himpitan 1, Lumut naval base; PPP between MB Inc. and Aero Art Sdn Bhd; Phase 1 about RM30 million; opening expected 2027. Also states service ended 3 December 2025.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC013",
+    "Source_Title": "KD Hang Tuah Memorial Museum to become Lumut's new tourist attraction",
+    "Author_or_Organisation": "Ipoh Echo (Zaki Salleh)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2026-07-27",
+    "Source_URL": "https://www.ipohecho.com.my/2026/07/27/kd-hang-tuah-memorial-museum-to-become-lumuts-new-tourist-attraction/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT029",
+      "EVT032"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Confirms the handover and 2027 opening. Sole source for the claim that the ship took part in Ops Fajar in the Gulf of Aden in 2009 (unconfirmed).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC014",
+    "Source_Title": "Frigate to open as Perak ship museum in 2027",
+    "Author_or_Organisation": "The Star (Metro News, Bernama photos)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2026-08-05",
+    "Source_URL": "https://www.thestar.com.my/metro/metro-news/2026/08/05/frigate-to-open-as-perak-ship-museum-in-2027",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT032",
+      "EVT033"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Confirms handover, PPP partners, RM30 million first phase and 2027 opening; Marina Wing and Esplanade redevelopment.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC015",
+    "Source_Title": "MERMAID — vessel record",
+    "Author_or_Organisation": "Scottish built ships database (clydeships.co.uk)",
+    "Source_Type": "Secondary — shipbuilding database",
+    "Publication_Date": "",
+    "Source_URL": "https://www.clydeships.co.uk/view.php?a1Page=3718&ref=17770&vessel=MERMAID",
+    "Document_Reference": "Read from the screenshot 'documen hng tuah.png' (the site blocks automated access)",
+    "Related_Event_IDs": [
+      "EVT001",
+      "EVT002",
+      "EVT004",
+      "EVT007",
+      "EVT008",
+      "EVT015"
+    ],
+    "Related_Location_IDs": [
+      "LOC001",
+      "LOC002"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Launched 29/12/1966; completed 16/05/1973; Yarrow & Co. Ltd., Scotstoun, yard no 2284; 2,300 displacement; length 344 ft 9 in LOA (conflicts with 103.5 m elsewhere); breadth 40 ft; draft 12 ft (conflicts with 4.9 m); 8 Admiralty Standard Range 16-cyl diesels, 14,400 bhp, 24 knots; transferred to Malaysia May 1977 (others: April); commissioned as KD Hang Tuah August 1977 after a refit at Vosper Thornycroft (others: 22 July 1977).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC016",
+    "Source_Title": "HMS Mermaid",
+    "Author_or_Organisation": "P. Antill, historyofwar.org",
+    "Source_Type": "Secondary — history website",
+    "Publication_Date": "2002-01-30",
+    "Source_URL": "https://www.historyofwar.org/articles/weapons_hmsmermaid.html",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT001",
+      "EVT003",
+      "EVT004",
+      "EVT006",
+      "EVT007",
+      "EVT008",
+      "EVT009",
+      "EVT010",
+      "EVT014",
+      "EVT015",
+      "EVT016"
+    ],
+    "Related_Location_IDs": [
+      "LOC005"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Ordered by Ghana as Black Star; about £5 million; launched without ceremony 29 Dec 1966; Type 41/61 basis, flush deck, single funnel; Mk XIX twin 4 in, four 40 mm, Squid mortar; sonars 170 and 176; 2,300 tons; 24 knots; complement 177; to Portsmouth April 1972, Chatham refit; commissioned 16 May 1973; based in Singapore; stood by for Saigon evacuation; Fittleton collision; Cod Wars; MTI radar trials; transferred April 1977 keeping F76.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC017",
+    "Source_Title": "F 76 HMS Mermaid",
+    "Author_or_Organisation": "seaforces.org",
+    "Source_Type": "Secondary — naval reference website",
+    "Publication_Date": "",
+    "Source_URL": "https://seaforces.org/marint/Royal-Navy/Frigate/F-76-HMS-Mermaid.htm",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT003",
+      "EVT004",
+      "EVT008",
+      "EVT009",
+      "EVT010",
+      "EVT012",
+      "EVT015",
+      "EVT023"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Launched 29 Dec 1966; commissioned 16 May 1973; transferred April 1977; training ship 1992; 1995–97 refit. Internally inconsistent on displacement (2,300 vs 2,340 t) and crew (177 vs 210).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC018",
+    "Source_Title": "HMS Mermaid (1966)",
+    "Author_or_Organisation": "naval-encyclopedia.com",
+    "Source_Type": "Secondary — naval reference website",
+    "Publication_Date": "2026-01-25",
+    "Source_URL": "https://naval-encyclopedia.com/cold-war/uk/hms-mermaid.php",
+    "Document_Reference": "Copied in 'document history of hangtuah.docx'",
+    "Related_Event_IDs": [
+      "EVT002",
+      "EVT005",
+      "EVT010",
+      "EVT023"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "USE WITH CAUTION — contains clear errors: says she was 'decommissioned on May 1973'; dates the Saigon evacuation to 1973 and says she carried it out; calls the ASW weapon both Squid and Limbo; says the museum can be visited today. Used only as the sole source for laid down 1965, range 4,800 nm/18 kn and 9,928 bhp after refit, all marked Needs Verification.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC019",
+    "Source_Title": "KD Hang Tuah — Wikipedia article (English)",
+    "Author_or_Organisation": "Wikipedia (English)",
+    "Source_Type": "Tertiary — encyclopedia",
+    "Publication_Date": "",
+    "Source_URL": "https://en.wikipedia.org/wiki/KD_Hang_Tuah",
+    "Document_Reference": "Accessed 15 October 2026",
+    "Related_Event_IDs": [
+      "EVT003",
+      "EVT005",
+      "EVT006",
+      "EVT007",
+      "EVT008",
+      "EVT011",
+      "EVT012",
+      "EVT013",
+      "EVT014",
+      "EVT015",
+      "EVT016",
+      "EVT023",
+      "EVT028"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Useful for its citations (Marriott 1990; Roberts 2009; Ships Monthly 1977; Baker 1998). Several dated statements are uncited. Wrongly gives 'Decommissioned: 2018'.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC020",
+    "Source_Title": "KD Hang Tuah — Wikipedia article (Bahasa Melayu)",
+    "Author_or_Organisation": "Wikipedia (Bahasa Melayu)",
+    "Source_Type": "Tertiary — encyclopedia",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Screenshots in 'wikipedia kdhangtuah.docx'",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Infobox gives 'Mula dibina: 1973', which is wrong (the ship was launched in 1966). Confirms Yard No 2284 and service with the 21st Frigate Squadron and Training Flotilla.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC021",
+    "Source_Title": "Last of the Yarrow diesel tin cans gets a reprieve (Warship Wednesday)",
+    "Author_or_Organisation": "laststandonzombieisland.com",
+    "Source_Type": "Secondary — blog",
+    "Publication_Date": "2018-11-30",
+    "Source_URL": "https://laststandonzombieisland.com/2018/11/30/last-of-the-yarrow-diesel-tin-cans-gets-a-reprieve/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT001",
+      "EVT005",
+      "EVT006",
+      "EVT011",
+      "EVT028"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Ordered 1964; completed 1967; about £3.8 million of Crown loans written off 1971; collision with ICGV Thor, March 1976 (caption); 4-inch gun replaced by 57 mm Bofors in 1992. Blog — used for alternative dates only.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC022",
+    "Source_Title": "HMS Fittleton memorial (M4165)",
+    "Author_or_Organisation": "Royal Museums Greenwich, Maritime Memorials",
+    "Source_Type": "Secondary — memorial database",
+    "Publication_Date": "",
+    "Source_URL": "https://memorials.rmg.co.uk/m4165",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT013"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Fittleton sank after a collision with HMS Mermaid on 20 September 1976; twelve men died.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC023",
+    "Source_Title": "Worst Royal Naval Reserve collision remembered",
+    "Author_or_Organisation": "Forces News",
+    "Source_Type": "Secondary — news",
+    "Publication_Date": "2016-09-20",
+    "Source_URL": "https://www.forcesnews.com/services/navy/worst-royal-naval-reserve-collision-remembered",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT013"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Fittleton was trying to come alongside Mermaid; capsized in under a minute; 12 died, 11 of them RNR volunteers; en route to Hamburg.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC024",
+    "Source_Title": "Hang Tuah (ex-Loch Insh), F433",
+    "Author_or_Organisation": "Navypedia",
+    "Source_Type": "Secondary — naval reference website",
+    "Publication_Date": "",
+    "Source_URL": "https://navypedia.org/ships/malaysia/mal_es_hang_tuah.htm",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT015"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "The earlier KD Hang Tuah: ex-Loch class frigate, commissioned in Malaysia 1964, training ship from 1971, stricken 1977.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC025",
+    "Source_Title": "Photograph of the KD Hang Tuah (accession 2021-00220)",
+    "Author_or_Organisation": "National Heritage Board Singapore (Roots.gov.sg)",
+    "Source_Type": "Secondary — museum collection record",
+    "Publication_Date": "",
+    "Source_URL": "https://www.roots.gov.sg/Collection-Landing/listing/1497831",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT015"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Describes the EARLIER KD Hang Tuah (ex-Loch Insh) as the RMN flagship until 1971. Context only; not about F76.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC026",
+    "Source_Title": "Woodlands Naval Base — Wikipedia article",
+    "Author_or_Organisation": "Wikipedia (English)",
+    "Source_Type": "Tertiary — encyclopedia",
+    "Publication_Date": "",
+    "Source_URL": "https://en.wikipedia.org/wiki/Woodlands_Naval_Base",
+    "Document_Reference": "Accessed 15 October 2026",
+    "Related_Event_IDs": [
+      "EVT021"
+    ],
+    "Related_Location_IDs": [
+      "LOC015"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Coordinates of the base; Malayan/Malaysian base 1952–1997; RMN HQ moved to Lumut from 9 September 1984.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7; moved to further references by N4 (16 Oct 2026): the Woodlands pin no longer uses its coordinates"
+  },
+  {
+    "Source_ID": "SRC027",
+    "Source_Title": "Lumut Naval Base — Wikipedia article",
+    "Author_or_Organisation": "Wikipedia (English)",
+    "Source_Type": "Tertiary — encyclopedia",
+    "Publication_Date": "",
+    "Source_URL": "https://en.wikipedia.org/wiki/Lumut_Naval_Base",
+    "Document_Reference": "Accessed 15 October 2026",
+    "Related_Event_IDs": [
+      "EVT022"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Coordinates of the base; relocation from Woodlands beginning 9 September 1984 with KD Hang Tuah in the ceremony (cites the TLDM page, SRC006).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": ""
+  },
+  {
+    "Source_ID": "SRC028",
+    "Source_Title": "Exhibition caption: 'HMS Mermaid collides with the Coast Guard vessel Þór in March 1976'",
+    "Author_or_Organisation": "Unknown Icelandic exhibition (photograph in research folder)",
+    "Source_Type": "Secondary — exhibition caption",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "File 'coast guard.jpeg' in the research folder",
+    "Related_Event_IDs": [
+      "EVT011"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Bilingual Icelandic/English caption. Origin of the photograph and exhibition not identified. Conflicts with Wikipedia (Óðinn, 12 March 1976).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7; public title made neutral because the caption text states a disputed collision (D8)"
+  },
+  {
+    "Source_ID": "SRC029",
+    "Source_Title": "Post in the 'Destroyers and Frigates' Facebook group",
+    "Author_or_Organisation": "Bill Kidley (former crew member)",
+    "Source_Type": "Personal recollection — social media",
+    "Publication_Date": "2024-07-19",
+    "Source_URL": "",
+    "Document_Reference": "Screenshot in the research folder",
+    "Related_Event_IDs": [
+      "EVT009"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "'My first draft September 1975, joined her in Singapore where she was the last Singapore guardship.' Personal recollection; not independent confirmation.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC030",
+    "Source_Title": "Royal Navy Frigates since 1945 (2nd ed.)",
+    "Author_or_Organisation": "Leo Marriott; Ian Allan",
+    "Source_Type": "Secondary — book (not yet consulted)",
+    "Publication_Date": "1990",
+    "Source_URL": "",
+    "Document_Reference": "pp. 102–104 (as cited by Wikipedia)",
+    "Related_Event_IDs": [
+      "EVT014"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Cited by Wikipedia for the December 1966 launch, April 1972 move, 1976 return to home waters and early-1977 end of RN service. Consult directly to upgrade those claims.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC031",
+    "Source_Title": "Safeguarding the Nation: The Story of the Modern Royal Navy",
+    "Author_or_Organisation": "John Roberts; Seaforth Publishing",
+    "Source_Type": "Secondary — book (not yet consulted)",
+    "Publication_Date": "2009",
+    "Source_URL": "",
+    "Document_Reference": "p. 119 (as cited by Wikipedia)",
+    "Related_Event_IDs": [
+      "EVT012"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Cited by Wikipedia for the Óðinn (12 Mar 1976) and Baldur (6 May 1976) incidents.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC032",
+    "Source_Title": "Ships Monthly, vol. 11–13",
+    "Author_or_Organisation": "Ships Monthly",
+    "Source_Type": "Secondary — periodical (not yet consulted)",
+    "Publication_Date": "1977",
+    "Source_URL": "",
+    "Document_Reference": "p. 19 (as cited by Wikipedia)",
+    "Related_Event_IDs": [
+      "EVT016"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Cited by Wikipedia for commissioning at Southampton on 22 July 1977.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC033",
+    "Source_Title": "The Naval Institute Guide to Combat Fleets of the World 1998–1999",
+    "Author_or_Organisation": "A. D. Baker III; Naval Institute Press",
+    "Source_Type": "Secondary — reference book (not yet consulted)",
+    "Publication_Date": "1998",
+    "Source_URL": "",
+    "Document_Reference": "p. 499 (as cited by Wikipedia)",
+    "Related_Event_IDs": [
+      "EVT028"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Cited by Wikipedia for the 1995–1997 refit (57 mm gun, removal of ASW systems).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC034",
+    "Source_Title": "Ops Fajar mission accomplished",
+    "Author_or_Organisation": "The Star",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2008-10-21",
+    "Source_URL": "https://thestar.com.my/news/nation/2008/10/21/ops-fajar-mission-accomplished",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT029"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Names KD Lekiu as the escorting ship in the 2008 Ops Fajar deployment; does not mention KD Hang Tuah. Recorded as counter-evidence for EVT029.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: further reference (not relied on)",
+    "Public_Note": "D7"
+  },
+  {
+    "Source_ID": "SRC035",
+    "Source_Title": "Woodlands Waterfront Jetty",
+    "Author_or_Organisation": "National Parks Board (NParks), Singapore",
+    "Source_Type": "Official — government website",
+    "Publication_Date": "",
+    "Source_URL": "https://www.nparks.gov.sg/visit/parks/woodlands-waterfront-park/special-features/woodlands-waterfront-jetty",
+    "Document_Reference": "Accessed 16 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [
+      "LOC015"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Describes the park's 400-metre jetty as 'Previously named the Royal Malaysian Naval Jetty', used by the Royal Malaysian Navy for formal parades and ship commissionings; the site once had five jetties, two remaining by 2009. No coordinates given.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": "Added in v5.2 for N4 (approved 16 Oct 2026)."
+  },
+  {
+    "Source_ID": "SRC036",
+    "Source_Title": "Former Malaysian Base Jetty",
+    "Author_or_Organisation": "National Heritage Board, Singapore (Roots)",
+    "Source_Type": "Official — heritage website",
+    "Publication_Date": "",
+    "Source_URL": "https://www.roots.gov.sg/places/places-landing/Places/landmarks/Woodlands-at-War/Former-Malaysian-Base-Jetty",
+    "Document_Reference": "Accessed 16 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [
+      "LOC015"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Jetty of the former KD Malaya base, completed in 1966, off Admiralty Road West; now part of Woodlands Waterfront Park (opened 2011). No coordinates given.",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": "Added in v5.2 for N4 (approved 16 Oct 2026)."
+  },
+  {
+    "Source_ID": "SRC037",
+    "Source_Title": "Pier in Woodlands Waterfront Park — OpenStreetMap way 508463755",
+    "Author_or_Organisation": "OpenStreetMap contributors",
+    "Source_Type": "Geographic database (open data)",
+    "Publication_Date": "",
+    "Source_URL": "https://www.openstreetmap.org/way/508463755",
+    "Document_Reference": "Version 4, read 16 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [
+      "LOC015"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Open Database Licence (ODbL)",
+    "Verification_Notes": "Pier outline 1.452802–1.455512 N, 103.777546–103.779071 E; the path on it is named 'Woodlands Jetty'. Used only for the pin position (shore end at 1.452821, 103.7785).",
+    "Is_Placeholder": false,
+    "Public_Status": "Listed: relied on",
+    "Public_Note": "Added in v5.2 for N4 (approved 16 Oct 2026)."
+  }
+]

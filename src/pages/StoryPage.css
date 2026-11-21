@@ -1,0 +1,43 @@
+.story-filters { display: grid; gap: var(--s-4); padding-block: var(--s-5); border-block: 1px solid var(--c-rule); }
+.story-filters__row { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) minmax(0, 1fr); gap: var(--s-4); }
+.input-icon { position: relative; display: flex; }
+.input-icon svg { position: absolute; left: var(--s-3); top: 50%; transform: translateY(-50%); color: var(--c-ink-soft); pointer-events: none; }
+.input-icon .input { width: 100%; padding-left: 2.2rem; }
+.story-filters__cats { display: grid; gap: var(--s-2); }
+.story-filters__summary { display: flex; gap: var(--s-4); align-items: center; font-size: var(--fs-sm); color: var(--c-ink-soft); }
+.story-filters__clear { border: 0; background: none; padding: 0; cursor: pointer; color: var(--c-ink); }
+
+.story-body { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr); gap: var(--s-7); padding-block: var(--s-6) var(--s-8); align-items: start; }
+.story-body__detail {
+  position: sticky;
+  top: calc(var(--header-h) + var(--s-4));
+  max-height: calc(100vh - var(--header-h) - var(--s-6));
+  overflow-y: auto;
+  padding: var(--s-6);
+  background: var(--c-offwhite);
+  border-top: 2px solid var(--c-brass);
+  animation: page-in var(--t-med) var(--ease-out);
+}
+.story-body__detail > article { animation: page-in var(--t-med) var(--ease-out); }
+
+.story-sheet { position: fixed; inset: 0; z-index: 2200; display: flex; align-items: flex-end; }
+.story-sheet__backdrop { position: absolute; inset: 0; background: rgba(7, 26, 43, 0.55); animation: lb-in var(--t-med) var(--ease-out); }
+.story-sheet__panel {
+  position: relative;
+  width: 100%;
+  max-height: 88vh;
+  overflow-y: auto;
+  padding: var(--s-5) var(--gutter) var(--s-7);
+  background: var(--c-offwhite);
+  border-top: 2px solid var(--c-brass);
+  animation: sheet-up var(--t-med) var(--ease-out);
+}
+@keyframes sheet-up { from { transform: translateY(40px); opacity: 0; } to { transform: none; opacity: 1; } }
+
+@media (max-width: 959px) {
+  .story-body { grid-template-columns: 1fr; }
+}
+@media (max-width: 640px) {
+  .story-filters__row { grid-template-columns: 1fr 1fr; }
+  .story-filters__search { grid-column: 1 / -1; }
+}

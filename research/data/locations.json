@@ -1,0 +1,1453 @@
+[
+  {
+    "Location_ID": "LOC001",
+    "Location_Name": "Yarrow shipyard, Scotstoun, Glasgow",
+    "Location_Name_MS": "Limbungan Yarrow, Scotstoun, Glasgow",
+    "Country": "United Kingdom",
+    "Latitude": 55.88,
+    "Longitude": -4.342,
+    "Location_Type": "Shipyard",
+    "Description": "Where the ship was built as Black Star (yard number 2284) and launched on 29 December 1966. Pin placed at an approximate port position; the ship's slipway is not recorded.",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate position of the yard — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate position of the yard — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC002",
+    "Location_Name": "Portsmouth Dockyard",
+    "Location_Name_MS": "Limbungan Portsmouth",
+    "Country": "United Kingdom",
+    "Latitude": 50.801,
+    "Longitude": -1.109,
+    "Location_Type": "Naval Dockyard",
+    "Description": "Moved here from the Clyde in April 1972 for Royal Navy completion. Departure point of the 1977 voyage home. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "'for Royal Navy completion' removed: not stated in the cited sources.",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate position of the yard — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate position of the yard — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC003",
+    "Location_Name": "Chatham Dockyard",
+    "Location_Name_MS": "Limbungan Chatham",
+    "Country": "United Kingdom",
+    "Latitude": 51.398,
+    "Longitude": 0.527,
+    "Location_Type": "Naval Dockyard",
+    "Description": "Refitted here to Royal Navy standards after the move south in April 1972, before commissioning as HMS Mermaid in May 1973. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC016",
+      "SRC019"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "R1: SRC019 removed from the public citation.",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate position of the yard — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate position of the yard — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC004",
+    "Location_Name": "Southampton",
+    "Location_Name_MS": "Southampton",
+    "Country": "United Kingdom",
+    "Latitude": 50.897,
+    "Longitude": -1.39,
+    "Location_Type": "Port",
+    "Description": "Place of the handover and commissioning ceremony of KD Hang Tuah on 22 July 1977, as given in the TLDM briefing, Utusan Malaysia (19 October 1977) and the TLDM album of the ceremony. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC019",
+      "SRC003",
+      "SRC038",
+      "SRC044",
+      "SRC052"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "D-01: published on SRC038 p.5, SRC044 and SRC052.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC019",
+          "SRC003"
+        ],
+        "After": [
+          "SRC019",
+          "SRC003",
+          "SRC038",
+          "SRC044",
+          "SRC052"
+        ],
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published (trimmed)",
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D1: Southampton withheld until panel 3 is fully re-photographed or a primary source is consulted.",
+        "After": "D-01: published on SRC038 p.5, SRC044 and SRC052.",
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "Place of commissioning as KD Hang Tuah on 22 July 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "After": "Place of the handover and commissioning ceremony of KD Hang Tuah on 22 July 1977, as given in the TLDM briefing, Utusan Malaysia (19 October 1977) and the TLDM album of the ceremony. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC005",
+    "Location_Name": "Singapore",
+    "Location_Name_MS": "Singapura",
+    "Country": "Singapore",
+    "Latitude": 1.29,
+    "Longitude": 103.85,
+    "Location_Type": "Port",
+    "Description": "HMS Mermaid was based in Singapore in 1974 and 1975. Representative point only; her base berth is not recorded.",
+    "Source_IDs": [
+      "SRC016",
+      "SRC017",
+      "SRC046"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "D-03: published with EVT009 (SRC046).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Needs Verification",
+        "After": "Verified",
+        "Evidence": "SRC046",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC016",
+          "SRC017"
+        ],
+        "After": [
+          "SRC016",
+          "SRC017",
+          "SRC046"
+        ],
+        "Evidence": "SRC046",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published (trimmed)",
+        "Evidence": "SRC046",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: Needs Verification (Far East service dates unconfirmed).",
+        "After": "D-03: published with EVT009 (SRC046).",
+        "Evidence": "SRC046",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Location_Name",
+        "Before": "Singapore (Far East service)",
+        "After": "Singapore",
+        "Evidence": "SRC046",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Location_Name_MS",
+        "Before": "Singapura (perkhidmatan Timur Jauh)",
+        "After": "Singapura",
+        "Evidence": "SRC046",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "HMS Mermaid was based at Singapore during her Far East service. Representative point only; her base berth is not recorded.",
+        "After": "HMS Mermaid was based in Singapore in 1974 and 1975. Representative point only; her base berth is not recorded.",
+        "Evidence": "SRC046",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Representative point — base berth not recorded",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Titik wakil — tempat kapal berpangkalan tidak direkodkan",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Representative point — base berth not recorded",
+    "Coordinate_Basis_MS": "Titik wakil — tempat kapal berpangkalan tidak direkodkan"
+  },
+  {
+    "Location_ID": "LOC006",
+    "Location_Name": "Waters off Iceland (Cod War)",
+    "Location_Name_MS": "Perairan Iceland (Perang Ikan Kod)",
+    "Country": "Iceland",
+    "Latitude": 65.5,
+    "Longitude": -11.5,
+    "Location_Type": "Sea area",
+    "Description": "Area patrolled by HMS Mermaid during the Third Cod War, 1976. Representative point for a sea area, not a recorded position.",
+    "Source_IDs": [
+      "SRC016",
+      "SRC019",
+      "SRC028"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published as Illustrative",
+    "Public_Note": "D4: labelled 'Illustrative sea area — not a recorded position'. R1: 'Third Cod War, 1976' rested on Wikipedia; SRC028 not relied on.",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Illustrative — not a recorded position",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Ilustrasi — bukan kedudukan yang direkodkan",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Illustrative — not a recorded position",
+    "Coordinate_Basis_MS": "Ilustrasi — bukan kedudukan yang direkodkan"
+  },
+  {
+    "Location_ID": "LOC007",
+    "Location_Name": "Casablanca",
+    "Location_Name_MS": "Casablanca",
+    "Country": "Morocco",
+    "Latitude": 33.61,
+    "Longitude": -7.61,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1977 voyage home, named in a Ministry of Defence statement reported by Watan (13 October 1977), by Berita Harian (15 October 1977) and by the commanding officer (Utusan Malaysia, 15 October 1977), and labelled on the route map of the on-board panel. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001",
+      "SRC041",
+      "SRC042",
+      "SRC043"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "D-01: confirmed by SRC041–SRC043 (and the panel map).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Needs Verification",
+        "After": "Verified",
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001"
+        ],
+        "After": [
+          "SRC001",
+          "SRC041",
+          "SRC042",
+          "SRC043"
+        ],
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published",
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: shown on the panel map only.",
+        "After": "D-01: confirmed by SRC041–SRC043 (and the panel map).",
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "Labelled on the route map of the 'Kepulangan ke Tanahair' panel; not mentioned in the panel text and no date given. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "After": "Port of call on the 1977 voyage home, named in a Ministry of Defence statement reported by Watan (13 October 1977), by Berita Harian (15 October 1977) and by the commanding officer (Utusan Malaysia, 15 October 1977), and labelled on the route map of the on-board panel. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC008",
+    "Location_Name": "Alexandria",
+    "Location_Name_MS": "Iskandariah",
+    "Country": "Egypt",
+    "Latitude": 31.19,
+    "Longitude": 29.87,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1977 voyage home ('Aleksandariah' in Watan, 'Iskandariah' in Utusan Malaysia), named in a Ministry of Defence statement reported by Watan (13 October 1977), by Berita Harian (15 October 1977) and by the commanding officer (Utusan Malaysia, 15 October 1977), and labelled on the route map of the on-board panel. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001",
+      "SRC041",
+      "SRC042",
+      "SRC043"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "D-01: confirmed by SRC041–SRC043 (and the panel map).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Needs Verification",
+        "After": "Verified",
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001"
+        ],
+        "After": [
+          "SRC001",
+          "SRC041",
+          "SRC042",
+          "SRC043"
+        ],
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published",
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: shown on the panel map only.",
+        "After": "D-01: confirmed by SRC041–SRC043 (and the panel map).",
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "Labelled on the route map of the 'Kepulangan ke Tanahair' panel; not mentioned in the panel text and no date given. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "After": "Port of call on the 1977 voyage home ('Aleksandariah' in Watan, 'Iskandariah' in Utusan Malaysia), named in a Ministry of Defence statement reported by Watan (13 October 1977), by Berita Harian (15 October 1977) and by the commanding officer (Utusan Malaysia, 15 October 1977), and labelled on the route map of the on-board panel. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC009",
+    "Location_Name": "Jeddah",
+    "Location_Name_MS": "Jeddah",
+    "Country": "Saudi Arabia",
+    "Latitude": 21.47,
+    "Longitude": 39.17,
+    "Location_Type": "Port",
+    "Description": "Seven-day call from 10 to 17 September 1977, documented on the on-board panel. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC010",
+    "Location_Name": "Abu Dhabi",
+    "Location_Name_MS": "Abu Dhabi",
+    "Country": "United Arab Emirates",
+    "Latitude": 24.52,
+    "Longitude": 54.38,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1977 voyage home, named in the TLDM briefing (p.6) and in 1977 newspaper reports (a Ministry of Defence statement and the commanding officer). The route map on the on-board panel gives the country as Saudi Arabia; Abu Dhabi is in the United Arab Emirates. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001",
+      "SRC038",
+      "SRC041",
+      "SRC042",
+      "SRC043"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "D-01: confirmed by SRC038 p.6 and SRC041–SRC043; the map's 'Saudi Arabia' is corrected to the United Arab Emirates in the public text (country field was already correct). The map label is kept in research (RPT029).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Disputed",
+        "After": "Verified",
+        "Evidence": "SRC038 p.6; SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001"
+        ],
+        "After": [
+          "SRC001",
+          "SRC038",
+          "SRC041",
+          "SRC042",
+          "SRC043"
+        ],
+        "Evidence": "SRC038 p.6; SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published",
+        "Evidence": "SRC038 p.6; SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D3: panel text and map label conflict; withheld from the public map.",
+        "After": "D-01: confirmed by SRC038 p.6 and SRC041–SRC043; the map's 'Saudi Arabia' is corrected to the United Arab Emirates in the public text (country field was already correct). The map label is kept in research (RPT029).",
+        "Evidence": "SRC038 p.6; SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "Named as a port of call in the panel text. The panel map labels it 'Abu Dabi, Saudi Arabia' and its arrow does not point to the Gulf, so the identification is disputed. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "After": "Port of call on the 1977 voyage home, named in the TLDM briefing (p.6) and in 1977 newspaper reports (a Ministry of Defence statement and the commanding officer). The route map on the on-board panel gives the country as Saudi Arabia; Abu Dhabi is in the United Arab Emirates. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "Evidence": "SRC038 p.6; SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC011",
+    "Location_Name": "Muscat",
+    "Location_Name_MS": "Muscat",
+    "Country": "Oman",
+    "Latitude": 23.63,
+    "Longitude": 58.57,
+    "Location_Type": "Port",
+    "Description": "Named as a port of call in the panel text; date not given. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC012",
+    "Location_Name": "Colombo",
+    "Location_Name_MS": "Colombo",
+    "Country": "Sri Lanka",
+    "Latitude": 6.95,
+    "Longitude": 79.85,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1977 voyage home, named in the panel text. The ship left Colombo on 9 October 1977 (Watan, 13 October 1977; Berita Harian, 15 October 1977); the panel map gives the same date as the planned departure. The arrival date is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001",
+      "SRC041",
+      "SRC042"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "Phase 2: actual departure on 9 October 1977 from SRC041 and SRC042.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001"
+        ],
+        "After": [
+          "SRC001",
+          "SRC041",
+          "SRC042"
+        ],
+        "Evidence": "SRC041; SRC042",
+        "Decision": "Phase 2"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "Planned departure labelled as planned.",
+        "After": "Phase 2: actual departure on 9 October 1977 from SRC041 and SRC042.",
+        "Evidence": "SRC041; SRC042",
+        "Decision": "Phase 2"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "Named as a port of call in the panel text; the panel map gives a planned departure (ETD) of 9 October 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "After": "Port of call on the 1977 voyage home, named in the panel text. The ship left Colombo on 9 October 1977 (Watan, 13 October 1977; Berita Harian, 15 October 1977); the panel map gives the same date as the planned departure. The arrival date is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+        "Evidence": "SRC041; SRC042",
+        "Decision": "Phase 2"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC013",
+    "Location_Name": "Port Klang",
+    "Location_Name_MS": "Pelabuhan Klang",
+    "Country": "Malaysia",
+    "Latitude": 3.0,
+    "Longitude": 101.39,
+    "Location_Type": "Port",
+    "Description": "First Malaysian port reached, at 9.00 am on 14 October 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC014",
+    "Location_Name": "Malacca",
+    "Location_Name_MS": "Melaka",
+    "Country": "Malaysia",
+    "Latitude": 2.19,
+    "Longitude": 102.25,
+    "Location_Type": "Port",
+    "Description": "Two-day call on 16 and 17 October 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC015",
+    "Location_Name": "TLDM Woodlands base (KD Malaya), Singapore",
+    "Location_Name_MS": "Pangkalan TLDM Woodlands (KD Malaya), Singapura",
+    "Country": "Singapore",
+    "Latitude": 1.44889,
+    "Longitude": 103.78083,
+    "Location_Type": "Naval Base",
+    "Description": "Royal Malaysian Navy base at Woodlands, Singapore, until 1997. KD Hang Tuah arrived here on 18 October 1977. Coordinates from Wikipedia.",
+    "Source_IDs": [
+      "SRC001",
+      "SRC026"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "R1: 'until 1997' rested on Wikipedia only and is withheld. N4 (approved 16 Oct 2026): public pin moved from the Wikipedia coordinate 1.44889, 103.78083 (kept in this record) to 1.452821, 103.7785, the shore end of the former base jetty; cited to NParks (SRC035), NHB (SRC036) and the OSM pier outline (SRC037); SRC026 (Wikipedia) no longer relied on. Evidence for the new pin: research/data/coordinate_review.json.",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Shore end of the former base jetty — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Hujung darat jeti bekas pangkalan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Shore end of the former base jetty — not the ship's berth",
+    "Coordinate_Basis_MS": "Hujung darat jeti bekas pangkalan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC016",
+    "Location_Name": "Lumut Naval Base, Perak",
+    "Location_Name_MS": "Pangkalan TLDM Lumut, Perak",
+    "Country": "Malaysia",
+    "Latitude": 4.22833,
+    "Longitude": 100.61167,
+    "Location_Type": "Naval Base",
+    "Description": "TLDM headquarters from 1984. Scene of the 2018 museum-ship designation, the 2025 decommissioning and the 2026 handover. Coordinates from Wikipedia; the museum's future berth has not been published.",
+    "Source_IDs": [
+      "SRC027",
+      "SRC007",
+      "SRC009",
+      "SRC012"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "R1/R2: the 1984 move cited to SRC006; Wikipedia used for the provisional pin coordinates only. N5 (16 Oct 2026, not approved for replacement): pin kept provisionally and labelled as not independently verified; owner's candidate 4.237655, 100.613708 kept as Needs Verification in coordinate_review.json. Limitations and next steps: research/data/coordinate_review.json.",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Provisional pin (Wikipedia coordinates, not independently verified)",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Pin sementara (koordinat Wikipedia, belum disahkan secara bebas)",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Provisional pin (Wikipedia coordinates, not independently verified)",
+    "Coordinate_Basis_MS": "Pin sementara (koordinat Wikipedia, belum disahkan secara bebas)"
+  },
+  {
+    "Location_ID": "LOC017",
+    "Location_Name": "Malaysia Shipyard & Engineering, Pasir Gudang",
+    "Location_Name_MS": "Malaysia Shipyard & Engineering, Pasir Gudang",
+    "Country": "Malaysia",
+    "Latitude": 1.45,
+    "Longitude": 103.9,
+    "Location_Type": "Shipyard",
+    "Description": "Shipyard (now Malaysia Marine and Heavy Engineering) where the 1995–1997 re-engining was carried out. Pin placed at an approximate port position; the ship's position in the yard is not recorded.",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate position of the yard — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate position of the yard — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC018",
+    "Location_Name": "Tunisia",
+    "Location_Name_MS": "Tunisia",
+    "Country": "Tunisia",
+    "Latitude": 36.81,
+    "Longitude": 10.3,
+    "Location_Type": "Port",
+    "Description": "Illustrative pin — not a recorded position. Tunisia is named as a port of call on the 1977 voyage home by a Ministry of Defence statement (Watan, 13 October 1977) and Berita Harian (15 October 1977); the commanding officer named Tunis (Utusan Malaysia, 15 October 1977). The port and dates of the call are not recorded, so the pin is placed at Tunis for illustration only.",
+    "Source_IDs": [
+      "SRC041",
+      "SRC042",
+      "SRC043"
+    ],
+    "Verification": "Illustrative",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published as Illustrative",
+    "Public_Note": "Phase 2: new place (D-01: illustrative pin (the port is not recorded); not a route stop.). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC041; SRC042; SRC043",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Illustrative — not a recorded position",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Ilustrasi — bukan kedudukan yang direkodkan",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Illustrative — not a recorded position",
+    "Coordinate_Basis_MS": "Ilustrasi — bukan kedudukan yang direkodkan"
+  },
+  {
+    "Location_ID": "LOC019",
+    "Location_Name": "Kuching (Pending)",
+    "Location_Name_MS": "Kuching (Pending)",
+    "Country": "Malaysia",
+    "Latitude": 1.56,
+    "Longitude": 110.39,
+    "Location_Type": "Port",
+    "Description": "KD Hang Tuah berthed at the Datuk Amar Sim Kheng Hong Port, Pending, during her May 1983 visit to Kuching. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC045"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new place (D-04). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC045",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC020",
+    "Location_Name": "Darwin",
+    "Location_Name_MS": "Darwin",
+    "Country": "Australia",
+    "Latitude": -12.47,
+    "Longitude": 130.85,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1985 South Pacific training cruise; the date of the call is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC048",
+      "SRC047"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new place (D-04). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC048; SRC047",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC021",
+    "Location_Name": "Suva",
+    "Location_Name_MS": "Suva",
+    "Country": "Fiji",
+    "Latitude": -18.13,
+    "Longitude": 178.42,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1985 South Pacific training cruise (a three-day visit); the date is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC047",
+      "SRC048"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new place (D-04). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC047; SRC048",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC022",
+    "Location_Name": "Nuku'alofa",
+    "Location_Name_MS": "Nuku'alofa",
+    "Country": "Tonga",
+    "Latitude": -21.13,
+    "Longitude": -175.2,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1985 South Pacific training cruise ('Tonga' in the Post-Courier); the date is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC047",
+      "SRC048"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new place (D-04). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC047; SRC048",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC023",
+    "Location_Name": "Port Moresby",
+    "Location_Name_MS": "Port Moresby",
+    "Country": "Papua New Guinea",
+    "Latitude": -9.47,
+    "Longitude": 147.15,
+    "Location_Type": "Port",
+    "Description": "Four-day visit from 31 July 1985 on the South Pacific training cruise. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC048"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new place (D-04). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC048",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC024",
+    "Location_Name": "Ho Chi Minh City (Saigon Port)",
+    "Location_Name_MS": "Bandar Raya Ho Chi Minh (Pelabuhan Saigon)",
+    "Country": "Vietnam",
+    "Latitude": 10.76,
+    "Longitude": 106.71,
+    "Location_Type": "Port",
+    "Description": "Three-day visit from 26 July 2000, when KD Hang Tuah led three Royal Malaysian Navy ships to Saigon Port. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC049"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new place (D-04). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC049",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC025",
+    "Location_Name": "Sandakan",
+    "Location_Name_MS": "Sandakan",
+    "Country": "Malaysia",
+    "Latitude": 5.84,
+    "Longitude": 118.12,
+    "Location_Type": "Port",
+    "Description": "Two-day visit from 24 September 2007; the ship was open to the public at the naval base. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC050"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new place (D-04). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC050",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC026",
+    "Location_Name": "Aden",
+    "Location_Name_MS": "Aden",
+    "Country": "Yemen",
+    "Latitude": 12.79,
+    "Longitude": 44.98,
+    "Location_Type": "Port",
+    "Description": "Port of call during the Op Fajar deployment in 2009, when the commanding officer called on the Governor of Aden. The date of the call is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC055"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "v6.1 item 5: port-call detail of Op Fajar; withheld from the public map. Evidence kept (SRC055).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Published",
+        "After": "Withheld",
+        "Evidence": "item 5",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "Phase 2: new place (D-05). Coordinates are an approximate port position chosen for the map, not taken from a source.",
+        "After": "v6.1 item 5: port-call detail of Op Fajar; withheld from the public map. Evidence kept (SRC055).",
+        "Evidence": "item 5",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis",
+        "Before": "(absent)",
+        "After": "Approximate port position — not the ship's berth",
+        "Evidence": "the record's description",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      },
+      {
+        "Version": "v6.2",
+        "Date": "2026-11-04",
+        "Field": "Coordinate_Basis_MS",
+        "Before": "(absent)",
+        "After": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh",
+        "Evidence": "Malay of Coordinate_Basis",
+        "Decision": "v6.2 verified-content integration (display of existing evidence; no historical change)"
+      }
+    ],
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  }
+]

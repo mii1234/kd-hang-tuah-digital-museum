@@ -1,0 +1,16 @@
+{
+  "_comment": "Research only (never built or served). Terms that must not appear in the public data: operational details of Op Fajar excluded by D-05 and v6.1 item 5. Kept in research/ so that tests/ does not itself list them; tests/verifiedFirst.test.mjs reads this file.",
+  "Forbidden_In_Public_Data": [
+    "PASKAL",
+    "LIVERPOOL",
+    "CHELSEA",
+    "KGT 30.2",
+    "Gugus Tugas",
+    "Fennec",
+    "Eagle Stavanger",
+    "Sri Perak",
+    "Salalah",
+    "Governor of Aden",
+    "Gabenor Aden"
+  ]
+}

@@ -1,0 +1,24 @@
+/* Print: clean historical records without navigation, maps or controls. */
+@media print {
+  @page { margin: 18mm; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  .site-header, .site-footer, .demo-notice, .skip-link, .no-print, .story-filters, .lifestrip,
+  .voyage-layout__map, .leaflet-container, .lightbox, .search-dialog, .btn, .icon-btn, .chips { display: none !important; }
+  .on-dark, .on-navy, .on-offwhite { background: #fff !important; color: #000 !important; }
+  .on-dark *, .on-navy * { color: #000 !important; }
+  .page-enter, .reveal { animation: none !important; opacity: 1 !important; transform: none !important; }
+  /* When a single record is open on the timeline page, print only that record */
+  .story-body { display: block !important; }
+  .story-body__list { display: none !important; }
+  .story-body__detail { position: static !important; max-height: none !important; overflow: visible !important; padding: 0 !important; border: 0 !important; }
+  .story-sheet { position: static !important; }
+  .story-sheet__backdrop { display: none !important; }
+  .story-sheet__panel { max-height: none !important; overflow: visible !important; padding: 0 !important; }
+  body:has(.story-sheet) main { display: none !important; }
+  .print-record { break-inside: avoid; }
+  a { text-decoration: none; }
+  .source-refs a[href^='http']::after { content: ' (' attr(href) ')'; font-size: 9pt; }
+  .imgframe__placeholder { display: none; }
+  .vbadge { border-color: #000 !important; color: #000 !important; }
+  .demo-tag { background: none !important; color: #000 !important; border: 1px solid #000; }
+}

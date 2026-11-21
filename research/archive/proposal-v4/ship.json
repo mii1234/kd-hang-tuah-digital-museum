@@ -1,0 +1,395 @@
+{
+  "_comment": "Vessel profile. Every field carries a verification status and source IDs from sources.json.",
+  "Ship_Name": "KD Hang Tuah",
+  "Pennant_Number": {
+    "Value": "F76",
+    "Verification": "Verified",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC019"
+    ]
+  },
+  "Historical_Names": [
+    {
+      "Name": "Black Star",
+      "Navy": "Ordered for the Ghana Navy (never delivered)",
+      "From": "",
+      "To": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016"
+      ],
+      "Notes": "Intended name for Ghana's flagship and presidential yacht. The order was cancelled after the February 1966 coup."
+    },
+    {
+      "Name": "HMS Mermaid (F76)",
+      "Navy": "Royal Navy",
+      "From": "1973",
+      "To": "1977",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC017"
+      ],
+      "Notes": "Commissioned 16 May 1973; transferred to Malaysia in 1977."
+    },
+    {
+      "Name": "KD Hang Tuah (F76)",
+      "Navy": "Royal Malaysian Navy (TLDM)",
+      "From": "1977",
+      "To": "2025",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC007",
+        "SRC009"
+      ],
+      "Notes": "Commissioned 22 July 1977; decommissioned 3 December 2025. Named after Laksamana Hang Tuah. The name had previously been carried by a Loch-class frigate (ex-HMS Loch Insh, F433), which she replaced."
+    }
+  ],
+  "Summary": "KD Hang Tuah (F76) served the Royal Malaysian Navy from 1977 to 2025. Built on the Clyde as Black Star for Ghana and commissioned in the Royal Navy as HMS Mermaid, she sailed to Malaysia in 1977 and spent nearly five decades in Malaysian service. Each field below shows whether it has been checked against a source.",
+  "Sections": [
+    {
+      "Section_ID": "black-star",
+      "Title": "Black Star: built for Ghana",
+      "Body": "Ordered by Ghana under President Kwame Nkrumah as Black Star, the ship was to be the Ghana Navy's flagship and a presidential yacht. Yarrow Shipbuilders built her at Scotstoun, Glasgow (yard number 2284), basing the design on the Royal Navy's Type 41 and Type 61 frigates but with a flush-decked hull and a single streamlined funnel. After Nkrumah was overthrown in February 1966 the order was cancelled, and Yarrow launched the unfinished ship without ceremony on 29 December 1966. She then lay unsold on the Clyde for several years.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC017"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "hms-mermaid",
+      "Title": "HMS Mermaid, 1973–1977",
+      "Body": "Bought for the Royal Navy, she was moved to Portsmouth in April 1972, refitted at Chatham and commissioned as HMS Mermaid (F76) on 16 May 1973. Lightly armed for a frigate, she was sent to the Far East and based at Singapore. Back in home waters she patrolled off Iceland during the Third Cod War, where she was involved in collisions with Icelandic Coast Guard vessels. On 20 September 1976 the minesweeper HMS Fittleton sank after colliding with her, with the loss of twelve lives. Her Royal Navy service ended in 1977.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC017",
+        "SRC022",
+        "SRC023"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "voyage-home",
+      "Title": "The voyage home, 1977",
+      "Body": "Commissioned as KD Hang Tuah on 22 July 1977, the ship left Portsmouth on 15 August 1977. According to the panels on board, she called at Jeddah, where the crew spent seven days, performed the Umrah and celebrated Hari Raya Aidilfitri, and at Abu Dhabi, Muscat and Colombo, before arriving at Port Klang on 14 October. After two days at Malacca she reached the TLDM base at Woodlands, Singapore, on 18 October 1977.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC001",
+        "SRC007",
+        "SRC009"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "malaysian-service",
+      "Title": "Service in the Royal Malaysian Navy",
+      "Body": "Among the largest ships in the fleet when she arrived, KD Hang Tuah served as one of the TLDM's front-line vessels until newer warships took over that role. On 9 September 1984 she carried the navy's royal colours as the TLDM moved from Woodlands to Lumut. She later became mainly a training ship with the 21st Frigate Squadron, and took part in exercises at home and abroad, including Malindo Jaya, Emas Hitam, Milan, Kakadu and LIMA. Some sources describe her as the navy's flagship, alternating with KD Rahmat; this has not yet been confirmed by an official source, and the year her training role began is disputed (the 1980s or 1992).",
+      "Verification": "Needs Verification",
+      "Source_IDs": [
+        "SRC009",
+        "SRC006",
+        "SRC007",
+        "SRC019"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "re-engining",
+      "Title": "Re-engining, 1994–1997",
+      "Body": "By the 1990s the ship's eight Admiralty Standard Range diesels, a 1940s design, were worn and genuine spare parts were hard to obtain. After ministerial approval in August 1994, the TLDM awarded Wärtsilä the contract on 22 August 1995 for two 12SW28 main engines and three generator sets. The ship was towed to Malaysia Shipyard & Engineering at Pasir Gudang on 9 October 1995, and the work, costing RM24 million, was accepted by the TLDM in February 1997.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC002"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "preservation",
+      "Title": "Decommissioning and the museum project",
+      "Body": "Designated the navy's museum ship on 21 November 2018 while remaining in commission, KD Hang Tuah was formally decommissioned at Lumut on 3 December 2025. On 27 July 2026 she was handed to the Perak state government, which plans to open her as the Memorial Muzium Kapal Diraja Hang Tuah in 2027.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC007",
+        "SRC008",
+        "SRC009",
+        "SRC012",
+        "SRC014"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    }
+  ],
+  "Specifications": [
+    {
+      "Key": "ship_type",
+      "Label": "Ship type",
+      "Label_MS": "Jenis kapal",
+      "Value": "Frigate (general purpose); later a training ship",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC009"
+      ]
+    },
+    {
+      "Key": "builder",
+      "Label": "Builder",
+      "Label_MS": "Pembina",
+      "Value": "Yarrow Shipbuilders, Scotstoun, Glasgow (yard no. 2284)",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC019",
+        "SRC020"
+      ]
+    },
+    {
+      "Key": "laid_down",
+      "Label": "Laid down",
+      "Label_MS": "Peletakan lunas",
+      "Value": "1965",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": [
+        "SRC018"
+      ]
+    },
+    {
+      "Key": "launched",
+      "Label": "Launched",
+      "Label_MS": "Dilancarkan",
+      "Value": "29 December 1966",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC017"
+      ]
+    },
+    {
+      "Key": "commissioning",
+      "Label": "Commissioning dates",
+      "Label_MS": "Tarikh pentauliahan",
+      "Value": "16 May 1973 (Royal Navy); 22 July 1977 (Royal Malaysian Navy)",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC007",
+        "SRC009"
+      ]
+    },
+    {
+      "Key": "decommissioned",
+      "Label": "Decommissioned",
+      "Label_MS": "Dilucutkan tauliah",
+      "Value": "3 December 2025",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC009",
+        "SRC010",
+        "SRC011"
+      ]
+    },
+    {
+      "Key": "length",
+      "Label": "Length",
+      "Label_MS": "Panjang",
+      "Value": "103.5 m (339 ft 7 in) overall. The Clydeships record gives 344 ft 9 in (about 105.1 m).",
+      "Unit": "",
+      "Verification": "Disputed",
+      "Source_IDs": [
+        "SRC016",
+        "SRC019",
+        "SRC009",
+        "SRC015"
+      ]
+    },
+    {
+      "Key": "beam",
+      "Label": "Beam",
+      "Label_MS": "Lebar",
+      "Value": "12.2 m (40 ft)",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC019"
+      ]
+    },
+    {
+      "Key": "draught",
+      "Label": "Draught",
+      "Label_MS": "Draf",
+      "Value": "4.9 m (16 ft 1 in). The Clydeships record gives 12 ft (about 3.7 m).",
+      "Unit": "",
+      "Verification": "Disputed",
+      "Source_IDs": [
+        "SRC019",
+        "SRC015"
+      ]
+    },
+    {
+      "Key": "displacement",
+      "Label": "Displacement",
+      "Label_MS": "Sesaran",
+      "Value": "2,300 tons standard",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC016",
+        "SRC015",
+        "SRC009"
+      ]
+    },
+    {
+      "Key": "propulsion_original",
+      "Label": "Propulsion (as built)",
+      "Label_MS": "Pendorongan (asal)",
+      "Value": "Eight Admiralty Standard Range (ASR1) 16-cylinder diesels, 14,400 bhp, two shafts",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC002",
+        "SRC018"
+      ]
+    },
+    {
+      "Key": "propulsion_1997",
+      "Label": "Propulsion (from 1997)",
+      "Label_MS": "Pendorongan (dari 1997)",
+      "Value": "Two Wärtsilä 12SW28 main diesels",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC002"
+      ]
+    },
+    {
+      "Key": "power_1997",
+      "Label": "Power (from 1997)",
+      "Label_MS": "Kuasa (dari 1997)",
+      "Value": "9,928 bhp (7,403 kW)",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": [
+        "SRC018"
+      ]
+    },
+    {
+      "Key": "speed",
+      "Label": "Speed (as built)",
+      "Label_MS": "Kelajuan (asal)",
+      "Value": "24 knots",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC009"
+      ]
+    },
+    {
+      "Key": "speed_1997",
+      "Label": "Speed (from 1997)",
+      "Label_MS": "Kelajuan (dari 1997)",
+      "Value": "About 20 knots",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": [
+        "SRC018"
+      ]
+    },
+    {
+      "Key": "range",
+      "Label": "Range (as built)",
+      "Label_MS": "Jarak pelayaran (asal)",
+      "Value": "4,800 nautical miles at 18 knots",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": [
+        "SRC018"
+      ]
+    },
+    {
+      "Key": "crew",
+      "Label": "Crew",
+      "Label_MS": "Anak kapal",
+      "Value": "177 officers and men in Royal Navy service; 210 is also cited",
+      "Unit": "",
+      "Verification": "Disputed",
+      "Source_IDs": [
+        "SRC016",
+        "SRC019"
+      ]
+    },
+    {
+      "Key": "armament_original",
+      "Label": "Armament (as built)",
+      "Label_MS": "Persenjataan (asal)",
+      "Value": "Twin 4-inch (102 mm) Mk XVI guns in a Mk 19 mounting; four 40 mm Bofors; one anti-submarine mortar (sources differ: Squid or Limbo Mk 10)",
+      "Unit": "",
+      "Verification": "Disputed",
+      "Source_IDs": [
+        "SRC016",
+        "SRC019",
+        "SRC020"
+      ]
+    },
+    {
+      "Key": "armament_refit",
+      "Label": "Armament (after refit)",
+      "Label_MS": "Persenjataan (selepas baik pulih)",
+      "Value": "One 57 mm Bofors; two 40 mm Bofors",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": [
+        "SRC019",
+        "SRC017"
+      ]
+    },
+    {
+      "Key": "sensors_original",
+      "Label": "Sensors (as built)",
+      "Label_MS": "Penderia (asal)",
+      "Value": "Plessey AWS-1 air-search radar and a navigation radar; hull sonars Type 170 and 176 (other sources: Type 170B and 174)",
+      "Unit": "",
+      "Verification": "Disputed",
+      "Source_IDs": [
+        "SRC016",
+        "SRC019"
+      ]
+    }
+  ],
+  "Hero_Image_URL": "/images/ship/kd-hang-tuah-exterior.jpg",
+  "Hero_Image_Caption": "KD Hang Tuah at Lumut. Photograph to be supplied by the project",
+  "Hero_Image_Credit": "",
+  "Is_Demo_Data": false
+}

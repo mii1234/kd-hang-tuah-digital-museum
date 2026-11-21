@@ -1,0 +1,11 @@
+.source-refs { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s-3); }
+.source-refs li { display: grid; gap: 2px; padding-left: var(--s-3); border-left: 1px solid var(--c-brass); }
+.source-refs__title { font-family: var(--f-serif); text-decoration: none; }
+.source-refs__title:hover { text-decoration: underline; }
+.source-refs__meta { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-3); font-size: var(--fs-xs); color: var(--c-ink-soft); }
+.on-dark .source-refs__meta { color: var(--c-on-dark-soft); }
+.source-refs__none { font-size: var(--fs-sm); color: var(--c-ink-soft); font-style: italic; }
+.on-dark .source-refs__none { color: var(--c-on-dark-soft); }
+.page-sources { margin: var(--s-2) 0 0; font-size: var(--fs-xs); color: var(--c-ink-soft); }
+.page-sources__id { color: inherit; }
+.on-dark .page-sources { color: var(--c-on-dark-soft); }

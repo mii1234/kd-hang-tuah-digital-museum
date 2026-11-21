@@ -1,0 +1,625 @@
+[
+ [
+  "Malay text",
+  "EVT003",
+  "Description_MS",
+  "Presiden Nkrumah digulingkan dalam rampasan kuasa dan kerajaan baharu membatalkan tempahan itu, yang bernilai kira-kira £5 juta. Taklimat TLDM menyatakan bahawa tempahan dibatalkan kerana harga kapal terlalu mahal (£5 juta).",
+  "Presiden Nkrumah digulingkan dalam rampasan kuasa, lalu kerajaan baharu Ghana membatalkan tempahan kapal yang bernilai kira-kira £5 juta itu. Menurut taklimat TLDM, tempahan dibatalkan kerana harga kapal terlalu mahal.",
+  "More natural Malay; removes the repeated '£5 juta'. Meaning unchanged."
+ ],
+ [
+  "Malay text",
+  "EVT009",
+  "Description_MS",
+  "Sebagai HMS Mermaid, kapal ini berpangkalan di Singapura pada 1974 dan 1975 semasa berkhidmat dengan Tentera Laut Diraja British di Timur Jauh.",
+  "Sebagai HMS Mermaid, kapal ini berpangkalan di Singapura pada tahun 1974 dan 1975 semasa berkhidmat dengan Tentera Laut Diraja British di Timur Jauh.",
+  "'pada tahun 1974 dan 1975' reads more naturally."
+ ],
+ [
+  "Malay text",
+  "EVT012",
+  "Description_MS",
+  "Pada 6 Mei 1976, semasa Perang Ikan Kod (Cod Wars), HMS Mermaid bertembung dengan kapal Pengawal Pantai Iceland, Baldur. Sebuah papan gambar sezaman merakamkan peristiwa ini dengan kapsyen 'ICGV Baldur's can opening technique as attempted on H.M.S. Mermaid on 6th May 76'.",
+  "Pada 6 Mei 1976, semasa Perang Ikan Kod (Cod Wars), HMS Mermaid berhadapan dengan kapal Pengawal Pantai Iceland, Baldur, dalam satu insiden. Sebuah papan gambar sezaman merakamkan insiden ini dengan kapsyen 'ICGV Baldur's can opening technique as attempted on H.M.S. Mermaid on 6th May 76'.",
+  "Item 1: 'bertembung' can imply a collision; 'berhadapan dengan … dalam satu insiden' is neutral, matching the English 'encounter'."
+ ],
+ [
+  "Malay text",
+  "EVT015",
+  "Event_Title_MS",
+  "Diletakkan dalam perkhidmatan TLDM",
+  "Mula berkhidmat dalam TLDM",
+  "Item 2: more natural Malay. The TLDM wording 'diletakkan dalam perkhidmatan TLDM' is still quoted in the research notes (SRC038 p.5)."
+ ],
+ [
+  "Malay text",
+  "EVT015",
+  "Description_MS",
+  "HMS Mermaid diletakkan dalam perkhidmatan Tentera Laut Diraja Malaysia pada 16 Mei 1977 untuk ditauliahkan sebagai KD Hang Tuah dengan mengekalkan nombor penant F76. Kapal ini menggantikan KD Hang Tuah (F433) yang terdahulu, iaitu bekas HMS Loch Insh.",
+  "HMS Mermaid mula berkhidmat dalam Tentera Laut Diraja Malaysia pada 16 Mei 1977, sebelum ditauliahkan sebagai KD Hang Tuah dengan mengekalkan nombor penant F76. Kapal ini menggantikan KD Hang Tuah (F433) yang terdahulu, iaitu bekas HMS Loch Insh.",
+  "Item 2: 'mula berkhidmat'; keeps the distinction from the 22 July 1977 commissioning ('sebelum ditauliahkan'). 'nombor penant' kept (see item 3)."
+ ],
+ [
+  "Malay text",
+  "EVT016",
+  "Description_MS",
+  "KD Hang Tuah ditauliahkan ke dalam Tentera Laut Diraja Malaysia di Southampton pada 22 Julai 1977 dalam upacara penyerahan yang mengikut tradisi tentera laut. Upacara penamaan kapal disempurnakan oleh Datin Badariah, dan ucapan pentauliahan disampaikan oleh Pegawai Memerintahnya, Leftenan Kolonel (Laut) Tuan Hashim bin Tuan Mohamed. Kapal ini dinamakan sempena Laksamana Hang Tuah dan mengekalkan nombor penant F76.",
+  "KD Hang Tuah ditauliahkan dalam perkhidmatan Tentera Laut Diraja Malaysia di Southampton pada 22 Julai 1977 dalam upacara penyerahan yang mengikut tradisi tentera laut. Upacara penamaan kapal disempurnakan oleh Datin Badariah, dan ucapan pentauliahan disampaikan oleh Pegawai Memerintahnya, Leftenan Kolonel (Laut) Tuan Hashim bin Tuan Mohamed. Kapal ini dinamakan sempena Laksamana Hang Tuah dan mengekalkan nombor penant F76.",
+  "'ditauliahkan dalam perkhidmatan' instead of 'ditauliahkan ke dalam'. Item 3: 'nombor penant' kept — it is the TLDM's own Malay spelling ('No Penant : F76', SRC038 p.2; 'mengekalkan nombor penant F76', p.5)."
+ ],
+ [
+  "Malay text",
+  "EVT034",
+  "Description_MS",
+  "KD Hang Tuah melawat Kuching dan berlabuh di Pelabuhan Datuk Amar Sim Kheng Hong, Pending. Ini ialah lawatan keduanya sejak 1977. Laporan akhbar menyatakan bahawa kapal ini bertanggungjawab untuk tugas latihan laut dan rondaan.",
+  "KD Hang Tuah melawat Kuching dan bersandar di Pelabuhan Datuk Amar Sim Kheng Hong, Pending. Ini ialah lawatan keduanya sejak 1977. Laporan akhbar menyatakan bahawa kapal ini bertanggungjawab untuk tugas latihan laut dan rondaan.",
+  "'bersandar' (alongside) matches the English 'berthing at'; 'berlabuh' means anchoring."
+ ],
+ [
+  "Malay text",
+  "EVT037",
+  "Description_MS",
+  "KD Hang Tuah mengetuai tiga buah kapal Tentera Laut Diraja Malaysia, bersama KD Kelewang dan KD Kris, dalam lawatan selama tiga hari ke Bandar Raya Ho Chi Minh dan berlabuh di Pelabuhan Saigon pada 26 Julai 2000. Akhbar The Saigon Times menyifatkannya sebagai kapal latihan bagi pegawai simpanan.",
+  "KD Hang Tuah mengetuai tiga buah kapal Tentera Laut Diraja Malaysia, bersama KD Kelewang dan KD Kris, dalam lawatan selama tiga hari ke Bandar Raya Ho Chi Minh dan bersandar di Pelabuhan Saigon pada 26 Julai 2000. Akhbar The Saigon Times menyifatkannya sebagai kapal latihan bagi pegawai simpanan.",
+  "'bersandar' (alongside) matches 'berthing at'."
+ ],
+ [
+  "Malay text",
+  "EVT038",
+  "Description_MS",
+  "Menurut taklimat TLDM, tahun 2000 ialah tahun terakhir mortar anti-kapal selam Limbo Mk10 kapal ini, yang terletak di geladak penerbangan, beroperasi.",
+  "Menurut taklimat TLDM, tahun 2000 ialah tahun terakhir mortar antikapal selam Limbo Mk10 kapal ini, yang terletak di geladak penerbangan, beroperasi.",
+  "Standard spelling 'antikapal selam'."
+ ],
+ [
+  "Malay text",
+  "EVT039",
+  "Description_MS",
+  "Captain's Barge dan Sea Boat Whaler, yang telah digunakan hampir 35 tahun, digantikan dengan bot kembung tegar (RHIB) 7.62 m pada Oktober 2001.",
+  "Captain's Barge dan Sea Boat Whaler, yang telah digunakan hampir 35 tahun, digantikan dengan Rigid Inflatable Boat (RHIB) 7.62 m pada Oktober 2001.",
+  "Keeps the TLDM's own term 'Rigid Inflatable Boat (RHIB)' (SRC038 p.13) instead of a coined Malay term."
+ ],
+ [
+  "Malay text",
+  "EVT041",
+  "Event_Title_MS",
+  "Kerja slipping selesai",
+  "Kerja slipping selesai (unchanged)",
+  "Item 4: not changed. The TLDM record says 'SELESAI SLIPPING' (SRC038 p.19). 'Naik dok' means dry-docking; slipping (hauling the ship onto a slipway) is a different process, so 'naik dok' would not represent the record accurately."
+ ],
+ [
+  "Op Fajar",
+  "EVT029",
+  "Description",
+  "On 4 February 2009 KD Hang Tuah sailed from Lumut for Op FAJAR 03/2008, the TLDM operation to escort Malaysian merchant ships safely through the Gulf of Aden, where ships were being seized by pirates. On 13 February 2009, in waters off Salalah, Oman, she took over the task from KD Sri Indera Sakti. During the deployment she called at Salalah and at Aden, where her commanding officer called on the Governor of Aden. She returned to Lumut on 14 May 2009, 100 days after sailing.",
+  "On 4 February 2009 KD Hang Tuah sailed from Lumut for Op FAJAR 03/2008, the TLDM operation to escort Malaysian merchant ships safely through the Gulf of Aden, where ships were being seized by pirates. She took over the task from KD Sri Indera Sakti and returned to Lumut on 14 May 2009, 100 days after sailing.",
+  "Item 5: handover location (Salalah), port calls (Salalah, Aden) and the courtesy call removed from public text; departure, mission, handover from KD Sri Indera Sakti and return kept (SRC040 pp.2, 4, 5, 16)."
+ ],
+ [
+  "Op Fajar",
+  "EVT029",
+  "Description_MS",
+  "Pada 4 Februari 2009 KD Hang Tuah belayar dari Lumut untuk Op FAJAR 03/2008, operasi TLDM bagi mengiringi kapal-kapal dagang milik Malaysia dengan selamat melalui Teluk Aden, tempat kapal-kapal dirampas oleh lanun. Pada 13 Februari 2009, di perairan Salalah, Oman, kapal ini mengambil alih tugas daripada KD Sri Indera Sakti. Sepanjang penugasan, kapal ini singgah di Salalah dan Aden, tempat Pegawai Memerintahnya membuat kunjungan hormat kepada Gabenor Aden. Kapal ini kembali ke Lumut pada 14 Mei 2009, 100 hari selepas belayar.",
+  "Pada 4 Februari 2009 KD Hang Tuah belayar dari Lumut untuk Op FAJAR 03/2008, operasi TLDM bagi mengiringi kapal-kapal dagang milik Malaysia dengan selamat melalui Teluk Aden, tempat kapal-kapal dirampas oleh lanun. Kapal ini mengambil alih tugas tersebut daripada KD Sri Indera Sakti dan kembali ke Lumut pada 14 Mei 2009, 100 hari selepas belayar.",
+  "Item 5: handover location (Salalah), port calls (Salalah, Aden) and the courtesy call removed from public text; departure, mission, handover from KD Sri Indera Sakti and return kept (SRC040 pp.2, 4, 5, 16)."
+ ],
+ [
+  "Op Fajar",
+  "EVT029",
+  "Historical_Notes",
+  "From a first-hand account by a TLDM officer on board, 'Noktah Pelayaran Op FAJAR 03/2008' (pp.2, 4, 7 and 16), and an Aden newspaper report. Details of the forces embarked, the route and the ships escorted are not published.",
+  "From a first-hand account by a TLDM officer on board, 'Noktah Pelayaran Op FAJAR 03/2008' (pp.2, 4, 5 and 16). Operational details are not published.",
+  "Item 5: handover location (Salalah), port calls (Salalah, Aden) and the courtesy call removed from public text; departure, mission, handover from KD Sri Indera Sakti and return kept (SRC040 pp.2, 4, 5, 16)."
+ ],
+ [
+  "Op Fajar",
+  "EVT029",
+  "Location_ID",
+  "LOC026",
+  null,
+  "Item 5: handover location (Salalah), port calls (Salalah, Aden) and the courtesy call removed from public text; departure, mission, handover from KD Sri Indera Sakti and return kept (SRC040 pp.2, 4, 5, 16)."
+ ],
+ [
+  "Op Fajar",
+  "EVT029",
+  "Source_IDs",
+  [
+   "SRC040",
+   "SRC055",
+   "SRC013"
+  ],
+  [
+   "SRC040",
+   "SRC013"
+  ],
+  "Item 5: handover location (Salalah), port calls (Salalah, Aden) and the courtesy call removed from public text; departure, mission, handover from KD Sri Indera Sakti and return kept (SRC040 pp.2, 4, 5, 16)."
+ ],
+ [
+  "Op Fajar",
+  "LOC026 Aden",
+  "(public record)",
+  "Published pin",
+  "Withheld (research register only)",
+  "Item 5: a port-call detail."
+ ],
+ [
+  "Sources page",
+  "SRC001",
+  "Document_Reference",
+  "Photograph IMG_8987.HEIC (iPhone 16), taken on board KD Hang Tuah, 30 September 2026, centre panel",
+  "On-board panel, centre section; photographed by the project on board KD Hang Tuah, 30 September 2026.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC002",
+  "Document_Reference",
+  "Photograph IMG_8987.HEIC (iPhone 16), taken on board KD Hang Tuah, 30 September 2026, left panel",
+  "On-board panel, left section; photographed by the project on board KD Hang Tuah, 30 September 2026.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC003",
+  "Document_Reference",
+  "Photograph IMG_8987.HEIC (iPhone 16), taken on board KD Hang Tuah, 30 September 2026, right panel (mostly outside the frame)",
+  "On-board panel, right section (mostly outside the photograph); photographed by the project on board KD Hang Tuah, 30 September 2026.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC004",
+  "Source_Title",
+  "Site-visit list of decks and spaces ('compoment kd hang tuah.txt')",
+  "Site-visit list of decks and spaces (project field notes)",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC005",
+  "Document_Reference",
+  "Photograph IMG_20260930_141741.jpg (realme Note 50), 30 September 2026",
+  "Photograph of a technical drawing, taken by the project on 30 September 2026.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC015",
+  "Document_Reference",
+  "Read from the screenshot 'documen hng tuah.png' (the site blocks automated access)",
+  "Read from a screenshot of the online record (the site blocks automated access).",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC018",
+  "Document_Reference",
+  "Copied in 'document history of hangtuah.docx'",
+  "Copy of the web page held in the project's research notes.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC020",
+  "Document_Reference",
+  "Screenshots in 'wikipedia kdhangtuah.docx'",
+  "Screenshots held in the project's research notes.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC028",
+  "Document_Reference",
+  "File 'coast guard.jpeg' in the research folder",
+  "Image of the caption held in the project's research notes.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC038",
+  "Document_Reference",
+  "File gambar kdhangtuah/Pengenalan KD HANG TUAH F76.pptx.pdf (Google Slides export, 39 pages). Pages used: 2 (specifications), 4 (origins), 5 (transfer and commissioning), 6 (voyage home), 7 (welcome at Woodlands), 8 (role), 9 (re-engining), 10 (Limbo Mk10), 11 (guns), 12 (STD and training bridge), 13 (boats), 16 (later Chiefs of Navy), 17 (awards), 19 (slipping), 28–32 (deck plans), 33–38 (labelled interior photographs).",
+  "TLDM briefing deck, 39 pages. Pages cited: 2 (specifications), 4 (origins), 5 (transfer and commissioning), 6 (voyage home), 7 (welcome at Woodlands), 8 (role), 9 (re-engining), 10 (Limbo Mk10), 11 (guns), 12 (training bridge), 13 (boats), 14 and 16 (commanding officers), 17 (awards), 19 (slipping), 28–32 (deck plans), 33–38 (labelled interior photographs).",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC039",
+  "Document_Reference",
+  "File gambar kdhangtuah/MANTAN PEGAWAI MEMERINTAH KD HANG TUAH.docx.pdf, 1 page, 39 entries (22 Jul 77 – 27 Jul 26).",
+  "TLDM list, 1 page, 39 entries (22 July 1977 – 27 July 2026).",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC040",
+  "Document_Reference",
+  "File gambar kdhangtuah/Noktah Pelayaran Op FAJAR 03-2008 KD HANG TUAH.pdf, 16 pages; identical copy inside the Op Fajar journal zip (gambar kdhangtuah/08 KD HANG TUAH-20261104T041330Z-1-001.zip :: Jurnal Pelayaran OP FAJAR 3_08 KD HANG TUAH/). Pages used: 2 (sailing from Lumut, 4 Feb 2009), 4 (handover from KD Sri Indera Sakti off Salalah, 13 Feb 2009), 5 (escort of Malaysian merchant ships), 7 (call at Salalah), 16 (return, 14 May 2009, 100 days).",
+  "Account, 16 pages. Pages cited: 2, 4, 5 and 16.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC041",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/13 OKTOBER 1977-SELAMAT PULANG KD HANG TUAH.JPG",
+  "Watan, 13 October 1977. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC041",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC042",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/14 OKTOBER 1977 (ok)- TEPUNG TAWAR KD HANG TUAH - GAMBAR .JPG",
+  "Berita Harian, Saturday 15 October 1977. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC042",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC043",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/14 OKTOBER 1977 (ok)- IBRAHIM DIBERI PENGHORMATAN TEPUNG TAWAR KD HANG TUAH.JPG",
+  "Utusan Malaysia, 15 October 1977 (dateline Kelang, 14 October). Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC043",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC044",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/14 OKTOBER 1977 (ok) - TEPUNG TAWAR KD HANG TUAH - GAMBAR 2.JPG",
+  "Utusan Malaysia, 19 October 1977. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC044",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC045",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/1.jpg",
+  "Undated newspaper clipping (title not visible); the album page carries a handwritten heading giving 5–9 May 1983. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC045",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC046",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/18.jpg",
+  "Undated Hong Kong newspaper clipping (title not visible). Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC046",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC047",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/26.jpg and 28.jpg",
+  "Fiji Sun, two undated clippings (1985). Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC047",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC048",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/33.jpg and 34.jpg",
+  "Post-Courier, 30 July 1985; Niugini Nius, 1 August 1985. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC048",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC049",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/57.jpg",
+  "The Saigon Times, Thursday 27 July 2000. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC049",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC050",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/KD HANG TUAH di SANDAKAn 2007.jpg",
+  "New Times Sabah, Tuesday 25 September 2007. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC050",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC051",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/HMS Mermaid 1976.jpg",
+  "Photo board with captioned photographs (1976), held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC051",
+  "Rights_Status",
+  "Photographs belong to their maker. Not published.",
+  "Photographs belong to their maker; they are not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC052",
+  "Source_Title",
+  "Album: Upacara Penamaan dan Pertauliahan KD Hang Tuah di Southamptom",
+  "TLDM photograph album: naming and commissioning ceremony at Southampton, 1977",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC052",
+  "Author_or_Organisation",
+  "TLDM photograph album 'Album F76'",
+  "Royal Malaysian Navy (TLDM) photograph album",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC052",
+  "Document_Reference",
+  "gambar kdhangtuah/Album F76-20261104T042957Z-1-001.zip :: Album F76/UPACARA PENAMAAN DAN PERTAULIAHAN KD HANG TUAH DI SOUTHAMPTOM/ (8 photographs: 2, 3, 4, 5, 6, 8, 9, 10.jpg; scanned 7 Jul 2015)",
+  "Album section of 8 photographs; the section title names the naming and commissioning ceremony at Southampton. No captions on the prints.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC052",
+  "Rights_Status",
+  "Not published (D-09).",
+  "Photographs are not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC053",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/16.jpg and 8.jpg",
+  "Two undated clippings from Western Australian newspapers. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC053",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC054",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/13.jpg, 14.jpg, 4.jpg and 3.jpg",
+  "Clippings and programmes, 1978–1979. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC054",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC055",
+  "Source_Title",
+  "Governor of Aden receives the captain of the Malaysian training ship",
+  "Arabic-language newspaper report on KD Hang Tuah, 2009",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC055",
+  "Author_or_Organisation",
+  "Arabic-language newspaper, Aden (title not visible)",
+  "Arabic-language newspaper (title not visible)",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC055",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/Courtesy Call CO KDHT kepada Governer of Aden semasa OP FAJAR 3.jpg; see also the photograph folder gambar kdhangtuah/08 KD HANG TUAH-20261104T041330Z-1-001.zip :: Jurnal Pelayaran OP FAJAR 3_08 KD HANG TUAH/ADEN, YEMEN/",
+  "Undated clipping. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC055",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC055",
+  "Verification_Notes",
+  "Newspaper report. Used for the call at Aden during Op Fajar.",
+  "Newspaper report from the 2009 deployment. Not relied on for any claim on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC056",
+  "Source_Title",
+  "Album: Pelancaran KD Hang Tuah sbg Muzium 2018",
+  "TLDM photograph album: launch of KD Hang Tuah as a museum ship, 2018",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC056",
+  "Author_or_Organisation",
+  "TLDM photograph album 'Album F76'",
+  "Royal Malaysian Navy (TLDM) photograph album",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC056",
+  "Document_Reference",
+  "gambar kdhangtuah/Album F76-20261104T042957Z-1-001.zip :: Album F76/Pelancaran KD Hang Tuah sbg Muzium 2018/ (71 photographs)",
+  "Album section of 71 photographs; a banner in the photographs reads 'Majlis Pelancaran Kapal Muzium TLDM'.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC056",
+  "Rights_Status",
+  "Not published (D-09).",
+  "Photographs are not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC057",
+  "Document_Reference",
+  "gambar kdhangtuah/keratan akhbar KD Hang Tuah-20261104T042354Z-1-001.zip :: keratan akhbar KD Hang Tuah/58.jpg",
+  "Magazine page and invitation card. Newspaper clipping held in the TLDM clippings album.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC057",
+  "Rights_Status",
+  "Newspaper clipping in the album 'keratan akhbar KD Hang Tuah' supplied by the TLDM. Copyright belongs to the newspaper; the clipping is not published.",
+  "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+  "Item 6: public text without local paths, archive names or file names; the research register keeps the original reference."
+ ],
+ [
+  "Sources page",
+  "SRC055",
+  "Relied_On",
+  true,
+  false,
+  "Item 5: no public record cites it after the Op Fajar text was reduced."
+ ],
+ [
+  "Ship page",
+  "Commanding_Officers",
+  "Note",
+  "This list may not be complete. It has 3 periods with no commanding officer listed — between entries 4 and 5 (16 December 1980 to 24 May 1981); between entries 8 and 9 (12 August 1986 to 10 November 1986); between entries 10 and 11 (4 February 1989 to 11 October 1991) — and 2 overlapping entries: entries 15 and 16 overlap (23 December 1998 to 31 December 1998); entries 25 and 26 overlap (24 May 2007 to 23 August 2007). These are shown as they appear in the source and are still being checked.",
+  "This list may not be complete. It has 3 periods with no commanding officer listed — between entries 4 and 5 (16 December 1980 to 24 May 1981); between entries 8 and 9 (12 August 1986 to 10 November 1986); between entries 10 and 11 (4 February 1989 to 11 October 1991) — and 2 overlaps: entries 15 and 16 (23 December 1998 to 31 December 1998); entries 25 and 26 (24 May 2007 to 23 August 2007). These are shown as they appear in the source and are still being checked.",
+  "Wording: no repeated 'overlap'/'bertindih'; same 3 gaps and 2 overlaps."
+ ],
+ [
+  "Ship page",
+  "Commanding_Officers",
+  "Note_MS",
+  "Senarai ini mungkin tidak lengkap. Terdapat 3 tempoh tanpa Pegawai Memerintah yang disenaraikan — antara entri 4 dan 5 (16 Disember 1980 hingga 24 Mei 1981); antara entri 8 dan 9 (12 Ogos 1986 hingga 10 November 1986); antara entri 10 dan 11 (4 Februari 1989 hingga 11 Oktober 1991) — dan 2 entri yang bertindih: entri 15 dan 16 bertindih (23 Disember 1998 hingga 31 Disember 1998); entri 25 dan 26 bertindih (24 Mei 2007 hingga 23 Ogos 2007). Semuanya dipaparkan seperti dalam sumber dan masih disemak.",
+  "Senarai ini mungkin tidak lengkap. Terdapat 3 tempoh tanpa Pegawai Memerintah yang disenaraikan — antara entri 4 dan 5 (16 Disember 1980 hingga 24 Mei 1981); antara entri 8 dan 9 (12 Ogos 1986 hingga 10 November 1986); antara entri 10 dan 11 (4 Februari 1989 hingga 11 Oktober 1991) — dan 2 pertindihan: entri 15 dan 16 (23 Disember 1998 hingga 31 Disember 1998); entri 25 dan 26 (24 Mei 2007 hingga 23 Ogos 2007). Semua butiran dipaparkan seperti dalam sumber dan masih dalam semakan.",
+  "Wording: no repeated 'overlap'/'bertindih'; same 3 gaps and 2 overlaps."
+ ],
+ [
+  "Ship page",
+  "Commanding_Officers No.2",
+  "Later_MS",
+  "Kemudian Panglima Tentera Laut ke-8",
+  "Kemudiannya menjadi Panglima Tentera Laut ke-8",
+  "More natural Malay."
+ ],
+ [
+  "Ship page",
+  "Commanding_Officers No.6",
+  "Later_MS",
+  "Kemudian Panglima Tentera Laut ke-11",
+  "Kemudiannya menjadi Panglima Tentera Laut ke-11",
+  "More natural Malay."
+ ],
+ [
+  "Ship page",
+  "Commanding_Officers No.8",
+  "Later_MS",
+  "Kemudian Panglima Tentera Laut ke-12",
+  "Kemudiannya menjadi Panglima Tentera Laut ke-12",
+  "More natural Malay."
+ ],
+ [
+  "Ship page",
+  "Commanding_Officers No.9",
+  "Later_MS",
+  "Kemudian Panglima Tentera Laut ke-13",
+  "Kemudiannya menjadi Panglima Tentera Laut ke-13",
+  "More natural Malay."
+ ]
+]

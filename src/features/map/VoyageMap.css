@@ -1,0 +1,138 @@
+.voyage-map { position: relative; height: 100%; min-height: 320px; background: var(--c-sea-tint); }
+.voyage-map__canvas {
+  position: absolute;
+  inset: 0;
+  font-family: var(--f-sans);
+  /* plain chart graticule shows through if tiles are missing */
+  background-color: var(--c-sea-tint);
+  background-image:
+    linear-gradient(to right, rgba(66, 106, 122, 0.14) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(66, 106, 122, 0.14) 1px, transparent 1px);
+  background-size: 64px 64px;
+}
+/* Archival chart treatment of the base map, applied to tiles only (not to route or markers) */
+.voyage-map .leaflet-tile-pane { filter: grayscale(0.85) sepia(0.28) brightness(1.04) contrast(0.92); opacity: 0.92; }
+.voyage-map.is-offline .leaflet-tile-pane { display: none; }
+
+.voyage-map__offline {
+  position: absolute;
+  left: var(--s-3);
+  right: 60px;
+  top: var(--s-3);
+  z-index: 500;
+  margin: 0;
+  max-width: none;
+  padding: var(--s-2) var(--s-3);
+  background: var(--c-offwhite);
+  border-left: 2px solid var(--c-v-needs);
+  font-size: var(--fs-xs);
+}
+.voyage-map__stamp {
+  position: absolute;
+  left: var(--s-3);
+  bottom: var(--s-6);
+  z-index: 450;
+  margin: 0;
+  padding: 2px var(--s-2);
+  border: 1px dashed var(--c-navy);
+  background: rgba(250, 249, 246, 0.85);
+  font-family: var(--f-mono);
+  font-size: 0.6875rem;
+  color: var(--c-navy);
+  pointer-events: none;
+}
+
+/* Route lines */
+.route-line { stroke: var(--c-navy); stroke-width: 1.6; fill: none; stroke-linecap: round; }
+.route-line--schematic { stroke-dasharray: 2 7; stroke-opacity: 0.8; }
+.route-line--supported { stroke-opacity: 0.9; }
+.route-trail { stroke: var(--c-brass); stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-opacity: 0.95; }
+.route-waypoint { stroke: var(--c-navy); stroke-width: 1; fill: var(--c-offwhite); fill-opacity: 1; stroke-opacity: 0.55; }
+
+/* Location pins: shape + fill encode verification (not colour alone) */
+.loc-pin-wrap { background: none; border: 0; }
+.loc-pin {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  cursor: pointer;
+}
+.loc-pin__dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid var(--c-navy);
+  background: var(--c-navy);
+  transition: transform var(--t-fast) var(--ease-out);
+  box-shadow: 0 0 0 2px var(--c-offwhite);
+}
+.loc-pin--needs .loc-pin__dot { background: var(--c-offwhite); box-shadow: 0 0 0 2px var(--c-offwhite), inset 0 0 0 2.5px var(--c-offwhite), inset 0 0 0 6px var(--c-navy); }
+.loc-pin--illustrative .loc-pin__dot { background: var(--c-offwhite); border-width: 1.5px; width: 11px; height: 11px; }
+.loc-pin--disputed .loc-pin__dot { border-radius: 2px; transform: rotate(45deg); }
+.loc-pin.is-other { opacity: 0.45; }
+.loc-pin:hover .loc-pin__dot { transform: scale(1.25); }
+.loc-pin--disputed:hover .loc-pin__dot { transform: rotate(45deg) scale(1.25); }
+.loc-pin.is-current .loc-pin__dot, .loc-pin.is-selected .loc-pin__dot { border-color: var(--c-brass); }
+.loc-pin.is-selected::after, .loc-pin.is-current::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 1.5px solid var(--c-brass);
+}
+
+/* Ship marker */
+.ship-marker { background: none; border: 0; pointer-events: none; }
+.ship-marker__hull {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  transform: rotate(var(--heading, 0deg));
+  transition: transform var(--t-med) var(--ease-out);
+}
+.ship-marker__ring {
+  position: absolute;
+  inset: 6px;
+  border-radius: 50%;
+  border: 1.5px solid var(--c-brass);
+  background: rgba(250, 249, 246, 0.55);
+}
+.ship-marker.is-playing .ship-marker__ring { animation: ship-ring 1.8s var(--ease-out) infinite; }
+@keyframes ship-ring {
+  0% { transform: scale(0.8); opacity: 0.9; }
+  100% { transform: scale(1.45); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ship-marker.is-playing .ship-marker__ring { animation: none; }
+}
+
+/* Leaflet chrome restyled to match the exhibition */
+.voyage-map .leaflet-control-zoom { border: 1px solid var(--c-rule-strong); border-radius: var(--radius); box-shadow: none; }
+.voyage-map .leaflet-control-zoom a { width: 36px; height: 36px; line-height: 34px; color: var(--c-navy); background: var(--c-offwhite); border-radius: 0 !important; }
+.voyage-map .leaflet-control-zoom a:hover { background: var(--c-paper); }
+.voyage-map .leaflet-control-attribution { font-size: 0.6875rem; background: rgba(250, 249, 246, 0.85); }
+.voyage-map .leaflet-container a.leaflet-popup-close-button { width: 32px; height: 32px; font-size: 20px; }
+
+.loc-popup .leaflet-popup-content-wrapper { border-radius: var(--radius); background: var(--c-offwhite); color: var(--c-ink); box-shadow: 0 10px 30px rgba(7, 26, 43, 0.25); border-top: 2px solid var(--c-brass); }
+.loc-popup .leaflet-popup-tip { background: var(--c-offwhite); }
+.loc-popup .leaflet-popup-content { margin: var(--s-4); min-width: 220px; max-width: 280px; font-size: var(--fs-sm); line-height: 1.45; }
+.loc-popup__name { font-family: var(--f-serif); font-size: var(--fs-md); margin: 0 0 2px !important; padding-right: var(--s-4); }
+.loc-popup__coords { margin: 0 0 var(--s-2) !important; color: var(--c-ink-soft); font-size: 0.75rem; }
+.loc-popup__desc { margin: var(--s-2) 0 0 !important; color: var(--c-ink-soft); font-size: var(--fs-xs); }
+.loc-popup__events { margin-top: var(--s-3); border-top: 1px solid var(--c-rule); padding-top: var(--s-2); }
+.loc-popup__label { margin: 0 0 var(--s-1) !important; font-weight: 600; font-size: var(--fs-xs); }
+.loc-popup__events ul { list-style: none; margin: 0; padding: 0; }
+.loc-popup__events button {
+  display: flex; flex-direction: column; align-items: flex-start; width: 100%;
+  padding: var(--s-1) var(--s-2); margin-left: calc(var(--s-2) * -1);
+  border: 0; border-left: 2px solid transparent; background: none; text-align: left; cursor: pointer; font-size: var(--fs-xs);
+}
+.loc-popup__events button:hover, .loc-popup__events button.is-selected { border-left-color: var(--c-brass); background: var(--c-paper); }
+.loc-popup__events .mono { font-size: 0.6875rem; color: var(--c-brass-ink); }
+
+.loc-card__desc { font-size: var(--fs-sm); margin: var(--s-2) 0 0; }
+.loc-popup__basis { margin: 0 0 var(--s-2) !important; font-size: 0.75rem; color: var(--c-ink-soft); font-style: italic; }
+.loc-card__basis { margin: var(--s-1) 0 0; font-size: 0.75rem; font-style: italic; }

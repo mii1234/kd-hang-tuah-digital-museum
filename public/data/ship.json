@@ -1,0 +1,849 @@
+{
+  "_comment": "Vessel profile. Every field carries a verification status and source IDs from sources.json.",
+  "Ship_Name": "KD Hang Tuah",
+  "Pennant_Number": {
+    "Value": "F76",
+    "Verification": "Verified",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016"
+    ]
+  },
+  "Historical_Names": [
+    {
+      "Name": "Black Star",
+      "Navy": "Ordered for the Ghana Navy (never delivered)",
+      "From": "",
+      "To": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC017"
+      ],
+      "Notes": "Intended name for Ghana's flagship and presidential yacht. The order was cancelled after a coup in Ghana in 1966."
+    },
+    {
+      "Name": "HMS Mermaid (F76)",
+      "Navy": "Royal Navy",
+      "From": "1973",
+      "To": "1977",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC017"
+      ],
+      "Notes": "Commissioned 16 May 1973; transferred to Malaysia in 1977."
+    },
+    {
+      "Name": "KD Hang Tuah (F76)",
+      "Navy": "Royal Malaysian Navy (TLDM)",
+      "From": "1977",
+      "To": "2025",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC007",
+        "SRC009",
+        "SRC016",
+        "SRC024",
+        "SRC038"
+      ],
+      "Notes": "Placed in TLDM service on 16 May 1977 and commissioned at Southampton on 22 July 1977; decommissioned 3 December 2025. Named after Laksamana Hang Tuah. She replaced an earlier KD Hang Tuah, a Loch-class frigate (ex-HMS Loch Insh, F433)."
+    }
+  ],
+  "Summary": "KD Hang Tuah (F76) served the Royal Malaysian Navy from 1977 to 2025. Built on the Clyde as Black Star for Ghana and commissioned in the Royal Navy as HMS Mermaid, she sailed to Malaysia in 1977 and spent nearly five decades in Malaysian service. Only details confirmed by the sources listed are shown; other fields are marked as still being checked.",
+  "Sections": [
+    {
+      "Section_ID": "black-star",
+      "Title": "Black Star: built for Ghana",
+      "Body": "Ordered by Ghana under President Kwame Nkrumah as Black Star, the ship was to be the Ghana Navy's flagship and a presidential yacht. Yarrow built her at Scotstoun, Glasgow (yard number 2284), basing the design on the Royal Navy's Type 41 and Type 61 frigates but with a flush-decked hull and a single streamlined funnel. After Nkrumah was deposed in a coup the order was cancelled — according to the TLDM briefing, because the price (£5 million) was too high — and Yarrow launched the unfinished ship without ceremony on 29 December 1966. She was then kept at anchor on the Clyde for several years.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC017",
+        "SRC038"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "hms-mermaid",
+      "Title": "HMS Mermaid, 1973–1977",
+      "Body": "Bought for the Royal Navy, she was moved to Portsmouth in April 1972, refitted at Chatham and commissioned as HMS Mermaid (F76) on 16 May 1973. Lightly armed for a frigate, she was sent to the Far East and was based in Singapore in 1974 and 1975. Back in home waters she was involved in the Cod Wars, the fisheries dispute between Britain and Iceland; on 6 May 1976 she had an encounter with the Icelandic Coast Guard vessel Baldur. On 20 September 1976 the minesweeper HMS Fittleton sank after colliding with her, with the loss of twelve lives. Her Royal Navy service ended in 1977: she was placed in Royal Malaysian Navy service on 16 May 1977.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC022",
+        "SRC023",
+        "SRC046",
+        "SRC051",
+        "SRC038"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "voyage-home",
+      "Title": "The voyage home, 1977",
+      "Body": "Commissioned as KD Hang Tuah at Southampton on 22 July 1977, the ship left Portsmouth at 3.00 pm on 15 August 1977. Her ports of call were Casablanca, Tunisia and Alexandria, then, through the Suez Canal, Jeddah — where the crew spent seven days, performed the Umrah and celebrated Hari Raya Aidilfitri — Abu Dhabi, Muscat and Colombo, which she left on 9 October. She arrived at Port Klang on 14 October, where the Chief of the Armed Forces, General Tan Sri Ibrahim Ismail, performed the tepung tawar, and after two days at Malacca reached the TLDM base at Woodlands, Singapore, on 18 October 1977.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC001",
+        "SRC038",
+        "SRC041",
+        "SRC042",
+        "SRC043",
+        "SRC044",
+        "SRC007",
+        "SRC009"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "malaysian-service",
+      "Title": "Service in the Royal Malaysian Navy",
+      "Body": "KD Hang Tuah served in the 21st Frigate Squadron under the Training Flotilla (Flotila Latihan). Her roles were training cadet officers and junior sailors, maritime law enforcement, convoy escort, and search and rescue. On 9 September 1984 she carried the navy's royal colours as the TLDM moved from Woodlands to Lumut. Her visits included Kuching (1983), a South Pacific training cruise to Darwin, Suva, Nuku'alofa and Port Moresby (1985), Ho Chi Minh City (2000) and Sandakan (2007), and in 2009 she deployed to the Gulf of Aden for Op Fajar. She received an International Maritime Organization (IMO) Certificate of Commendation for exceptional services rendered to shipping and mankind, and the Ministry of Defence quality competition awards (Anugerah Pertandingan Kualiti Kementerian Pertahanan) for 2005 and 2006. Four of her commanding officers later became Chief of Navy. Other parts of her Malaysian service record are still being checked against sources.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038",
+        "SRC006",
+        "SRC007",
+        "SRC045",
+        "SRC047",
+        "SRC048",
+        "SRC049",
+        "SRC050",
+        "SRC040"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "re-engining",
+      "Title": "Re-engining, 1994–1997",
+      "Body": "By the 1990s the ship's eight Admiralty Standard Range diesels, a 1940s design, were worn and genuine spare parts were hard to obtain. After ministerial approval in August 1994, the TLDM chose Wärtsilä, which offered two 12SW28 main engines and three type 12V UD 25S generator sets; the date of the contract is given differently by two TLDM sources and is still being checked. The ship was towed to Malaysia Shipyard & Engineering at Pasir Gudang on 9 October 1995, and the work, costing RM24 million, was accepted by the TLDM in February 1997. The TLDM later replaced the twin 4-inch gun with a Bofors 57 mm/L70 because spare parts were hard to obtain, upgraded the two Bofors 40 mm/L60 guns to the L70 model, and converted the Simple Tachyometric Director position above the bridge into a training bridge (Anjungan Latihan); the dates of these changes are not given. The 4-inch gun is now on display at the Muzium TLDM in Melaka.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC002",
+        "SRC038"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    },
+    {
+      "Section_ID": "preservation",
+      "Title": "Decommissioning and the museum project",
+      "Body": "Designated the navy's museum ship on 21 November 2018 while remaining in commission, KD Hang Tuah was formally decommissioned at Lumut on 3 December 2025. On 27 July 2026 she was handed to the Perak state government, which plans to open her as the Memorial Muzium Kapal Diraja Hang Tuah in 2027.",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC007",
+        "SRC008",
+        "SRC009",
+        "SRC012",
+        "SRC014"
+      ],
+      "Image_URL": "",
+      "Image_Caption": "",
+      "Image_Credit": ""
+    }
+  ],
+  "Specifications": [
+    {
+      "Key": "ship_type",
+      "Label": "Ship type",
+      "Label_MS": "Jenis kapal",
+      "Value": "Frigate (general purpose); later a training ship",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC009",
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "builder",
+      "Label": "Builder",
+      "Label_MS": "Pembina",
+      "Value": "Yarrow Shipbuilders, Scotstoun, Glasgow (yard no. 2284)",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC017"
+      ]
+    },
+    {
+      "Key": "laid_down",
+      "Label": "Laid down",
+      "Label_MS": "Peletakan lunas",
+      "Value": "",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": []
+    },
+    {
+      "Key": "launched",
+      "Label": "Launched",
+      "Label_MS": "Dilancarkan",
+      "Value": "29 December 1966",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC017"
+      ]
+    },
+    {
+      "Key": "commissioning",
+      "Label": "Commissioning dates",
+      "Label_MS": "Tarikh pentauliahan",
+      "Value": "16 May 1973 (Royal Navy); placed in TLDM service 16 May 1977; commissioned as KD Hang Tuah at Southampton, 22 July 1977",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC007",
+        "SRC009",
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "decommissioned",
+      "Label": "Decommissioned",
+      "Label_MS": "Dilucutkan tauliah",
+      "Value": "3 December 2025",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC009",
+        "SRC010",
+        "SRC011"
+      ]
+    },
+    {
+      "Key": "length",
+      "Label": "Length",
+      "Label_MS": "Panjang",
+      "Value": "103.5 m",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "beam",
+      "Label": "Beam",
+      "Label_MS": "Lebar",
+      "Value": "12.2 m (40 ft)",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC017",
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "draught",
+      "Label": "Draught",
+      "Label_MS": "Draf",
+      "Value": "4.9 m",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "height",
+      "Label": "Height ('Tinggi', TLDM briefing)",
+      "Label_MS": "Tinggi (taklimat TLDM)",
+      "Value": "22.05 m",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "displacement",
+      "Label": "Displacement",
+      "Label_MS": "Sesaran",
+      "Value": "2,300 tons standard",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC016",
+        "SRC015",
+        "SRC009"
+      ]
+    },
+    {
+      "Key": "berat_kapal",
+      "Label": "Ship's weight ('Berat kapal', TLDM briefing)",
+      "Label_MS": "Berat kapal (taklimat TLDM)",
+      "Value": "2,520 tan (as written)",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "propulsion_original",
+      "Label": "Propulsion (as built)",
+      "Label_MS": "Pendorongan (asal)",
+      "Value": "Eight Admiralty Standard Range (ASR1) 16-cylinder diesels, 14,400 bhp, two shafts",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC002"
+      ]
+    },
+    {
+      "Key": "propulsion_1997",
+      "Label": "Propulsion (from 1997)",
+      "Label_MS": "Pendorongan (dari 1997)",
+      "Value": "Two Wärtsilä 12SW28 main diesels; three Wärtsilä 12V UD 25S generator sets",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC002",
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "power_1997",
+      "Label": "Power (from 1997)",
+      "Label_MS": "Kuasa (dari 1997)",
+      "Value": "",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": []
+    },
+    {
+      "Key": "speed",
+      "Label": "Speed (as built)",
+      "Label_MS": "Kelajuan (asal)",
+      "Value": "24 knots",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC015",
+        "SRC016",
+        "SRC009"
+      ]
+    },
+    {
+      "Key": "speed_1997",
+      "Label": "Speed (from 1997)",
+      "Label_MS": "Kelajuan (dari 1997)",
+      "Value": "",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": []
+    },
+    {
+      "Key": "speed_tldm",
+      "Label": "Speed (TLDM briefing)",
+      "Label_MS": "Kelajuan (taklimat TLDM)",
+      "Value": "Cruising 18 knots; maximum 24 knots",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "range",
+      "Label": "Range (as built)",
+      "Label_MS": "Jarak pelayaran (asal)",
+      "Value": "",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": []
+    },
+    {
+      "Key": "crew",
+      "Label": "Crew",
+      "Label_MS": "Anak kapal",
+      "Value": "",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": []
+    },
+    {
+      "Key": "bunks",
+      "Label": "Bunks ('Jumlah Bunk')",
+      "Label_MS": "Jumlah bunk",
+      "Value": "259",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "armament_original",
+      "Label": "Armament (as built)",
+      "Label_MS": "Persenjataan (asal)",
+      "Value": "Twin 4-inch Mk16 gun ('Meriam Laras Berkembar 4 inci Mk16'); Limbo Mk10 anti-submarine mortar on the flight deck",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "armament_refit",
+      "Label": "Armament (after refit)",
+      "Label_MS": "Persenjataan (selepas baik pulih)",
+      "Value": "One Bofors 57 mm/L70; two Bofors 40 mm/L70 (upgraded from 40 mm/L60). Dates of the changes not given",
+      "Unit": "",
+      "Verification": "Verified",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Key": "sensors_original",
+      "Label": "Sensors (as built)",
+      "Label_MS": "Penderia (asal)",
+      "Value": "",
+      "Unit": "",
+      "Verification": "Needs Verification",
+      "Source_IDs": []
+    }
+  ],
+  "Hero_Image_URL": "/images/ship/kd-hang-tuah-exterior.jpg",
+  "Hero_Image_Caption": "KD Hang Tuah at Lumut. Photograph to be supplied by the project",
+  "Hero_Image_Credit": "",
+  "Is_Demo_Data": false,
+  "Commanding_Officers": {
+    "Title": "Commanding officers, 1977–2026",
+    "Title_MS": "Pegawai Memerintah, 1977–2026",
+    "Intro": "Names, ranks and dates as written in the TLDM list of former commanding officers (ranks are abbreviated in Malay: Lt Kol (Laut) = Lieutenant Colonel (Navy), Kept = Captain, Kdr = Commander, Lt Kdr = Lieutenant Commander). An officer promoted in command appears twice.",
+    "Intro_MS": "Nama, pangkat dan tarikh seperti yang tertulis dalam senarai mantan Pegawai Memerintah TLDM. Pegawai yang dinaikkan pangkat semasa memerintah disenaraikan dua kali.",
+    "Note": "This list may not be complete. It has 3 periods with no commanding officer listed — between entries 4 and 5 (16 December 1980 to 24 May 1981); between entries 8 and 9 (12 August 1986 to 10 November 1986); between entries 10 and 11 (4 February 1989 to 11 October 1991) — and 2 overlaps: entries 15 and 16 (23 December 1998 to 31 December 1998); entries 25 and 26 (24 May 2007 to 23 August 2007). These are shown as they appear in the source and are still being checked.",
+    "Note_MS": "Senarai ini mungkin tidak lengkap. Terdapat 3 tempoh tanpa Pegawai Memerintah yang disenaraikan — antara entri 4 dan 5 (16 Disember 1980 hingga 24 Mei 1981); antara entri 8 dan 9 (12 Ogos 1986 hingga 10 November 1986); antara entri 10 dan 11 (4 Februari 1989 hingga 11 Oktober 1991) — dan 2 pertindihan: entri 15 dan 16 (23 Disember 1998 hingga 31 Disember 1998); entri 25 dan 26 (24 Mei 2007 hingga 23 Ogos 2007). Semua butiran dipaparkan seperti dalam sumber dan masih dalam semakan.",
+    "Gaps": [
+      {
+        "After_No": 4,
+        "Before_No": 5,
+        "From": "1980-12-16",
+        "To": "1981-05-24"
+      },
+      {
+        "After_No": 8,
+        "Before_No": 9,
+        "From": "1986-08-12",
+        "To": "1986-11-10"
+      },
+      {
+        "After_No": 10,
+        "Before_No": 11,
+        "From": "1989-02-04",
+        "To": "1991-10-11"
+      }
+    ],
+    "Overlaps": [
+      {
+        "Entries": [
+          15,
+          16
+        ],
+        "From": "1998-12-23",
+        "To": "1998-12-31"
+      },
+      {
+        "Entries": [
+          25,
+          26
+        ],
+        "From": "2007-05-24",
+        "To": "2007-08-23"
+      }
+    ],
+    "Verification": "Verified",
+    "Source_IDs": [
+      "SRC039",
+      "SRC038"
+    ],
+    "Entries": [
+      {
+        "No": 1,
+        "Rank": "Lt Kol (Laut)",
+        "Name": "Tuan Hashim bin Tuan Mohamed",
+        "From": "1977-07-22",
+        "To": "1977-12-27",
+        "From_As_Written": "22 Jul 77",
+        "To_As_Written": "27 Dis 77"
+      },
+      {
+        "No": 2,
+        "Rank": "Lt Kol (Laut)",
+        "Name": "Shariff bin Ishak",
+        "From": "1977-12-28",
+        "To": "1978-12-28",
+        "From_As_Written": "28 Dis 77",
+        "To_As_Written": "28 Dis 78",
+        "Later": "Later Chief of Navy (8th), as Laksamana Madya Tan Sri Mohd Shariff bin Ishak",
+        "Later_MS": "Kemudiannya menjadi Panglima Tentera Laut ke-8"
+      },
+      {
+        "No": 3,
+        "Rank": "Kdr",
+        "Name": "Abdul Khalid bin Mohd Said",
+        "From": "1978-12-29",
+        "To": "1980-01-06",
+        "From_As_Written": "29 Dis 78",
+        "To_As_Written": "6 Jan 80"
+      },
+      {
+        "No": 4,
+        "Rank": "Kept",
+        "Name": "Ahmad bin Haron",
+        "From": "1980-01-07",
+        "To": "1980-12-15",
+        "From_As_Written": "7 Jan 80",
+        "To_As_Written": "15 Dis 80"
+      },
+      {
+        "No": 5,
+        "Rank": "Kept",
+        "Name": "Nik Anis bin Nik Abdullah",
+        "From": "1981-05-25",
+        "To": "1983-05-25",
+        "From_As_Written": "25 Mei 81",
+        "To_As_Written": "25 Mei 83"
+      },
+      {
+        "No": 6,
+        "Rank": "Kdr",
+        "Name": "Mohd Ramly bin Abu Bakar",
+        "From": "1983-05-26",
+        "To": "1983-12-12",
+        "From_As_Written": "26 Mei 83",
+        "To_As_Written": "12 Dis 83",
+        "Later": "Later Chief of Navy (11th), as Laksamana Tan Sri Mohd Ramly bin Abu Bakar",
+        "Later_MS": "Kemudiannya menjadi Panglima Tentera Laut ke-11"
+      },
+      {
+        "No": 7,
+        "Rank": "Kdr",
+        "Name": "Udin bin Ujud",
+        "From": "1983-12-13",
+        "To": "1984-11-20",
+        "From_As_Written": "13 Dis 83",
+        "To_As_Written": "20 Nov 84"
+      },
+      {
+        "No": 8,
+        "Rank": "Kdr",
+        "Name": "Mohd Anwar bin Mohd Nor",
+        "From": "1984-11-21",
+        "To": "1986-08-11",
+        "From_As_Written": "21 Nov 84",
+        "To_As_Written": "11 Ogos 86",
+        "Later": "Later Chief of Navy (12th), as Laksamana Tan Sri Dato' Anuar bin Hj Mohd Nor",
+        "Later_MS": "Kemudiannya menjadi Panglima Tentera Laut ke-12"
+      },
+      {
+        "No": 9,
+        "Rank": "Kdr",
+        "Name": "Ilyas bin Din",
+        "From": "1986-11-11",
+        "To": "1988-07-01",
+        "From_As_Written": "11 Nov 86",
+        "To_As_Written": "1 Jul 88",
+        "Later": "Later Chief of Navy (13th), as Laksamana Tan Sri Ilyas bin Hj Din",
+        "Later_MS": "Kemudiannya menjadi Panglima Tentera Laut ke-13"
+      },
+      {
+        "No": 10,
+        "Rank": "Lt Kdr",
+        "Name": "Tan Teng Joo",
+        "From": "1988-07-01",
+        "To": "1989-02-03",
+        "From_As_Written": "1 Jul 88",
+        "To_As_Written": "3 Feb 89"
+      },
+      {
+        "No": 11,
+        "Rank": "Kdr",
+        "Name": "Mohamed Sahari bin Hj Sapari",
+        "From": "1991-10-12",
+        "To": "1992-11-23",
+        "From_As_Written": "12 Okt 91",
+        "To_As_Written": "23 Nov 92"
+      },
+      {
+        "No": 12,
+        "Rank": "Kdr",
+        "Name": "Syed Shahrom bin Syed Abdullah",
+        "From": "1992-11-23",
+        "To": "1993-12-19",
+        "From_As_Written": "23 Nov 92",
+        "To_As_Written": "19 Dis 93"
+      },
+      {
+        "No": 13,
+        "Rank": "Lt Kdr",
+        "Name": "Lim Chuan Lee",
+        "From": "1993-12-20",
+        "To": "1995-08-27",
+        "From_As_Written": "20 Dis 93",
+        "To_As_Written": "27 Ogos 95"
+      },
+      {
+        "No": 14,
+        "Rank": "Kdr",
+        "Name": "Adri Juhann Cheah bin Abdullah",
+        "From": "1995-08-28",
+        "To": "1995-11-19",
+        "From_As_Written": "28 Ogos 95",
+        "To_As_Written": "19 Nov 95"
+      },
+      {
+        "No": 15,
+        "Rank": "Kdr",
+        "Name": "Gunaselan a/l Salamuthu",
+        "From": "1995-11-20",
+        "To": "1998-12-31",
+        "From_As_Written": "20 Nov 95",
+        "To_As_Written": "31 Dis 98"
+      },
+      {
+        "No": 16,
+        "Rank": "Lt Kdr",
+        "Name": "Yusof bin Ali",
+        "From": "1998-12-23",
+        "To": "1999-02-24",
+        "From_As_Written": "23 Dis 98",
+        "To_As_Written": "24 Feb 99"
+      },
+      {
+        "No": 17,
+        "Rank": "Kdr",
+        "Name": "Yusof bin Ali",
+        "From": "1999-02-24",
+        "To": "2000-01-03",
+        "From_As_Written": "24 Feb 99",
+        "To_As_Written": "3 Jan 00"
+      },
+      {
+        "No": 18,
+        "Rank": "Kdr",
+        "Name": "Burhanuddin Hayati bin Hashim",
+        "From": "2000-01-04",
+        "To": "2001-03-20",
+        "From_As_Written": "4 Jan 00",
+        "To_As_Written": "20 Mac 01"
+      },
+      {
+        "No": 19,
+        "Rank": "Lt Kdr",
+        "Name": "Abdul Malek bin Mohd Daud",
+        "From": "2001-03-21",
+        "To": "2001-09-19",
+        "From_As_Written": "21 Mac 01",
+        "To_As_Written": "19 Sep 01"
+      },
+      {
+        "No": 20,
+        "Rank": "Kdr",
+        "Name": "Mohamad Onn bin Khalil",
+        "From": "2001-09-20",
+        "To": "2002-11-10",
+        "From_As_Written": "20 Sep 01",
+        "To_As_Written": "10 Nov 02"
+      },
+      {
+        "No": 21,
+        "Rank": "Lt Kdr",
+        "Name": "V. Pannirselvam a/l Veloo",
+        "From": "2002-11-11",
+        "To": "2004-04-29",
+        "From_As_Written": "11 Nov 02",
+        "To_As_Written": "29 Apr 04"
+      },
+      {
+        "No": 22,
+        "Rank": "Kdr",
+        "Name": "Rusli bin Ramli",
+        "From": "2004-04-30",
+        "To": "2005-09-30",
+        "From_As_Written": "30 Apr 04",
+        "To_As_Written": "30 Sep 05"
+      },
+      {
+        "No": 23,
+        "Rank": "Kept",
+        "Name": "Rusli bin Ramli",
+        "From": "2005-10-01",
+        "To": "2006-01-19",
+        "From_As_Written": "1 Okt 05",
+        "To_As_Written": "19 Jan 06"
+      },
+      {
+        "No": 24,
+        "Rank": "Kept",
+        "Name": "Zualkafly bin Hj Ahmad",
+        "From": "2006-01-20",
+        "To": "2007-01-01",
+        "From_As_Written": "20 Jan 06",
+        "To_As_Written": "1 Jan 07"
+      },
+      {
+        "No": 25,
+        "Rank": "Kept",
+        "Name": "Alias bin Baharuddin",
+        "From": "2007-01-02",
+        "To": "2007-08-23",
+        "From_As_Written": "2 Jan 07",
+        "To_As_Written": "23 Ogos 07"
+      },
+      {
+        "No": 26,
+        "Rank": "Kdr",
+        "Name": "Ee (Yee) Tai Peng",
+        "From": "2007-05-24",
+        "To": "2009-01-22",
+        "From_As_Written": "24 Mei 07",
+        "To_As_Written": "22 Jan 09"
+      },
+      {
+        "No": 27,
+        "Rank": "Kdr",
+        "Name": "Mustafa Kamal bin Wahab",
+        "From": "2009-01-23",
+        "To": "2011-01-19",
+        "From_As_Written": "23 Jan 09",
+        "To_As_Written": "19 Jan 11"
+      },
+      {
+        "No": 28,
+        "Rank": "Kdr",
+        "Name": "Roslan bin Mohd Yunus",
+        "From": "2011-01-19",
+        "To": "2011-04-03",
+        "From_As_Written": "19 Jan 11",
+        "To_As_Written": "3 Apr 11"
+      },
+      {
+        "No": 29,
+        "Rank": "Kept",
+        "Name": "Roslan bin Mohd Yunus",
+        "From": "2011-04-04",
+        "To": "2011-07-10",
+        "From_As_Written": "4 Apr 11",
+        "To_As_Written": "10 Jul 11"
+      },
+      {
+        "No": 30,
+        "Rank": "Lt Kdr",
+        "Name": "Shahris Faisal bin Abdullah",
+        "From": "2011-07-11",
+        "To": "2012-01-26",
+        "From_As_Written": "11 Jul 11",
+        "To_As_Written": "26 Jan 12"
+      },
+      {
+        "No": 31,
+        "Rank": "Kdr",
+        "Name": "Sharil Amir bin Mohd Mokhtar",
+        "From": "2012-01-27",
+        "To": "2013-03-19",
+        "From_As_Written": "27 Jan 12",
+        "To_As_Written": "19 Mac 13"
+      },
+      {
+        "No": 32,
+        "Rank": "Kdr",
+        "Name": "Ahmad Rashidi bin Othman",
+        "From": "2013-03-20",
+        "To": "2014-11-10",
+        "From_As_Written": "20 Mac 13",
+        "To_As_Written": "10 Nov 14"
+      },
+      {
+        "No": 33,
+        "Rank": "Kdr",
+        "Name": "Gan Chin Keat",
+        "From": "2014-11-11",
+        "To": "2015-12-27",
+        "From_As_Written": "11 Nov 14",
+        "To_As_Written": "27 Dis 15"
+      },
+      {
+        "No": 34,
+        "Rank": "Kdr",
+        "Name": "Nasrol Hakim bin Jamaludin",
+        "From": "2015-12-28",
+        "To": "2017-08-03",
+        "From_As_Written": "28 Dis 15",
+        "To_As_Written": "3 Ogos 17"
+      },
+      {
+        "No": 35,
+        "Rank": "Lt Kdr",
+        "Name": "Khairul Khanizam bin Omar",
+        "From": "2017-08-04",
+        "To": "2020-03-02",
+        "From_As_Written": "4 Ogos 17",
+        "To_As_Written": "2 Mac 20"
+      },
+      {
+        "No": 36,
+        "Rank": "Lt Kdr",
+        "Name": "Mohamad Hasrul bin Abdul Rahman",
+        "From": "2020-03-02",
+        "To": "2021-02-21",
+        "From_As_Written": "2 Mac 20",
+        "To_As_Written": "21 Feb 21"
+      },
+      {
+        "No": 37,
+        "Rank": "Lt Kdr",
+        "Name": "Abd Amir Malek bin Abd Kadir Kailani",
+        "From": "2021-02-22",
+        "To": "2022-09-11",
+        "From_As_Written": "22 Feb 21",
+        "To_As_Written": "11 Sep 22"
+      },
+      {
+        "No": 38,
+        "Rank": "Lt Kdr",
+        "Name": "Fazlan Fahme bin Puzi",
+        "From": "2022-09-12",
+        "To": "2024-05-05",
+        "From_As_Written": "12 Sep 22",
+        "To_As_Written": "5 Mei 24"
+      },
+      {
+        "No": 39,
+        "Rank": "Lt Kdr",
+        "Name": "Mohd Azuwan bin Abdullah",
+        "From": "2024-05-06",
+        "To": "2026-07-27",
+        "From_As_Written": "6 Mei 24",
+        "To_As_Written": "27 Jul 26"
+      }
+    ]
+  }
+}

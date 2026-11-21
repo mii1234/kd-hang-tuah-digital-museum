@@ -1,0 +1,1049 @@
+{
+  "_comment": "Research only (never built or served). Phase 3 evidence register for the 3D Ship Explorer: which source supports each reconstructed component. Photo IDs are internal references to the 2026 site-visit photographs (SRC060), listed in Photo_Index; the photographs are not published, not embedded and not in the distributable ZIP.",
+  "Status_Terms": {
+    "Supported": "Shape and position both documented by a source.",
+    "Approximate Reconstruction": "Position and/or shape partly documented; the rest estimated and labelled.",
+    "Pending Verification": "Identity or position not established; not published as an identified part."
+  },
+  "Structural_Correction_Phase3": {
+    "Summary": "Phase 2 placed the main bridge one level too high (on top of the 01 deck house) and the training bridge two levels above the 01 deck. The 01 Deck plan (SRC038 p.31) puts the BRIDGE, chart room and nav cabin on the 01 deck; the 02 Signal Deck plan (p.32) puts the TRAINING BRIDGE and the CEREMONIAL PLATFORM on the 02 deck. Phase 3 rebuilt the forward superstructure accordingly.",
+    "Changes": [
+      "01 deck house shortened to end at X 78.5 m; main bridge rebuilt as a separate lofted block X 78.5–84.2 m on the 01 deck (7.6–10.5 m), chamfered in plan, windows leaning outwards; bridge wings moved down to the 01 deck.",
+      "The separate bridge storey between 10.5 and 12.1 m (Phase 2) removed; its roof railing removed.",
+      "02 deck edge railing extended forward over the bridge roof, narrowing to the front (p.32).",
+      "Training bridge rebuilt on the 02 deck at frames 20 to about 16 (X 74.2–79.8 m), 3.24 m wide, roof 12.95 m; 3 forward windows, 2 side windows per side, doors aft.",
+      "STD (As built) moved to the 02 deck: 3.6 m compartment plus director on the octagonal position; octagonal bulwark added for both configurations (STD position / ceremonial platform).",
+      "02 deck house resized to the plan (frames 31 to 23½, 5.4 m wide), roof = 03 deck at 12.7 m, with railings.",
+      "Ladders 01→02 deck added at frames ~20 to 18½ (p.32); the two Phase 2 ladders at the after end of the 02 deck removed (not on the plan)."
+    ],
+    "Evidence": [
+      "SRC038 p.31",
+      "SRC038 p.32",
+      "SRC058 front photograph (training bridge windows directly above the bridge window band)",
+      "user photograph supplied 5 Nov 2026 (training bridge side windows)"
+    ]
+  },
+  "Components": [
+    {
+      "Component_ID": "EXT05",
+      "Name": "Main bridge (exterior)",
+      "Configuration": "shared",
+      "Reference_Photos": [
+        "AN01",
+        "AN07",
+        "AN20",
+        "AN21",
+        "AN23"
+      ],
+      "Source_Pages": [
+        "SRC038 p.26 (bridge front, 2022)",
+        "SRC038 p.31 (01 Deck)",
+        "SRC058 front photograph"
+      ],
+      "Directly_Visible": "Window band leaning outwards; rounded-corner windows; bridge wings.",
+      "From_Deck_Plan": "On the 01 deck, enclosed bridge about frames 17 to 13½; chamfered forward corners; chart room and nav cabin aft; bridge wings with 10\" SP platforms.",
+      "Estimated_or_Inferred": "Height of the 01 deck (7.6 m) and 02 deck (10.5 m) above the waterline; number and size of windows simplified; wing size.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT06",
+      "Name": "STD director and compartment (As built)",
+      "Configuration": "as_built",
+      "Reference_Photos": [],
+      "Source_Pages": [
+        "SRC038 p.12",
+        "SRC038 p.32 (octagonal position)",
+        "SRC058 (sketch: existing length 3600; \"located on top of the bridge\")"
+      ],
+      "Directly_Visible": "—",
+      "From_Deck_Plan": "Octagonal position forward of the training bridge on the 02 deck.",
+      "Estimated_or_Inferred": "Shape and height of the director and compartment; 1977 appearance not photographed in the project references.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT07",
+      "Name": "Training bridge (exterior)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN203",
+        "AN204",
+        "AN205",
+        "LS01",
+        "LS02",
+        "user photo 5 Nov 2026"
+      ],
+      "Source_Pages": [
+        "SRC038 p.32 (frames 20 to about 16)",
+        "SRC058 sketch and front photograph"
+      ],
+      "Directly_Visible": "Three forward windows (board photograph); two side windows (user photograph); rounded window frames.",
+      "From_Deck_Plan": "On the 02 deck, about 5.6 m x 3.2 m, at frames 20 to about 16.",
+      "Estimated_or_Inferred": "Height (2.45 m); window sizes; door position on the after end (sketch shows doors aft but not their exact place); port/starboard orientation of the sketch.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT24",
+      "Name": "Ceremonial platform (former STD position)",
+      "Configuration": "later",
+      "Reference_Photos": [],
+      "Source_Pages": [
+        "SRC038 p.32"
+      ],
+      "Directly_Visible": "—",
+      "From_Deck_Plan": "Octagonal enclosure forward of the training bridge, labelled CEREMONIAL PLATFORM.",
+      "Estimated_or_Inferred": "Bulwark height (1.0 m); whether it is a bulwark or a railing.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT13",
+      "Name": "Y gun position (platform and screens)",
+      "Configuration": "shared",
+      "Reference_Photos": [
+        "LS03",
+        "LS04",
+        "LS05"
+      ],
+      "Source_Pages": [
+        "SRC038 p.25",
+        "SRC038 p.31"
+      ],
+      "Directly_Visible": "Mesh screens around the platform; dark deck.",
+      "From_Deck_Plan": "Two circular gun positions near the ship's sides at about frame 49 (01 deck).",
+      "Estimated_or_Inferred": "Platform outline and support pillars; screen height.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT14",
+      "Name": "Bofors 40 mm/L70 mountings (port and starboard)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "LS03",
+        "LS04",
+        "LS05"
+      ],
+      "Source_Pages": [
+        "SRC038 p.11",
+        "SRC038 p.31 (positions)",
+        "SRC059 photograph \"Meriam (S1) Bofors 40mm/L70\""
+      ],
+      "Directly_Visible": "Round pedestal; tall angular shield with sloped faces; long barrel (covered in two photographs); a frame of tubes on each side.",
+      "From_Deck_Plan": "Positions about ±3.9 m from the centreline, about frame 48½; barrels drawn trained aft.",
+      "Estimated_or_Inferred": "Proportions (people for scale); number of tubes per side (about six); the function of the tube frames is not stated.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT21",
+      "Name": "Ladders (01 to 02 deck)",
+      "Configuration": "shared",
+      "Reference_Photos": [],
+      "Source_Pages": [
+        "SRC038 p.32 (LADDER, port and starboard)"
+      ],
+      "Directly_Visible": "—",
+      "From_Deck_Plan": "Ladders outboard of the 02 deck edge at about frames 20 to 18½.",
+      "Estimated_or_Inferred": "Angle and landing; Phase 2 after ladders removed because the plan does not show them.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT50",
+      "Name": "Main bridge: floor gratings",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN01",
+        "AN03",
+        "AN07",
+        "AN13",
+        "AN14"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Dark slatted floor gratings.",
+      "From_Deck_Plan": "Floor outline from the 01 Deck plan.",
+      "Estimated_or_Inferred": "Slat size and spacing.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT51",
+      "Name": "Main bridge: window ledge and under-window cabinets",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN09",
+        "AN12",
+        "AN20",
+        "AN21",
+        "AN23"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Wooden ledge below the windows; grey cabinets beneath.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Cabinet sizes; shown plain and unlabelled (panel faces not reproduced).",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT52",
+      "Name": "Main bridge: console with three lever controls",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN01",
+        "AN03",
+        "AN04",
+        "AN05",
+        "AN08",
+        "AN10"
+      ],
+      "Source_Pages": [
+        "SRC038 p.33"
+      ],
+      "Directly_Visible": "Console with three large lever controls.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Position on the bridge; console shown plain, no markings or panel layout.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT53",
+      "Name": "Main bridge: compass pedestal with brass ring",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN02",
+        "AN07",
+        "AN19"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Pedestal with bowl and brass ring.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Position; type not identified.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT54",
+      "Name": "Main bridge: display consoles (unlabelled)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN06",
+        "AN08",
+        "AN10",
+        "AN13",
+        "AN19"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Pale-green consoles with display housings (screens off or not legible).",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Positions; function not identified; screens blank.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT55",
+      "Name": "Main bridge: chairs",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN01",
+        "AN07",
+        "AN22"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "High-backed black chairs.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Positions; simplified shape.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT56",
+      "Name": "Main bridge: chart desk and curtain",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN13",
+        "AN14",
+        "AN15"
+      ],
+      "Source_Pages": [
+        "SRC038 p.31 (chart room aft)"
+      ],
+      "Directly_Visible": "Wooden desk and cabinets; dark curtain.",
+      "From_Deck_Plan": "Chart room aft of the bridge, port side.",
+      "Estimated_or_Inferred": "Exact position inside the bridge.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT57",
+      "Name": "Main bridge: overhead trays, ducts and lights",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN07",
+        "AN08",
+        "AN11",
+        "AN19",
+        "AN22"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Cable trays, vent duct, fluorescent fittings, overhead boxes.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Positions; overhead equipment shown as plain, unidentified boxes (communication equipment not identified).",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT60",
+      "Name": "Training bridge: slatted floor",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "LS01",
+        "LS02",
+        "AN204"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Dark slatted floor.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Slat size.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT61",
+      "Name": "Training bridge: chart table and A/C unit",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN203",
+        "AN204"
+      ],
+      "Source_Pages": [
+        "SRC058 sketch: CHART TABLE ~1800, SPLIT A/C"
+      ],
+      "Directly_Visible": "Wooden table at the after end.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Side of the room (the sketch does not mark port or starboard).",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT62",
+      "Name": "Training bridge: desks and cabinets",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN203",
+        "AN204",
+        "AN205",
+        "LS01",
+        "LS02"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Wooden desks and cabinets along both sides with drawers.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Lengths and depths.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT63",
+      "Name": "Training bridge: standard compass binnacle",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "LS01",
+        "LS02",
+        "AN205"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Dark-grey binnacle on the centreline.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Fore-and-aft position.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT64",
+      "Name": "Training bridge: chairs",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "LS02",
+        "AN204",
+        "AN205"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Black chairs.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Positions.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT65",
+      "Name": "Training bridge: display console (unlabelled)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN206",
+        "LS01"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Display console on a stand (screen off).",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Position; function not identified; screen blank.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT66",
+      "Name": "Training bridge: stairway from the after end",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN203"
+      ],
+      "Source_Pages": [
+        "SRC058 sketch: STEP LADDER ~1200 x 780"
+      ],
+      "Directly_Visible": "Stairway with handrails through the floor at the after end.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Where the stairway lands on the deck below is not documented.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT67",
+      "Name": "Training bridge: hatch in the deck head",
+      "Configuration": "later",
+      "Reference_Photos": [],
+      "Source_Pages": [
+        "SRC058 sketch: HATCH FOR DECK HEAD"
+      ],
+      "Directly_Visible": "Not visible in the photographs.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Position and size from the sketch only.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT68",
+      "Name": "Training bridge: ceiling lights and trim",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN203",
+        "AN204",
+        "AN205"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Round ceiling lights; wooden trim strips.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Positions.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT70",
+      "Name": "Wheelhouse (room)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "WH01",
+        "WH03",
+        "WH07",
+        "WH08",
+        "WH09"
+      ],
+      "Source_Pages": [
+        "SRC038 p.29 (No. 2 deck, WHEEL HOUSE)"
+      ],
+      "Directly_Visible": "Slatted wooden floor; cream bulkheads; handrail along the bulkhead; \"WHEEL HOUSE\" sign (WH07).",
+      "From_Deck_Plan": "On the No. 2 deck, about frames 41 to 39, near the centreline.",
+      "Estimated_or_Inferred": "Room size (3.4 m x 3.2 m) and height.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT71",
+      "Name": "Wheelhouse: steering stand and wheel",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "WH01",
+        "WH02",
+        "WH08",
+        "WH10",
+        "WH11"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Green stand with domed housing, brass spoked wheel, four gauges above.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Proportions; gauges shown plain (no dial markings).",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT72",
+      "Name": "Wheelhouse: wall monitor (unlabelled)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "WH01",
+        "WH09",
+        "WH10"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Wall-mounted monitor.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Position; screen blank.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT73",
+      "Name": "Wheelhouse: overhead pipes and light",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "WH01",
+        "WH02",
+        "WH04",
+        "WH12"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Lagged pipes, cable tray, fluorescent fitting.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Representative; routes not documented.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT80",
+      "Name": "Main engines (two)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "ER01",
+        "ER02",
+        "ER03"
+      ],
+      "Source_Pages": [
+        "SRC038 p.20 (2 x Stork Wärtsilä 12V SW 280)",
+        "SRC038 p.22 (MAIN ENGINE)",
+        "SRC038 p.30 (frames 52–44)"
+      ],
+      "Directly_Visible": "Two engines side by side; rows of white cylinder-head covers; turbocharger with large ribbed circular intake; lagged exhaust overhead; mesh guard; cream paint.",
+      "From_Deck_Plan": "Engine room between frames 52 and 44.",
+      "Estimated_or_Inferred": "Engine length (~5.4 m), width and height estimated with people for scale; which end the turbocharger is at; spacing between engines (placed on the shaft lines).",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT81",
+      "Name": "Gearboxes (two)",
+      "Configuration": "later",
+      "Reference_Photos": [],
+      "Source_Pages": [
+        "SRC038 p.20 (2 x Volda ACG 750 HE)",
+        "SRC038 p.22 (GEAR BOX)"
+      ],
+      "Directly_Visible": "Upper casing with two black filters (briefing photograph).",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Position aft of the engines on the shaft lines; size.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT82",
+      "Name": "Engine seatings",
+      "Configuration": "later",
+      "Reference_Photos": [],
+      "Source_Pages": [],
+      "Directly_Visible": "Not visible.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Inferred simple girders under each engine.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT83",
+      "Name": "Engine room floor plates and walkway",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "ER01",
+        "ER02",
+        "ER03"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Chequer-plate floor plates; walkway alongside the engines.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Floor level; walkway rails.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT84",
+      "Name": "Exhaust trunking",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "ER01",
+        "ER02",
+        "ER03"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Lagged trunking overhead.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Only the visible part; route beyond the room not modelled.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT85",
+      "Name": "Engine room ventilation ducting and lights",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "ER03"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "White duct overhead; fluorescent lights.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Positions.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT86",
+      "Name": "Representative pipework, valves and pump",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "ER04"
+      ],
+      "Source_Pages": [],
+      "Directly_Visible": "Colour-coded pipes, hand-wheel valves, electric pump (location in the room unknown).",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Representative only; not the real routes.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT87",
+      "Name": "Engine local panels (unlabelled)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "ER01"
+      ],
+      "Source_Pages": [
+        "SRC038 p.22 (MAIN ENGINE)"
+      ],
+      "Directly_Visible": "Panel at the engine end.",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Plain cabinet; no gauges or labels.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT88",
+      "Name": "Shafts from the gearboxes",
+      "Configuration": "later",
+      "Reference_Photos": [],
+      "Source_Pages": [
+        "SRC015 (two shafts)"
+      ],
+      "Directly_Visible": "—",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Straight lines; height and spacing.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT90",
+      "Name": "Generator sets (three)",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "ER05"
+      ],
+      "Source_Pages": [
+        "SRC038 p.20 (3 x Wärtsilä SACM UD25 12V; 3 x Leroy Somer)",
+        "SRC038 p.22 (GENERATOR, ALTERNATOR)",
+        "SRC038 p.30 (generator room frames 35½–30)"
+      ],
+      "Directly_Visible": "Engine with two black air filters, coupled to an alternator on a base frame.",
+      "From_Deck_Plan": "Generator room between frames 35½ and 30.",
+      "Estimated_or_Inferred": "Arrangement of the three sets; sizes; ER05 may not be in the generator room.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "EXT91",
+      "Name": "Generator room floor plates and lights",
+      "Configuration": "later",
+      "Reference_Photos": [],
+      "Source_Pages": [],
+      "Directly_Visible": "—",
+      "From_Deck_Plan": "—",
+      "Estimated_or_Inferred": "Floor level; positions.",
+      "Status": "Approximate Reconstruction"
+    },
+    {
+      "Component_ID": "PENDING-01",
+      "Name": "Unidentified Deck Structure — Pending Verification",
+      "Configuration": "later",
+      "Reference_Photos": [
+        "AN201",
+        "AN202"
+      ],
+      "Source_Pages": [
+        "SRC038 p.32 (for comparison)"
+      ],
+      "Directly_Visible": "A tall box-like structure with two windows high on one face, a watertight door with dogs below them, an external handrail, on an open upper deck with guardrails; whip aerials and an air-conditioning unit nearby; open water beyond the guardrail.",
+      "From_Deck_Plan": "Not identified. Candidates compared on the 02 Signal Deck plan: (a) the after end of the training bridge — the sketch shows doors aft but no windows there, and the photographed face is taller than the 2.45 m estimate; (b) the forward end of the 02 deck house (training office, frames ~23½) — the plan shows a W.T.D. on that face and whip aerials at frames ~22 and ~18, which would fit, but no photograph shows the structure together with the training bridge or the foremast.",
+      "Estimated_or_Inferred": "Not modelled as a separate part and not named in the public explorer: its position is unknown. Evidence needed: a photograph showing it with a known feature (foremast, training bridge, funnel), the direction the camera faced, or a note from the site visit.",
+      "Status": "Pending Verification"
+    }
+  ],
+  "Photo_Index": [
+    {
+      "ID": "AN01",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-09-30 at 13.19.10.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN02",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-09-30 at 13.19.11 (1).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN03",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-09-30 at 13.19.11 (2).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN04",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-09-30 at 13.19.11.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN05",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-09-30 at 13.19.13 (1).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN06",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-09-30 at 13.19.13.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN07",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-09-30 at 13.19.14.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN08",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.20 PM - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN09",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.21 PM - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN10",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.22 PM (1) - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN11",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.22 PM - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN12",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.24 PM - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN13",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.25 PM - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN14",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.26 PM (1) - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN15",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.26 PM - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN16",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.27 PM (1) - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN17",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.27 PM.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN18",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.31 PM.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN19",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.36 PM (1).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN20",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.36 PM.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN21",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.37 PM (1).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN22",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.37 PM (2).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN23",
+      "Folder": "Anjungan",
+      "File": "WhatsApp Image 2026-10-02 at 5.23.37 PM.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN201",
+      "Folder": "anjungan 2",
+      "File": "WhatsApp Image 2026-09-30 at 13.34.50.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN202",
+      "Folder": "anjungan 2",
+      "File": "WhatsApp Image 2026-09-30 at 13.34.51.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN203",
+      "Folder": "anjungan 2",
+      "File": "WhatsApp Image 2026-09-30 at 13.37.17.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN204",
+      "Folder": "anjungan 2",
+      "File": "WhatsApp Image 2026-09-30 at 13.37.20.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN205",
+      "Folder": "anjungan 2",
+      "File": "WhatsApp Image 2026-09-30 at 13.38.02.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "AN206",
+      "Folder": "anjungan 2",
+      "File": "WhatsApp Image 2026-09-30 at 13.38.20.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "ER01",
+      "Folder": "engine room",
+      "File": "WhatsApp Image 2026-09-30 at 7.59.12 PM (2) - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "ER02",
+      "Folder": "engine room",
+      "File": "WhatsApp Image 2026-09-30 at 7.59.13 PM (1) - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "ER03",
+      "Folder": "engine room",
+      "File": "WhatsApp Image 2026-09-30 at 7.59.13 PM (2) - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "ER04",
+      "Folder": "engine room",
+      "File": "WhatsApp Image 2026-09-30 at 7.59.13 PM - Copy.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "ER05",
+      "Folder": "engine room",
+      "File": "WhatsApp Image 2026-10-02 at 3.49.22 PM (7).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "JR01",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8982.HEIC",
+      "EXIF_Date": "2026:09:30 14:18:09"
+    },
+    {
+      "ID": "JR02",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8983.HEIC",
+      "EXIF_Date": "2026:09:30 14:18:14"
+    },
+    {
+      "ID": "JR03",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8984.HEIC",
+      "EXIF_Date": "2026:09:30 14:18:33"
+    },
+    {
+      "ID": "JR04",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8985.HEIC",
+      "EXIF_Date": "2026:09:30 14:18:39"
+    },
+    {
+      "ID": "JR05",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8986.HEIC",
+      "EXIF_Date": "2026:09:30 14:18:49"
+    },
+    {
+      "ID": "JR06",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8987.HEIC",
+      "EXIF_Date": "2026:09:30 14:18:58"
+    },
+    {
+      "ID": "JR07",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8988.HEIC",
+      "EXIF_Date": "2026:09:30 14:19:07"
+    },
+    {
+      "ID": "JR08",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8989.HEIC",
+      "EXIF_Date": "2026:09:30 14:19:13"
+    },
+    {
+      "ID": "JR09",
+      "Folder": "j.r dining hall",
+      "File": "IMG_8990.HEIC",
+      "EXIF_Date": "2026:09:30 14:19:19"
+    },
+    {
+      "ID": "JR10",
+      "Folder": "j.r dining hall",
+      "File": "WhatsApp Image 2026-09-30 at 7.59.20 PM (1).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "JR11",
+      "Folder": "j.r dining hall",
+      "File": "WhatsApp Image 2026-09-30 at 7.59.20 PM.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "LS01",
+      "Folder": "loose",
+      "File": "bridge 2.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "LS02",
+      "Folder": "loose",
+      "File": "bridge.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "LS03",
+      "Folder": "loose",
+      "File": "y gun 1.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "LS04",
+      "Folder": "loose",
+      "File": "y gun 2.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "LS05",
+      "Folder": "loose",
+      "File": "y gun.jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "LS06",
+      "Folder": "loose",
+      "File": "{7D955911-3CB9-4A42-B77A-95F746F3962A}.png",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "LS07",
+      "Folder": "loose",
+      "File": "{99AA772C-10EA-4F7D-9F39-46A5B3DB8DD7}.png",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "WH01",
+      "Folder": "wheel house",
+      "File": "IMG_8707.HEIC",
+      "EXIF_Date": "2026:09:30 11:41:39"
+    },
+    {
+      "ID": "WH02",
+      "Folder": "wheel house",
+      "File": "IMG_8708.HEIC",
+      "EXIF_Date": "2026:09:30 11:41:54"
+    },
+    {
+      "ID": "WH03",
+      "Folder": "wheel house",
+      "File": "IMG_8709.HEIC",
+      "EXIF_Date": "2026:09:30 11:41:56"
+    },
+    {
+      "ID": "WH04",
+      "Folder": "wheel house",
+      "File": "IMG_8715.JPG",
+      "EXIF_Date": "2026:09:30 11:45:40"
+    },
+    {
+      "ID": "WH05",
+      "Folder": "wheel house",
+      "File": "IMG_8716.JPG",
+      "EXIF_Date": "2026:09:30 11:45:41"
+    },
+    {
+      "ID": "WH06",
+      "Folder": "wheel house",
+      "File": "IMG_8717.JPG",
+      "EXIF_Date": "2026:09:30 11:45:42"
+    },
+    {
+      "ID": "WH07",
+      "Folder": "wheel house",
+      "File": "IMG_8718.JPG",
+      "EXIF_Date": "2026:09:30 11:45:44"
+    },
+    {
+      "ID": "WH08",
+      "Folder": "wheel house",
+      "File": "IMG_8978.HEIC",
+      "EXIF_Date": "2026:09:30 14:16:59"
+    },
+    {
+      "ID": "WH09",
+      "Folder": "wheel house",
+      "File": "IMG_8979.HEIC",
+      "EXIF_Date": "2026:09:30 14:17:02"
+    },
+    {
+      "ID": "WH10",
+      "Folder": "wheel house",
+      "File": "IMG_8980.HEIC",
+      "EXIF_Date": "2026:09:30 14:17:04"
+    },
+    {
+      "ID": "WH11",
+      "Folder": "wheel house",
+      "File": "IMG_8981.HEIC",
+      "EXIF_Date": "2026:09:30 14:17:05"
+    },
+    {
+      "ID": "WH12",
+      "Folder": "wheel house",
+      "File": "WhatsApp Image 2026-09-30 at 7.59.20 PM (2).jpeg",
+      "EXIF_Date": ""
+    },
+    {
+      "ID": "WH13",
+      "Folder": "wheel house",
+      "File": "WhatsApp Image 2026-09-30 at 7.59.21 PM.jpeg",
+      "EXIF_Date": ""
+    }
+  ]
+}

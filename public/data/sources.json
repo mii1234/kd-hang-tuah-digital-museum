@@ -1,0 +1,1145 @@
+[
+  {
+    "Source_ID": "SRC001",
+    "Source_Title": "Panel 'Kepulangan ke Tanahair' (the voyage home, 1977)",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM) display on board KD Hang Tuah",
+    "Source_Type": "Primary — on-board museum panel",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "On-board panel, centre section; photographed by the project on board KD Hang Tuah, 30 September 2026.",
+    "Related_Event_IDs": [
+      "EVT017",
+      "EVT018",
+      "EVT019",
+      "EVT020",
+      "EVT021"
+    ],
+    "Related_Location_IDs": [
+      "LOC002",
+      "LOC007",
+      "LOC008",
+      "LOC009",
+      "LOC011",
+      "LOC012",
+      "LOC013",
+      "LOC014",
+      "LOC015"
+    ],
+    "Image_Credit": "{project_photo_credit}",
+    "Rights_Status": "Panel content belongs to its producer. Photograph unpublished pending the project owner's review.",
+    "Verification_Notes": "On-board panel photographed on 30 September 2026. Used for the 1977 voyage home: the departure, the ports named in the panel text and the arrival dates. The photograph is not published.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC002",
+    "Source_Title": "Panel 'Pengenjinan Semula KD HANG TUAH' (re-engining)",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM) display on board KD Hang Tuah",
+    "Source_Type": "Primary — on-board museum panel",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "On-board panel, left section; photographed by the project on board KD Hang Tuah, 30 September 2026.",
+    "Related_Event_IDs": [
+      "EVT024",
+      "EVT026",
+      "EVT027"
+    ],
+    "Related_Location_IDs": [
+      "LOC017"
+    ],
+    "Image_Credit": "{project_photo_credit}",
+    "Rights_Status": "Panel content belongs to its producer. Photograph unpublished pending the project owner's review.",
+    "Verification_Notes": "On-board panel photographed on 30 September 2026. Used for the 1994–1997 re-engining. Part of the text is cut off at the right edge of the photograph. The photograph is not published.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC003",
+    "Source_Title": "Panel 'Detik…' (title partly visible; handover ceremony)",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM) display on board KD Hang Tuah",
+    "Source_Type": "Primary — on-board museum panel",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "On-board panel, right section (mostly outside the photograph); photographed by the project on board KD Hang Tuah, 30 September 2026.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "{project_photo_credit}",
+    "Rights_Status": "",
+    "Verification_Notes": "On-board panel photographed only in part; not enough of its text is visible to rely on.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC004",
+    "Source_Title": "Site-visit list of decks and spaces (project field notes)",
+    "Author_or_Organisation": "Project author (field notes)",
+    "Source_Type": "Primary — field notes",
+    "Publication_Date": "2026",
+    "Source_URL": "",
+    "Document_Reference": "Text file in the research folder, last modified 15 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "List of decks and spaces recorded during the site visit. Used for the names and decks of the spaces in the On board catalogue.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC005",
+    "Source_Title": "Photograph of a general-arrangement drawing (Stone Marine Engineering)",
+    "Author_or_Organisation": "Project author (photograph)",
+    "Source_Type": "Primary — photograph of a document",
+    "Publication_Date": "2026-09-30",
+    "Source_URL": "",
+    "Document_Reference": "Photograph of a technical drawing, taken by the project on 30 September 2026.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "{project_photo_credit}",
+    "Rights_Status": "",
+    "Verification_Notes": "Photograph of a technical drawing; its connection to this ship has not been confirmed. The photograph is not published.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC006",
+    "Source_Title": "Zaman Pembaharuan: Kecil Jangan Disangka Anak",
+    "Author_or_Organisation": "Royal Malaysian Navy (navy.mil.my)",
+    "Source_Type": "Official — TLDM website",
+    "Publication_Date": "",
+    "Source_URL": "http://www.navy.mil.my/index.php/component/k2/item/3352-zaman-pembaharuan-kecll-jangan-disangka-anak",
+    "Document_Reference": "Section on 9 September 1984",
+    "Related_Event_IDs": [
+      "EVT021",
+      "EVT022"
+    ],
+    "Related_Location_IDs": [
+      "LOC015",
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Official TLDM history page. Used for the transfer of the navy's royal colours from Woodlands to Lumut aboard KD Hang Tuah on 9 September 1984. Its references to a KD Hang Tuah in the 1960s concern the earlier ship of that name.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC007",
+    "Source_Title": "KD Hang Tuah to be turned into naval museum",
+    "Author_or_Organisation": "Bernama (republished by The Borneo Post, 22 November 2018)",
+    "Source_Type": "Secondary — news agency",
+    "Publication_Date": "2018-11-21",
+    "Source_URL": "https://www.bernama.com/en/news.php?id=1667236",
+    "Document_Reference": "Also: https://www.theborneopost.com/2018/11/22/kd-hang-tuah-to-be-turned-into-naval-museum/",
+    "Related_Event_IDs": [
+      "EVT016",
+      "EVT030"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the commissioning date (22 July 1977), the 21st Frigate Squadron and the museum-ship ceremony of 21 November 2018.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC008",
+    "Source_Title": "Museum Ship of the Navy",
+    "Author_or_Organisation": "Malaysian Defence",
+    "Source_Type": "Secondary — defence news website",
+    "Publication_Date": "2018",
+    "Source_URL": "https://www.malaysiandefence.com/museum-ship-of-the-navy/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT030"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the fact that the ship kept her commission when she became the museum ship in 2018. The page does not print its publication year.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC009",
+    "Source_Title": "KD Hang Tuah tamat perkhidmatan selepas hampir lima dekad",
+    "Author_or_Organisation": "Utusan Malaysia (Asliza Musa)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2025-12-03",
+    "Source_URL": "https://www.utusan.com.my/nasional/2025/12/kd-hang-tuah-tamat-perkhidmatan-selepas-hampir-lima-dekad/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT016",
+      "EVT031"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the commissioning date, the decommissioning ceremony of 3 December 2025, the origin of the name and the as-built displacement and speed.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC010",
+    "Source_Title": "KD Hang Tuah decommissioned after five decades of service",
+    "Author_or_Organisation": "Ipoh Echo (Zaki Salleh)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2025-12-03",
+    "Source_URL": "https://www.ipohecho.com.my/2025/12/03/kd-hang-tuah-decommissioned-after-five-decades-of-service/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT031"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the decommissioning ceremony: the bell tolled and the ensign lowered.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC011",
+    "Source_Title": "Malaysia Phases Out Cold War Frigate KD Hang Tuah",
+    "Author_or_Organisation": "GBP (Mohd Hanif Ismail)",
+    "Source_Type": "Secondary — news website",
+    "Publication_Date": "2025-12-05",
+    "Source_URL": "https://gbp.com.sg/stories/malaysia-phases-out-cold-war-frigate-kd-hang-tuah-amid-asia-pacific-fleet-modernisation/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT031"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the decommissioning date and the '15 to 5' fleet programme.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC012",
+    "Source_Title": "Memorial Muzium Kapal Diraja Hang Tuah tarikan baharu pelancongan di Lumut",
+    "Author_or_Organisation": "Utusan Malaysia (Asliza Musa)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2026-07-27",
+    "Source_URL": "https://www.utusan.com.my/nasional/2026/07/memorial-muzium-kapal-diraja-hang-tuah-tarikan-baharu-pelancongan-di-lumut/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT032"
+    ],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the handover to the Perak state government on 27 July 2026, the partnership, the RM30 million first phase and the planned 2027 opening.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC013",
+    "Source_Title": "KD Hang Tuah Memorial Museum to become Lumut's new tourist attraction",
+    "Author_or_Organisation": "Ipoh Echo (Zaki Salleh)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2026-07-27",
+    "Source_URL": "https://www.ipohecho.com.my/2026/07/27/kd-hang-tuah-memorial-museum-to-become-lumuts-new-tourist-attraction/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT029",
+      "EVT032"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the handover and the planned 2027 opening.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC014",
+    "Source_Title": "Frigate to open as Perak ship museum in 2027",
+    "Author_or_Organisation": "The Star (Metro News, Bernama photos)",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2026-08-05",
+    "Source_URL": "https://www.thestar.com.my/metro/metro-news/2026/08/05/frigate-to-open-as-perak-ship-museum-in-2027",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT032"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the handover, the partners, the first-phase cost and the planned 2027 opening.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC015",
+    "Source_Title": "MERMAID — vessel record",
+    "Author_or_Organisation": "Scottish built ships database (clydeships.co.uk)",
+    "Source_Type": "Secondary — shipbuilding database",
+    "Publication_Date": "",
+    "Source_URL": "https://www.clydeships.co.uk/view.php?a1Page=3718&ref=17770&vessel=MERMAID",
+    "Document_Reference": "Read from a screenshot of the online record (the site blocks automated access).",
+    "Related_Event_IDs": [
+      "EVT004",
+      "EVT007",
+      "EVT008"
+    ],
+    "Related_Location_IDs": [
+      "LOC001",
+      "LOC002"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Shipbuilding record. Used for the builder, yard number, launch and commissioning dates, displacement, breadth, original machinery and speed. Read from a screenshot because the site refuses automated access.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC016",
+    "Source_Title": "HMS Mermaid",
+    "Author_or_Organisation": "P. Antill, historyofwar.org",
+    "Source_Type": "Secondary — history website",
+    "Publication_Date": "2002-01-30",
+    "Source_URL": "https://www.historyofwar.org/articles/weapons_hmsmermaid.html",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT003",
+      "EVT004",
+      "EVT007",
+      "EVT008",
+      "EVT009",
+      "EVT013",
+      "EVT016"
+    ],
+    "Related_Location_IDs": [
+      "LOC001",
+      "LOC002",
+      "LOC003",
+      "LOC005",
+      "LOC006"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the Ghana order, the launch, the move to Portsmouth and Chatham, Royal Navy commissioning, Far East service, the Cod Wars, the pennant number and the earlier ship of the same name.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC017",
+    "Source_Title": "F 76 HMS Mermaid",
+    "Author_or_Organisation": "seaforces.org",
+    "Source_Type": "Secondary — naval reference website",
+    "Publication_Date": "",
+    "Source_URL": "https://seaforces.org/marint/Royal-Navy/Frigate/F-76-HMS-Mermaid.htm",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT003",
+      "EVT004",
+      "EVT008"
+    ],
+    "Related_Location_IDs": [
+      "LOC006"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the year of the coup in Ghana, Scotstoun, the beam, the helicopter platform and the Cod Wars role.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC018",
+    "Source_Title": "HMS Mermaid (1966)",
+    "Author_or_Organisation": "naval-encyclopedia.com",
+    "Source_Type": "Secondary — naval reference website",
+    "Publication_Date": "2026-01-25",
+    "Source_URL": "https://naval-encyclopedia.com/cold-war/uk/hms-mermaid.php",
+    "Document_Reference": "Copy of the web page held in the project's research notes.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Contains clear errors; not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC019",
+    "Source_Title": "KD Hang Tuah — Wikipedia article (English)",
+    "Author_or_Organisation": "Wikipedia (English)",
+    "Source_Type": "Tertiary — encyclopedia",
+    "Publication_Date": "",
+    "Source_URL": "https://en.wikipedia.org/wiki/KD_Hang_Tuah",
+    "Document_Reference": "Accessed 15 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Encyclopedia article. Useful as a guide to other sources, but not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC020",
+    "Source_Title": "KD Hang Tuah — Wikipedia article (Bahasa Melayu)",
+    "Author_or_Organisation": "Wikipedia (Bahasa Melayu)",
+    "Source_Type": "Tertiary — encyclopedia",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Screenshots held in the project's research notes.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Encyclopedia article containing errors; not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC021",
+    "Source_Title": "Last of the Yarrow diesel tin cans gets a reprieve (Warship Wednesday)",
+    "Author_or_Organisation": "laststandonzombieisland.com",
+    "Source_Type": "Secondary — blog",
+    "Publication_Date": "2018-11-30",
+    "Source_URL": "https://laststandonzombieisland.com/2018/11/30/last-of-the-yarrow-diesel-tin-cans-gets-a-reprieve/",
+    "Document_Reference": "",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Blog post; not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC022",
+    "Source_Title": "HMS Fittleton memorial (M4165)",
+    "Author_or_Organisation": "Royal Museums Greenwich, Maritime Memorials",
+    "Source_Type": "Secondary — memorial database",
+    "Publication_Date": "",
+    "Source_URL": "https://memorials.rmg.co.uk/m4165",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT013"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for the date of HMS Fittleton's loss and the number of men who died.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC023",
+    "Source_Title": "Worst Royal Naval Reserve collision remembered",
+    "Author_or_Organisation": "Forces News",
+    "Source_Type": "Secondary — news",
+    "Publication_Date": "2016-09-20",
+    "Source_URL": "https://www.forcesnews.com/services/navy/worst-royal-naval-reserve-collision-remembered",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT013"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used for how the collision happened and the Royal Naval Reserve losses.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC024",
+    "Source_Title": "Hang Tuah (ex-Loch Insh), F433",
+    "Author_or_Organisation": "Navypedia",
+    "Source_Type": "Secondary — naval reference website",
+    "Publication_Date": "",
+    "Source_URL": "https://navypedia.org/ships/malaysia/mal_es_hang_tuah.htm",
+    "Document_Reference": "",
+    "Related_Event_IDs": [
+      "EVT015",
+      "EVT022"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "About the earlier KD Hang Tuah (ex-HMS Loch Insh). Used only to identify which ship carried the royal colours in 1984.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC025",
+    "Source_Title": "Photograph of the KD Hang Tuah (accession 2021-00220)",
+    "Author_or_Organisation": "National Heritage Board Singapore (Roots.gov.sg)",
+    "Source_Type": "Secondary — museum collection record",
+    "Publication_Date": "",
+    "Source_URL": "https://www.roots.gov.sg/Collection-Landing/listing/1497831",
+    "Document_Reference": "",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Concerns the earlier KD Hang Tuah, not this ship.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC026",
+    "Source_Title": "Woodlands Naval Base — Wikipedia article",
+    "Author_or_Organisation": "Wikipedia (English)",
+    "Source_Type": "Tertiary — encyclopedia",
+    "Publication_Date": "",
+    "Source_URL": "https://en.wikipedia.org/wiki/Woodlands_Naval_Base",
+    "Document_Reference": "Accessed 15 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Encyclopedia article. Not relied on: the Woodlands pin is placed at the former base jetty using NParks, National Heritage Board and OpenStreetMap.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC027",
+    "Source_Title": "Lumut Naval Base — Wikipedia article",
+    "Author_or_Organisation": "Wikipedia (English)",
+    "Source_Type": "Tertiary — encyclopedia",
+    "Publication_Date": "",
+    "Source_URL": "https://en.wikipedia.org/wiki/Lumut_Naval_Base",
+    "Document_Reference": "Accessed 15 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [
+      "LOC016"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Used only for the provisional map coordinates of Lumut Naval Base, which have not been independently verified.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC028",
+    "Source_Title": "Exhibition caption about HMS Mermaid in the Cod Wars (origin unidentified)",
+    "Author_or_Organisation": "Unknown Icelandic exhibition (photograph in research folder)",
+    "Source_Type": "Secondary — exhibition caption",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Image of the caption held in the project's research notes.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Exhibition caption of unidentified origin; not relied on.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC029",
+    "Source_Title": "Post in the 'Destroyers and Frigates' Facebook group",
+    "Author_or_Organisation": "Bill Kidley (former crew member)",
+    "Source_Type": "Personal recollection — social media",
+    "Publication_Date": "2024-07-19",
+    "Source_URL": "",
+    "Document_Reference": "Screenshot in the research folder",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Personal recollection posted on social media; not relied on.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC030",
+    "Source_Title": "Royal Navy Frigates since 1945 (2nd ed.)",
+    "Author_or_Organisation": "Leo Marriott; Ian Allan",
+    "Source_Type": "Secondary — book (not yet consulted)",
+    "Publication_Date": "1990",
+    "Source_URL": "",
+    "Document_Reference": "pp. 102–104 (as cited by Wikipedia)",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Cited by Wikipedia; not yet consulted directly.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC031",
+    "Source_Title": "Safeguarding the Nation: The Story of the Modern Royal Navy",
+    "Author_or_Organisation": "John Roberts; Seaforth Publishing",
+    "Source_Type": "Secondary — book (not yet consulted)",
+    "Publication_Date": "2009",
+    "Source_URL": "",
+    "Document_Reference": "p. 119 (as cited by Wikipedia)",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Cited by Wikipedia; not yet consulted directly.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC032",
+    "Source_Title": "Ships Monthly, vol. 11–13",
+    "Author_or_Organisation": "Ships Monthly",
+    "Source_Type": "Secondary — periodical (not yet consulted)",
+    "Publication_Date": "1977",
+    "Source_URL": "",
+    "Document_Reference": "p. 19 (as cited by Wikipedia)",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Cited by Wikipedia; not yet consulted directly.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC033",
+    "Source_Title": "The Naval Institute Guide to Combat Fleets of the World 1998–1999",
+    "Author_or_Organisation": "A. D. Baker III; Naval Institute Press",
+    "Source_Type": "Secondary — reference book (not yet consulted)",
+    "Publication_Date": "1998",
+    "Source_URL": "",
+    "Document_Reference": "p. 499 (as cited by Wikipedia)",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Cited by Wikipedia; not yet consulted directly.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC034",
+    "Source_Title": "Ops Fajar mission accomplished",
+    "Author_or_Organisation": "The Star",
+    "Source_Type": "Secondary — newspaper",
+    "Publication_Date": "2008-10-21",
+    "Source_URL": "https://thestar.com.my/news/nation/2008/10/21/ops-fajar-mission-accomplished",
+    "Document_Reference": "",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Newspaper report (2008); not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC035",
+    "Source_Title": "Woodlands Waterfront Jetty",
+    "Author_or_Organisation": "National Parks Board (NParks), Singapore",
+    "Source_Type": "Official — government website",
+    "Publication_Date": "",
+    "Source_URL": "https://www.nparks.gov.sg/visit/parks/woodlands-waterfront-park/special-features/woodlands-waterfront-jetty",
+    "Document_Reference": "Accessed 16 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [
+      "LOC015"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Official NParks page. Used to identify the park's jetty as the former Royal Malaysian Naval Jetty, where the Woodlands pin is placed.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC036",
+    "Source_Title": "Former Malaysian Base Jetty",
+    "Author_or_Organisation": "National Heritage Board, Singapore (Roots)",
+    "Source_Type": "Official — heritage website",
+    "Publication_Date": "",
+    "Source_URL": "https://www.roots.gov.sg/places/places-landing/Places/landmarks/Woodlands-at-War/Former-Malaysian-Base-Jetty",
+    "Document_Reference": "Accessed 16 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [
+      "LOC015"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "",
+    "Verification_Notes": "Official National Heritage Board page. Used for the jetty of the former KD Malaya base and its present location in Woodlands Waterfront Park.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC037",
+    "Source_Title": "Pier in Woodlands Waterfront Park — OpenStreetMap way 508463755",
+    "Author_or_Organisation": "OpenStreetMap contributors",
+    "Source_Type": "Geographic database (open data)",
+    "Publication_Date": "",
+    "Source_URL": "https://www.openstreetmap.org/way/508463755",
+    "Document_Reference": "Version 4, read 16 October 2026",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [
+      "LOC015"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Open Database Licence (ODbL)",
+    "Verification_Notes": "OpenStreetMap outline of the pier. Used only for the position of the Woodlands pin at the shore end of the jetty.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC038",
+    "Source_Title": "Taklimat KD Hang Tuah (TLDM briefing deck, 'Pengenalan KD HANG TUAH F76')",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM)",
+    "Source_Type": "Primary — official TLDM briefing",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "TLDM briefing deck, 39 pages. Pages cited: 2 (specifications), 4 (origins), 5 (transfer and commissioning), 6 (voyage home), 7 (welcome at Woodlands), 8 (role), 9 (re-engining), 10 (Limbo Mk10), 11 (guns), 12 (training bridge), 13 (boats), 14 and 16 (commanding officers), 17 (awards), 19 (slipping), 28–32 (deck plans), 33–38 (labelled interior photographs).",
+    "Related_Event_IDs": [
+      "EVT003",
+      "EVT007",
+      "EVT008",
+      "EVT015",
+      "EVT016",
+      "EVT017",
+      "EVT021",
+      "EVT024",
+      "EVT038",
+      "EVT039",
+      "EVT041"
+    ],
+    "Related_Location_IDs": [
+      "LOC004",
+      "LOC010"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Supplied to the project owner by the TLDM. Not published.",
+    "Verification_Notes": "Official TLDM briefing. Used for the entry into TLDM service (16 May 1977), the Southampton ceremony, the 1977 voyage, the ship's roles and squadron, the re-engining, armament and boats, the training bridge, the later Chiefs of Navy, awards, the 2022 slipping, specifications and the deck plans. Undated (prepared between 2022 and 2024). Not published.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC039",
+    "Source_Title": "Mantan Pegawai Memerintah KD Hang Tuah (list of former commanding officers)",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM)",
+    "Source_Type": "Primary — official TLDM list",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "TLDM list, 1 page, 39 entries (22 July 1977 – 27 July 2026).",
+    "Related_Event_IDs": [
+      "EVT034"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Supplied by the TLDM. Not published; only names, ranks and dates are used.",
+    "Verification_Notes": "Official TLDM list. Used for the names, ranks and dates of the commanding officers; service numbers are not reproduced. Not published.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC040",
+    "Source_Title": "Noktah Pelayaran Op FAJAR 03/2008: catatan seorang pelaut",
+    "Author_or_Organisation": "Lt Mohd Faizul bin Yaacob TLDM (Pegawai Peperangan Elektronik 2, KD Hang Tuah)",
+    "Source_Type": "Primary — first-hand account by a TLDM officer on board",
+    "Publication_Date": "2009",
+    "Source_URL": "",
+    "Document_Reference": "Account, 16 pages. Pages cited: 2, 4, 5 and 16.",
+    "Related_Event_IDs": [
+      "EVT029"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Supplied by the TLDM. Not published.",
+    "Verification_Notes": "First-hand account by a TLDM officer on board. Used for the general facts of the Op Fajar deployment, 4 February – 14 May 2009. Not published.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC041",
+    "Source_Title": "Selamat pulang KD Hang Tuah",
+    "Author_or_Organisation": "Watan",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "1977-10-13",
+    "Source_URL": "",
+    "Document_Reference": "Watan, 13 October 1977. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT018",
+      "EVT020"
+    ],
+    "Related_Location_IDs": [
+      "LOC007",
+      "LOC008",
+      "LOC010",
+      "LOC012",
+      "LOC018"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper report quoting the Ministry of Defence. Used for the 1977 ports of call, the departure from Colombo on 9 October and the calls at Jeddah and Malacca.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC042",
+    "Source_Title": "Tepung tawar untuk 'Hang Tuah'",
+    "Author_or_Organisation": "Berita Harian",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "1977-10-15",
+    "Source_URL": "",
+    "Document_Reference": "Berita Harian, Saturday 15 October 1977. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT019",
+      "EVT020"
+    ],
+    "Related_Location_IDs": [
+      "LOC007",
+      "LOC008",
+      "LOC010",
+      "LOC012",
+      "LOC018"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper report. Used for the tepung tawar at Port Klang, the 1977 ports of call, the departure from Colombo and the call at Malacca.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC043",
+    "Source_Title": "Ibrahim diberi penghormatan tepung tawarkan KD Hang Tuah",
+    "Author_or_Organisation": "Utusan Malaysia",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "1977-10-15",
+    "Source_URL": "",
+    "Document_Reference": "Utusan Malaysia, 15 October 1977 (dateline Kelang, 14 October). Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT019"
+    ],
+    "Related_Location_IDs": [
+      "LOC007",
+      "LOC008",
+      "LOC010",
+      "LOC018"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper report quoting the commanding officer. Used for the tepung tawar and the 1977 ports of call.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC044",
+    "Source_Title": "Datin Badariah rasmi kapal KD Hang Tuah",
+    "Author_or_Organisation": "Utusan Malaysia",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "1977-10-19",
+    "Source_URL": "",
+    "Document_Reference": "Utusan Malaysia, 19 October 1977. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT016"
+    ],
+    "Related_Location_IDs": [
+      "LOC004"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper report. Used for the commissioning at Southampton on 22 July 1977 and the naming by Datin Badariah.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC045",
+    "Source_Title": "Frigate KD Hang Tuah to call at Kuching",
+    "Author_or_Organisation": "Newspaper (title not visible)",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "1983",
+    "Source_URL": "",
+    "Document_Reference": "Undated newspaper clipping (title not visible); the album page carries a handwritten heading giving 5–9 May 1983. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT034"
+    ],
+    "Related_Location_IDs": [
+      "LOC019"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper clipping. Used for the 1983 visit to Kuching; the dates are handwritten on the album page.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC046",
+    "Source_Title": "Malaysian Navy stays in trim with allies",
+    "Author_or_Organisation": "John McLean, Hong Kong newspaper (title not visible)",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Undated Hong Kong newspaper clipping (title not visible). Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT009"
+    ],
+    "Related_Location_IDs": [
+      "LOC005"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper report. Used for HMS Mermaid's basing in Singapore in 1974 and 1975.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC047",
+    "Source_Title": "Fiji Sun reports of the Suva visit",
+    "Author_or_Organisation": "Fiji Sun",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "1985",
+    "Source_URL": "",
+    "Document_Reference": "Fiji Sun, two undated clippings (1985). Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT035"
+    ],
+    "Related_Location_IDs": [
+      "LOC020",
+      "LOC021",
+      "LOC022"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper reports. Used for the 1985 South Pacific cruise and the calls at Suva, Nuku'alofa and Darwin.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC048",
+    "Source_Title": "Malay warship arrives in POM; Malaysia visitor",
+    "Author_or_Organisation": "Post-Courier (30 July 1985) and Niugini Nius (1 August 1985), Papua New Guinea",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "1985-07-30",
+    "Source_URL": "",
+    "Document_Reference": "Post-Courier, 30 July 1985; Niugini Nius, 1 August 1985. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT035",
+      "EVT036"
+    ],
+    "Related_Location_IDs": [
+      "LOC020",
+      "LOC021",
+      "LOC022",
+      "LOC023"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper reports. Used for the 1985 South Pacific cruise and the visit to Port Moresby from 31 July 1985.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC049",
+    "Source_Title": "Malaysian Navy visits HCMC",
+    "Author_or_Organisation": "The Saigon Times",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "2000-07-27",
+    "Source_URL": "",
+    "Document_Reference": "The Saigon Times, Thursday 27 July 2000. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT037"
+    ],
+    "Related_Location_IDs": [
+      "LOC024"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper report. Used for the visit to Ho Chi Minh City from 26 July 2000.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC050",
+    "Source_Title": "KD Hang Tuah in Sandakan",
+    "Author_or_Organisation": "New Times Sabah (Sante Villiamon)",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "2007-09-25",
+    "Source_URL": "",
+    "Document_Reference": "New Times Sabah, Tuesday 25 September 2007. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT004",
+      "EVT015",
+      "EVT040"
+    ],
+    "Related_Location_IDs": [
+      "LOC025"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper report. Used for the 2007 visit to Sandakan, the launch date and the date of entry into service.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC051",
+    "Source_Title": "HMS Mermaid photo board: ICGV Baldur, 6 May 1976",
+    "Author_or_Organisation": "Photographs by G Wicks (Royal Navy); board in the TLDM clippings album",
+    "Source_Type": "Primary — captioned photographs",
+    "Publication_Date": "1976",
+    "Source_URL": "",
+    "Document_Reference": "Photo board with captioned photographs (1976), held in the TLDM clippings album.",
+    "Related_Event_IDs": [
+      "EVT012"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Photographs belong to their maker; they are not reproduced on this site.",
+    "Verification_Notes": "Captioned photographs. Used for the incident with ICGV Baldur on 6 May 1976. Not published.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC052",
+    "Source_Title": "TLDM photograph album: naming and commissioning ceremony at Southampton, 1977",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM) photograph album",
+    "Source_Type": "Primary — photograph album",
+    "Publication_Date": "1977",
+    "Source_URL": "",
+    "Document_Reference": "Album section of 8 photographs; the section title names the naming and commissioning ceremony at Southampton. No captions on the prints.",
+    "Related_Event_IDs": [
+      "EVT016"
+    ],
+    "Related_Location_IDs": [
+      "LOC004"
+    ],
+    "Image_Credit": "",
+    "Rights_Status": "Photographs are not reproduced on this site.",
+    "Verification_Notes": "TLDM photograph album. Used for the place of the commissioning ceremony (Southampton). Not published.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC053",
+    "Source_Title": "From day cabin to lecture room; Hospitable ship",
+    "Author_or_Organisation": "Allan Hale (Western Australia newspaper); Port Hedland newspaper",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Two undated clippings from Western Australian newspapers. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper clippings (Fremantle, Port Hedland); undated. Used in the research register only; not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC054",
+    "Source_Title": "Clippings and programmes from 1978–1979",
+    "Author_or_Organisation": "Various (Pakistan Naval Academy invitation; Malaysian and Pakistani newspapers; ship's programme)",
+    "Source_Type": "Newspaper / programme",
+    "Publication_Date": "1979",
+    "Source_URL": "",
+    "Document_Reference": "Clippings and programmes, 1978–1979. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Clippings and programmes from 1978–1979; undated or conflicting. Used in the research register only; not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC055",
+    "Source_Title": "Arabic-language newspaper report on KD Hang Tuah, 2009",
+    "Author_or_Organisation": "Arabic-language newspaper (title not visible)",
+    "Source_Type": "Newspaper",
+    "Publication_Date": "2009",
+    "Source_URL": "",
+    "Document_Reference": "Undated clipping. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Newspaper report from the 2009 deployment. Not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC056",
+    "Source_Title": "TLDM photograph album: launch of KD Hang Tuah as a museum ship, 2018",
+    "Author_or_Organisation": "Royal Malaysian Navy (TLDM) photograph album",
+    "Source_Type": "Primary — photograph album",
+    "Publication_Date": "2018",
+    "Source_URL": "",
+    "Document_Reference": "Album section of 71 photographs; a banner in the photographs reads 'Majlis Pelancaran Kapal Muzium TLDM'.",
+    "Related_Event_IDs": [
+      "EVT030"
+    ],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Photographs are not reproduced on this site.",
+    "Verification_Notes": "TLDM photograph album. Used to support the 2018 museum-ship ceremony. Not published.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC057",
+    "Source_Title": "Lagenda Mahsuri mengundang Hang Tuah; dinner invitation, Ho Chi Minh City",
+    "Author_or_Organisation": "Samudera, p.19 (publication details not visible); invitation card",
+    "Source_Type": "Magazine / invitation",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Magazine page and invitation card. Newspaper clipping held in the TLDM clippings album.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Newspaper clipping held in the TLDM clippings album. Copyright belongs to the newspaper; the clipping is not reproduced on this site.",
+    "Verification_Notes": "Magazine page and invitation; the Langkawi salute is undated. Used in the research register only; not relied on for any claim on this site.",
+    "Is_Placeholder": false,
+    "Relied_On": false
+  },
+  {
+    "Source_ID": "SRC058",
+    "Source_Title": "Exhibition board 'Pengubahsuaian Simple Tachyometric Director (STD) Kepada Anjungan Latihan'",
+    "Author_or_Organisation": "On-board exhibition, KD Hang Tuah (producer not stated)",
+    "Source_Type": "Secondary — on-board exhibition board",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Board in the junior rates' dining hall; photographed by the project on board KD Hang Tuah, 30 September 2026. Includes a profile drawing, a front photograph of the training bridge and a top-view sketch of the converted STD compartment.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Board content belongs to its producer. Photograph unpublished.",
+    "Verification_Notes": "Secondary source. Its statements are recorded as 'Stated on the exhibition board': the STD was located on top of the bridge; from 1998 a proposal was made to convert the STD structure into a training bridge; the sketch shows three forward windows, two windows on each side, a chart table, a step ladder, a hatch for the deck head and doors at the after end, with lengths read as 2000 (extended) and 3600 (existing). The figures on the sketch are blurred in the photograph.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC059",
+    "Source_Title": "Exhibition board 'Pengubahsuaian Meriam-Meriam Kapal'",
+    "Author_or_Organisation": "On-board exhibition, KD Hang Tuah (producer not stated)",
+    "Source_Type": "Secondary — on-board exhibition board",
+    "Publication_Date": "",
+    "Source_URL": "",
+    "Document_Reference": "Board in the junior rates' dining hall; photographed by the project on board KD Hang Tuah, 30 September 2026.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Board content belongs to its producer. Photograph unpublished.",
+    "Verification_Notes": "Secondary source. Stated on the exhibition board: the 4-inch gun was replaced by the Bofors 57 mm; two Bofors 40 mm/L60 support guns were replaced by Bofors 40 mm/L70. A captioned photograph 'Meriam (S1) Bofors 40mm/L70' shows the mounting used to identify the Y gun mountings in the 2026 photographs. No dates are given.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  },
+  {
+    "Source_ID": "SRC060",
+    "Source_Title": "Site-visit photographs of KD Hang Tuah (project photographs, 2026)",
+    "Author_or_Organisation": "Project site visits",
+    "Source_Type": "Primary — project photographs (internal modelling reference)",
+    "Publication_Date": "2026",
+    "Source_URL": "",
+    "Document_Reference": "Photographs taken on board KD Hang Tuah during the project site visits around 30 September 2026 (main bridge, training bridge, wheelhouse, engine room, Y gun position). Held by the project; not published. Individual photographs are listed in the project's internal evidence register.",
+    "Related_Event_IDs": [],
+    "Related_Location_IDs": [],
+    "Image_Credit": "",
+    "Rights_Status": "Internal modelling reference only. Not published; no photograph is reproduced on this site or in the 3D model.",
+    "Verification_Notes": "Used only to model visible forms (layout of furniture and equipment, shapes and colours). No face, name, label, screen content or control layout is reproduced. The photographs show the ship as she was in 2026 and do not date any earlier arrangement.",
+    "Is_Placeholder": false,
+    "Relied_On": true
+  }
+]

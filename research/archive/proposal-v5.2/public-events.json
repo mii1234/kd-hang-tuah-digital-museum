@@ -1,0 +1,538 @@
+[
+  {
+    "Event_ID": "EVT003",
+    "Date": "1966",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Coup in Ghana; order cancelled",
+    "Event_Title_MS": "Rampasan kuasa di Ghana; tempahan dibatalkan",
+    "Event_Category": "Construction and Origins",
+    "Location_ID": null,
+    "Description": "President Nkrumah was deposed in a coup and the new government cancelled the order, which was costing in the region of £5 million. This left Yarrow with a partly completed ship.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC016",
+      "SRC017"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT004"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 3
+  },
+  {
+    "Event_ID": "EVT004",
+    "Date": "1966-12-29",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Launched without ceremony",
+    "Event_Title_MS": "Dilancarkan tanpa upacara",
+    "Event_Category": "Construction and Origins",
+    "Location_ID": "LOC001",
+    "Description": "Yarrow decided to finish the ship in the hope of finding another buyer and launched her without ceremony on 29 December 1966.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC017"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT003"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 4
+  },
+  {
+    "Event_ID": "EVT007",
+    "Date": "1972-04",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Moved to Portsmouth; refitted at Chatham",
+    "Event_Title_MS": "Dipindahkan ke Portsmouth; dibaik pulih di Chatham",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": "LOC002",
+    "Description": "In April 1972 the ship was moved from the Firth of Clyde to Portsmouth Dockyard, and then to Chatham Dockyard, where she was refitted to Royal Navy standards.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT008"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 7
+  },
+  {
+    "Event_ID": "EVT008",
+    "Date": "1973-05-16",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Commissioned as HMS Mermaid (F76)",
+    "Event_Title_MS": "Ditauliahkan sebagai HMS Mermaid (F76)",
+    "Event_Category": "Commissioning",
+    "Location_ID": null,
+    "Description": "Commissioned into the Royal Navy as HMS Mermaid with the pennant number F76.",
+    "Description_MS": "",
+    "Historical_Notes": "The place of commissioning is not stated in the sources reviewed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC017"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT007"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 8
+  },
+  {
+    "Event_ID": "EVT013",
+    "Date": "1976-09-20",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Collision with HMS Fittleton",
+    "Event_Title_MS": "Perlanggaran dengan HMS Fittleton",
+    "Event_Category": "Naval Service",
+    "Location_ID": null,
+    "Description": "The minesweeper HMS Fittleton collided with Mermaid while coming alongside, capsized and sank. Twelve men died, eleven of them Royal Naval Reserve volunteers.",
+    "Description_MS": "",
+    "Historical_Notes": "The collision happened during a NATO exercise (SRC016), on passage to Hamburg (SRC023). The exact position is not given in the sources reviewed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC022",
+      "SRC023",
+      "SRC016"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 13
+  },
+  {
+    "Event_ID": "EVT016",
+    "Date": "1977-07-22",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Commissioned as KD Hang Tuah",
+    "Event_Title_MS": "Ditauliahkan sebagai KD Hang Tuah",
+    "Event_Category": "Commissioning",
+    "Location_ID": null,
+    "Description": "Commissioned into the Royal Malaysian Navy as KD Hang Tuah, named after Laksamana Hang Tuah, a warrior of Malay history. She kept her Royal Navy pennant number, F76.",
+    "Description_MS": "",
+    "Historical_Notes": "Date as given by Bernama (2018) and Utusan Malaysia (2025). The place of commissioning is still being checked.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC007",
+      "SRC009",
+      "SRC016"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT017"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 16
+  },
+  {
+    "Event_ID": "EVT017",
+    "Date": "1977-08-15",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Departs Portsmouth for Malaysia",
+    "Event_Title_MS": "Berlepas dari Portsmouth pulang ke tanah air",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC002",
+    "Description": "KD Hang Tuah began her voyage home at 3.00 pm local time on Monday, 15 August 1977, leaving the British naval dockyard at Portsmouth. The passage took about two months.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT016",
+      "EVT018"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 17
+  },
+  {
+    "Event_ID": "EVT018",
+    "Date": "1977-09-10",
+    "Date_Precision": "day",
+    "End_Date": "1977-09-17",
+    "Event_Title": "Seven days at Jeddah",
+    "Event_Title_MS": "Tujuh hari di Jeddah",
+    "Event_Category": "International Visits",
+    "Location_ID": "LOC009",
+    "Description": "During a seven-day stay at Jeddah from 10 to 17 September 1977, Muslim members of the crew were able to perform the Umrah and celebrate Hari Raya Aidilfitri in the Holy Land.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT017",
+      "EVT019"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 18
+  },
+  {
+    "Event_ID": "EVT019",
+    "Date": "1977-10-14",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Arrives at Port Klang",
+    "Event_Title_MS": "Tiba di Pelabuhan Klang",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC013",
+    "Description": "KD Hang Tuah arrived at Port Klang at 9.00 am on 14 October 1977. She was welcomed by the Chief of the Armed Forces, General Tan Sri Ibrahim bin Ismail; the Chief of the Army, General Tan Sri Sany bin Abdul Ghaffar; the Chief of the Navy, Rear Admiral Datuk Mohd Zain bin Mohd Salleh; senior TLDM officers, members of the LLP and Ministry of Defence staff.",
+    "Description_MS": "",
+    "Historical_Notes": "Names, ranks and the abbreviation 'LLP' are given as written on the panel ('Laksamana Muda' translated as Rear Admiral). A photograph on the panel shows General Tan Sri Ibrahim bin Ismail performing the tepung tawar blessing on the ship at Port Klang.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT018",
+      "EVT020"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 19
+  },
+  {
+    "Event_ID": "EVT020",
+    "Date": "1977-10-16",
+    "Date_Precision": "day",
+    "End_Date": "1977-10-17",
+    "Event_Title": "Two days at Malacca",
+    "Event_Title_MS": "Dua hari di Melaka",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC014",
+    "Description": "The ship called at Malacca on 16 and 17 October 1977 to commemorate the state's history and in honour of her name, before sailing for the TLDM base at Woodlands.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT019",
+      "EVT021"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 20
+  },
+  {
+    "Event_ID": "EVT021",
+    "Date": "1977-10-18",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Arrives at TLDM Woodlands base, Singapore",
+    "Event_Title_MS": "Tiba di Pangkalan TLDM Woodlands, Singapura",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC015",
+    "Description": "On 18 October 1977 KD Hang Tuah berthed at the jetty of the TLDM base at Woodlands, Singapore, where the navy remained until its move to Lumut in 1984. She was welcomed by the Naval Region I commander, Commodore P. K. Nettur, the commanding officer of KD Malaya, M. W. Alvisse, and the families of the crew.",
+    "Description_MS": "",
+    "Historical_Notes": "Names as written on the panel: 'Panglima Wilayah Laut I, Komodor P.K. Nettur' and 'Pegawai Memerintah KD MALAYA, Kolonel M. W. Alvisse' (rank 'Kolonel' as written).",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001",
+      "SRC006"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT020",
+      "EVT022"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 21
+  },
+  {
+    "Event_ID": "EVT022",
+    "Date": "1984-09-09",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Carries the navy's royal colours from Woodlands to Lumut",
+    "Event_Title_MS": "Membawa panji-panji Diraja TLDM dari Woodlands ke Lumut",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC016",
+    "Description": "As the TLDM moved its headquarters from Woodlands to Lumut, the navy's royal colours (panji-panji Diraja) were transferred to the new KD Malaya at Lumut by the Fleet Materiel Commander, Captain Khoo Tee Chuan, travelling aboard KD Hang Tuah.",
+    "Description_MS": "",
+    "Historical_Notes": "From the TLDM website, which names the ship only as 'KD HANG TUAH'. It is identified as this ship because the earlier KD Hang Tuah (ex-HMS Loch Insh) left service in 1977 (SRC024).",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC006",
+      "SRC024"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT021"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 22
+  },
+  {
+    "Event_ID": "EVT024",
+    "Date": "1994-08",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Re-engining approved",
+    "Event_Title_MS": "Pengenjinan semula diluluskan",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "During Docking Essential Defect (DED) repairs at Naval Dockyard Sdn Bhd, the ship's 1940s-technology Admiralty Standard Range engines (eight ASR1 16 VTS main engines and four ASR1 8 LTS generators) were found worn, with genuine spare parts hard to obtain. In August 1994 a ministerial meeting approved the TLDM's proposal to fit new engines.",
+    "Description_MS": "",
+    "Historical_Notes": "The panel text is cut off at the right edge in the photograph; the year of the docking after '1 September' is not visible. The panel names the meeting 'Mesyuarat Lembaga Menteri' (wording partly cut off). It also notes that spare parts supplied without certificates of origin were returned to the supplier.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT025"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 24
+  },
+  {
+    "Event_ID": "EVT025",
+    "Date": "1995-08-22",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Re-engining contract awarded to Wärtsilä",
+    "Event_Title_MS": "Kontrak pengenjinan semula diberikan kepada Wärtsilä",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "After evaluating offers from local and international firms, the TLDM awarded the contract to Wärtsilä, which offered two type 12SW28 main engines and three generator sets.",
+    "Description_MS": "",
+    "Historical_Notes": "The generator model is only partly legible in the photograph ('…25S').",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT024",
+      "EVT026"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 25
+  },
+  {
+    "Event_ID": "EVT026",
+    "Date": "1995-10-09",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Towed to Pasir Gudang for re-engining",
+    "Event_Title_MS": "Ditunda ke Pasir Gudang untuk pengenjinan semula",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": "LOC017",
+    "Description": "The ship was towed to Malaysia Shipyard & Engineering (MSE), now Malaysia Marine and Heavy Engineering Sdn Bhd, at Pasir Gudang, Johor, where the re-engining was carried out.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT025",
+      "EVT027"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 26
+  },
+  {
+    "Event_ID": "EVT027",
+    "Date": "1997-02",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Re-engined ship accepted by the TLDM",
+    "Event_Title_MS": "Kapal diterima semula oleh TLDM selepas pengenjinan semula",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "The re-engining, which cost RM24 million, was completed and the ship was accepted by the TLDM in February 1997.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT026"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 28
+  },
+  {
+    "Event_ID": "EVT030",
+    "Date": "2018-11-21",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Designated the navy's museum ship",
+    "Event_Title_MS": "Diisytiharkan sebagai kapal muzium TLDM",
+    "Event_Category": "Museum and Preservation",
+    "Location_ID": "LOC016",
+    "Description": "At a ceremony at Lumut naval base, the Chief of Navy, Admiral Tan Sri Ahmad Kamarulzaman Ahmad Badaruddin, declared KD Hang Tuah, then the oldest ship in the fleet, the TLDM's museum ship. She remained in commission. By then she had sailed some 500,000 km.",
+    "Description_MS": "",
+    "Historical_Notes": "Bernama reported that Boustead Naval Shipyard and the Ministry of Tourism, Arts and Culture would carry out the conversion, with opening then expected in early 2019.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC007",
+      "SRC008"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT031"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 30
+  },
+  {
+    "Event_ID": "EVT031",
+    "Date": "2025-12-03",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Decommissioned at Lumut",
+    "Event_Title_MS": "Dilucutkan tauliah di Lumut",
+    "Event_Category": "Decommissioning",
+    "Location_ID": "LOC016",
+    "Description": "KD Hang Tuah was decommissioned in a military ceremony at Lumut naval base after nearly five decades of Malaysian service. The Western Fleet Commander, Vice Admiral Datuk Baharudin Wan Md Nor, officiated; the ship's bell was rung and her ensign lowered for the last time. The decommissioning formed part of the TLDM's '15 to 5' fleet transformation programme.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC009",
+      "SRC010",
+      "SRC011"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT030",
+      "EVT032"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 31
+  },
+  {
+    "Event_ID": "EVT032",
+    "Date": "2026-07-27",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Handed over to the Perak state government",
+    "Event_Title_MS": "Diserahkan kepada Kerajaan Negeri Perak",
+    "Event_Category": "Museum and Preservation",
+    "Location_ID": "LOC016",
+    "Description": "At a ceremony at Himpitan 1, Lumut naval base, the TLDM handed the ship to the Perak state government, represented by the Menteri Besar, Datuk Seri Saarani Mohamad, for conversion into the Memorial Muzium Kapal Diraja Hang Tuah. The project is a public–private partnership between Menteri Besar Incorporated (MB Inc.) and Aero Art Sdn Bhd; its first phase is budgeted at RM30 million.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC012",
+      "SRC013",
+      "SRC014"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT031"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 32
+  }
+]

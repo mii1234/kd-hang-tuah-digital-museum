@@ -1,0 +1,1806 @@
+{
+  "_comment": "3D Ship Explorer data (Phase 2) (The Ship page). The model is an approximate reconstruction; every component's identity is supported by the listed sources, its modelled shape and position are estimates (see Model_Accuracy). Kept separate from the 3D code in src/features/ship3d/. Checked by npm test and npm run validate-data.",
+  "Model": {
+    "File": "/models/kd-hang-tuah-exterior.glb",
+    "Title": "Approximate 3D reconstruction",
+    "Title_MS": "Rekonstruksi 3D anggaran",
+    "Note": "This is a historically informed, approximate reconstruction, not an exact replica. Only the length, beam and draught come from the sources. Positions follow the TLDM deck plans (No. 1, 01, 02, No. 2 and No. 3 decks); heights and shapes are estimates from photographs and a profile drawing that are not published. The internal structure is conceptual; the interiors are approximate reconstructions.",
+    "Note_MS": "Ini ialah rekonstruksi anggaran berasaskan sejarah, bukan replika tepat. Hanya panjang, lebar dan draf diambil daripada sumber. Kedudukan mengikut pelan geladak TLDM (geladak No. 1, 01, 02, No. 2 dan No. 3); ketinggian dan bentuk ialah anggaran berdasarkan gambar dan lukisan profil yang tidak diterbitkan. Struktur dalaman ialah konseptual; ruang dalaman ialah rekonstruksi anggaran.",
+    "Source_IDs": [
+      "SRC038",
+      "SRC015",
+      "SRC016"
+    ],
+    "Units": "metres",
+    "Default_Configuration": "later"
+  },
+  "Configurations": [
+    {
+      "Config_ID": "as_built",
+      "Label": "As built / 1977 arrival",
+      "Label_MS": "Seperti dibina / ketibaan 1977",
+      "Description": "Twin 4-inch Mk16 gun forward, the Simple Tachyometric Director (STD) above the bridge, the Limbo Mk10 mortar on the flight deck and two sea boats on davits (TLDM briefing, pp.10–13); 'F76' painted on the bow. The two 40 mm guns are not shown: the briefing records them, but not when they were first fitted.",
+      "Description_MS": "Meriam Laras Berkembar 4 inci Mk16 di hadapan, Simple Tachyometric Director (STD) di atas anjungan, Mortar Limbo Mk10 di geladak penerbangan dan dua bot laut pada davit (taklimat TLDM, ms. 10–13); 'F76' dicat di haluan. Dua meriam 40 mm tidak dipaparkan: taklimat merekodkannya, tetapi bukan bila ia mula dipasang.",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    },
+    {
+      "Config_ID": "later",
+      "Label": "Later TLDM configuration – exact change date unverified",
+      "Label_MS": "Konfigurasi TLDM kemudian – tarikh sebenar perubahan belum disahkan",
+      "Description": "Bofors 57 mm/L70 gun forward, the training bridge on the former STD position, two Bofors 40 mm/L70 guns at the Y gun position (port and starboard), no Limbo mortar, and two 7.62 m rigid inflatable boats with boat cranes; '76' painted on the bow as in the 2022 photographs (TLDM briefing, pp.10–13, 21 and 25). The briefing does not date the gun changes; it gives 2000 as the last year the Limbo was operated and October 2001 for the new boats. These dates do not date the rest of the configuration.",
+      "Description_MS": "Meriam Bofors 57 mm/L70 di hadapan, anjungan latihan di kedudukan bekas STD, dua meriam Bofors 40 mm/L70 di kedudukan Y gun (kiri dan kanan), tiada Mortar Limbo, dan dua bot kembung keras 7.62 m dengan kren bot; '76' dicat di haluan seperti dalam gambar tahun 2022 (taklimat TLDM, ms. 10–13, 21 dan 25). Taklimat tidak menyatakan tarikh perubahan meriam; ia menyatakan tahun 2000 sebagai tahun terakhir Mortar Limbo dikendalikan dan Oktober 2001 bagi bot baharu. Tarikh ini tidak menentukan tarikh bahagian lain konfigurasi.",
+      "Source_IDs": [
+        "SRC038"
+      ]
+    }
+  ],
+  "Comparison_Note": "This compares two documented configurations on the same hull. It does not claim that the ship changed from one to the other on a particular date, or that both were ever fitted at the same time. The hull is the same in both because no source records a change to it.",
+  "Comparison_Note_MS": "Ini membandingkan dua konfigurasi yang didokumenkan pada badan kapal yang sama. Ia tidak mendakwa bahawa kapal bertukar daripada satu kepada yang lain pada tarikh tertentu, atau bahawa kedua-duanya pernah dipasang serentak. Badan kapal adalah sama dalam kedua-duanya kerana tiada sumber merekodkan perubahan padanya.",
+  "Dimensions": [
+    {
+      "Key": "length",
+      "Label": "Length ('Panjang', TLDM briefing)",
+      "Label_MS": "Panjang (taklimat TLDM)",
+      "Value_m": 103.5,
+      "Display": "103.5 m",
+      "Line": "length_overall",
+      "Mapping_Note": "Drawn from the stern to the bow as the length overall: SRC016 gives 339 ft 7 in overall, which is 103.5 m. Other figures: about 105.1 m (SRC015), 105 m and 105.15 m (newspaper reports).",
+      "Mapping_Note_MS": "Dilukis dari buritan ke haluan sebagai panjang keseluruhan: SRC016 memberikan 339 kaki 7 inci keseluruhan, iaitu 103.5 m. Angka lain: kira-kira 105.1 m (SRC015), 105 m dan 105.15 m (laporan akhbar).",
+      "Source_IDs": [
+        "SRC038",
+        "SRC016"
+      ],
+      "Verification": "Verified"
+    },
+    {
+      "Key": "beam",
+      "Label": "Beam ('Lebar', TLDM briefing)",
+      "Label_MS": "Lebar (taklimat TLDM)",
+      "Value_m": 12.2,
+      "Display": "12.2 m (40 ft)",
+      "Line": "beam_max",
+      "Mapping_Note": "Drawn across the widest part of the hull; SRC015 gives the same breadth.",
+      "Mapping_Note_MS": "Dilukis merentasi bahagian badan kapal yang paling lebar; SRC015 memberikan kelebaran yang sama.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC015"
+      ],
+      "Verification": "Verified"
+    },
+    {
+      "Key": "draught",
+      "Label": "Draught ('Draught Kapal', TLDM briefing)",
+      "Label_MS": "Draf (taklimat TLDM)",
+      "Value_m": 4.9,
+      "Display": "4.9 m",
+      "Line": "draught",
+      "Mapping_Note": "Drawn from the waterline to the bottom of the keel. The briefing does not state the loading condition. Other figures: about 3.7 m (SRC015) and 5.1 m (a newspaper report).",
+      "Mapping_Note_MS": "Dilukis dari garis air ke bahagian bawah lunas. Taklimat tidak menyatakan keadaan muatan. Angka lain: kira-kira 3.7 m (SRC015) dan 5.1 m (laporan akhbar).",
+      "Source_IDs": [
+        "SRC038",
+        "SRC015"
+      ],
+      "Verification": "Verified"
+    },
+    {
+      "Key": "height",
+      "Label": "Height ('Tinggi', TLDM briefing)",
+      "Label_MS": "Tinggi (taklimat TLDM)",
+      "Value_m": 22.05,
+      "Display": "22.05 m",
+      "Line": null,
+      "Mapping_Note": "Shown as a specification only. The briefing does not say what 'Tinggi' is measured from or to (for example, from the keel or the waterline to the masthead), so no measurement line is drawn on the model.",
+      "Mapping_Note_MS": "Dipaparkan sebagai spesifikasi sahaja. Taklimat tidak menyatakan dari mana dan ke mana 'Tinggi' diukur (contohnya dari lunas atau garis air ke puncak tiang), jadi tiada garis ukuran dilukis pada model.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified"
+    }
+  ],
+  "Components": [
+    {
+      "Component_ID": "EXT01",
+      "Name": "Hull",
+      "Name_MS": "",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Meshes": [
+        "hull_topside",
+        "hull_boottop",
+        "hull_bottom",
+        "hull_deck_edge"
+      ],
+      "Description": "The steel hull of a frigate built by Yarrow at Scotstoun, Glasgow, as Black Star for Ghana and launched on 29 December 1966. The TLDM briefing gives a length of 103.5 m, a beam of 12.2 m and a draught of 4.9 m.",
+      "Function": "",
+      "History": "TLDM photographs of the 2022 slipping at Lumut show the hull out of the water: grey above, a black band at the waterline and red below (briefing, p.19).",
+      "Model_Accuracy": "Approximate. Length, beam and draught follow the sources. The hull lines (sheer, flare, bow and stern rake, round bilge) are estimates from a profile drawing and photographs; the deck outline follows the proportions of the No. 1 deck plan.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC015",
+        "SRC016"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Anchor_Meshes": [
+        "hull_boottop"
+      ],
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT02",
+      "Name": "Forecastle (A gun)",
+      "Name_MS": "Geladak Haluan (A gun)",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Meshes": [
+        "deck_forecastle"
+      ],
+      "Description": "The forward deck, which carries the forward gun position, conventionally called 'A'. It appears as 'Geladak Haluan (A gun)' in the TLDM No. 1 deck plan and in the site-visit list.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate. The outline follows the No. 1 deck plan; the fittings are separate parts (breakwater, mooring and anchoring fittings).",
+      "Source_IDs": [
+        "SRC004",
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP012",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT03",
+      "Name": "Twin 4-inch Mk16 gun",
+      "Name_MS": "Meriam Laras Berkembar 4 inci Mk16",
+      "Group": "Armament",
+      "Config": "as_built",
+      "Counterpart_ID": "EXT04",
+      "Meshes": [
+        "gun_4in_twin"
+      ],
+      "Description": "The ship's main gun from when she was built, called the '4 inci gun' in the TLDM briefing, mounted at the A position on the forecastle.",
+      "Function": "",
+      "History": "The briefing says it was replaced by the Bofors 57 mm/L70 because spare parts had become hard to obtain and the gun was obsolete, and that the 4-inch gun is now at the TLDM Museum in Melaka. The date of the change is not given.",
+      "Model_Accuracy": "Approximate mounting and barrel shapes. The briefing names the gun 'Mk16'; two images in the reference folder say 'Mk19'. The briefing's wording is kept.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP012",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT04",
+      "Name": "Bofors 57 mm/L70 gun",
+      "Name_MS": "Meriam Bofors 57mm/L70",
+      "Group": "Armament",
+      "Config": "later",
+      "Counterpart_ID": "EXT03",
+      "Meshes": [
+        "gun_57mm",
+        "gun_57mm_well"
+      ],
+      "Description": "The gun that replaced the twin 4-inch gun at the A position on the forecastle, in a raised circular well.",
+      "Function": "",
+      "History": "The TLDM briefing records the change but not its date. Its current-condition pages (2022) list the gun as not operational ('tidak beroperasi').",
+      "Model_Accuracy": "Approximate turret, well and barrel shapes, based on the TLDM briefing photographs (pp.21 and 26) and the No. 1 deck plan, which marks 'BOFORS 57MM MK I' at the A position.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP012",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT05",
+      "Name": "Bridge",
+      "Name_MS": "Anjungan",
+      "Group": "Superstructure",
+      "Config": "shared",
+      "Meshes": [
+        "bridge",
+        "bridge_windows"
+      ],
+      "Description": "The ship's main bridge, from which she was conned and navigated: the enclosed bridge at the forward end of the 01 deck, with the chart room and nav cabin behind it and bridge wings on each side (TLDM 01 Deck plan, briefing p.31).",
+      "Function": "Conning and navigating the ship.",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Phase 3 correction: moved down one level onto the 01 deck, following the 01 Deck and 02 Signal Deck plans (pp.31–32); Phase 2 had it one level too high. Chamfered front and outward-leaning windows follow the plan and the bridge-front photographs; the number and size of the windows are simplified. The interior can be inspected.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC058",
+        "SRC060",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP001",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Inspect_Space": "main_bridge",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT06",
+      "Name": "Simple Tachyometric Director (STD)",
+      "Name_MS": "Simple Tachyometric Director (STD)",
+      "Group": "Superstructure",
+      "Config": "as_built",
+      "Counterpart_ID": "EXT07",
+      "Meshes": [
+        "std_director",
+        "std_position_bulwark"
+      ],
+      "Description": "Equipment on the 02 deck above the bridge that, according to the TLDM briefing, provided weapon direction ('Weapon Director') for firing the 4-inch gun. Stated on the exhibition board: the STD was located on top of the bridge.",
+      "Function": "Weapon direction for the 4-inch gun (briefing, p.12).",
+      "History": "The briefing says the STD was no longer needed once the 4-inch gun was removed and replaced by the Bofors 57 mm, and that its position became the training bridge.",
+      "Model_Accuracy": "Approximate reconstruction. The STD compartment is drawn with the 'existing length' of 3.6 m read from the exhibition-board sketch, with the director on the octagonal position forward of it (02 Signal Deck plan, p.32). Shapes and heights are estimates.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC058"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT07",
+      "Name": "Training bridge",
+      "Name_MS": "Anjungan Latihan",
+      "Group": "Superstructure",
+      "Config": "later",
+      "Counterpart_ID": "EXT06",
+      "Meshes": [
+        "training_bridge",
+        "training_bridge_windows",
+        "training_bridge_doors"
+      ],
+      "Description": "A bridge used for training officers in navigation and ship handling, on the 02 (signal) deck one level above the main bridge, at frames 20 to about 16 on the TLDM 02 Signal Deck plan (p.32). Three forward windows, two windows on each side and doors at the after end.",
+      "Function": "Training officers in navigation and ship handling.",
+      "History": "Created after the 4-inch gun and its STD were removed (briefing, p.12). Stated on the exhibition board: from 1998 a proposal was made to convert the STD structure into a training bridge, and the STD compartment (existing length 3.6 m) was extended by 2.0 m. The site-visit list records it on Deck 02.",
+      "Model_Accuracy": "Approximate reconstruction, about 5.6 m x 3.2 m (deck plan and exhibition-board sketch). Phase 3 correction: now one level above the main bridge instead of two. Window sizes and heights are estimates. The interior can be inspected.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC058",
+        "SRC060",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP035",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Inspect_Space": "training_bridge",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT08",
+      "Name": "Superstructure",
+      "Name_MS": "",
+      "Group": "Superstructure",
+      "Config": "shared",
+      "Meshes": [
+        "superstructure",
+        "superstructure_windows"
+      ],
+      "Description": "The deck houses above the main deck: the No. 1 deck house, the 01 deck house (officers-under-training cabins and wardroom, chart room and nav cabin) and the 02 deck house (lobby, training office, shipwright office and store), with the funnel casing.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Outlines follow the TLDM No. 1, 01 and 02 deck plans (pp.28, 31, 32); heights are estimates. Window and door positions are simplified.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT09",
+      "Name": "Foremast and radar",
+      "Name_MS": "",
+      "Group": "Masts and funnel",
+      "Config": "shared",
+      "Meshes": [
+        "foremast",
+        "foremast_upper",
+        "radar_antenna_early",
+        "radar_antenna_later"
+      ],
+      "Description": "The forward mast above the superstructure, which carries the radar antennas. The TLDM briefing shows it in a photograph labelled 'RADAR' (p.21).",
+      "Function": "Carries the ship's radar antennas.",
+      "History": "The briefing's current-condition pages (2022) list the radar as not operational ('tidak beroperasi'). The antennas changed during the ship's life, but the listed sources do not identify the radar types or date the changes.",
+      "Model_Accuracy": "Approximate. The antennas are simplified shapes: the As built configuration follows 1970s images, the Later configuration follows the 2022 TLDM photographs. Radar types are not identified.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT10",
+      "Name": "Funnel",
+      "Name_MS": "",
+      "Group": "Masts and funnel",
+      "Config": "shared",
+      "Meshes": [
+        "funnel",
+        "funnel_cap",
+        "funnel_louvres"
+      ],
+      "Description": "The ship's single funnel, amidships between the masts, seen in the TLDM briefing photographs (p.25).",
+      "Function": "A funnel carries the engine exhaust clear of the decks.",
+      "History": "The ship was built with eight Admiralty Standard Range diesels and re-engined with two Wärtsilä diesels from 1997 (see the specifications).",
+      "Model_Accuracy": "Approximate streamlined shape lofted from elliptical sections, with a black top and a louvre band as seen in the photographs; the width is an estimate.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC015",
+        "SRC002"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT11",
+      "Name": "After mast",
+      "Name_MS": "",
+      "Group": "Masts and funnel",
+      "Config": "shared",
+      "Meshes": [
+        "mainmast",
+        "mainmast_upper"
+      ],
+      "Description": "The second mast, on the after deckhouse aft of the funnel, seen in the TLDM briefing photograph labelled 'PORT QUARTER' (p.25).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate shape and height. What it carries is not described in the listed sources, so no function is given.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT12",
+      "Name": "Boat decks and ship's boats",
+      "Name_MS": "",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Meshes": [
+        "boat_port",
+        "boat_starboard",
+        "boat_port_davits",
+        "boat_starboard_davits",
+        "boat_port_rhib",
+        "boat_starboard_rhib",
+        "boat_port_crane",
+        "boat_starboard_crane"
+      ],
+      "Description": "Deck areas on the port and starboard sides where the ship's boats are carried, marked 'PORT BOAT DECK' and 'STBD BOAT DECK' in the TLDM No. 1 deck plan. The boats differ between the two configurations.",
+      "Function": "Carrying and launching the ship's boats.",
+      "History": "As built, the ship carried two sea boats, the Captain's Barge and the Sea Boat Whaler, on davits. After nearly 35 years they were replaced by 7.62 m rigid inflatable boats (RHIB) in October 2001 (briefing, p.13). The No. 1 deck plan marks 'FASSI CRANE' beside the boats, and a 2022 photograph is labelled 'CRANE' (p.21).",
+      "Model_Accuracy": "Approximate. As built: two generic sea boats on davits (which boat was carried on which side is not recorded). Later: two rigid inflatable boats with boat cranes, positioned from the No. 1 deck plan and the 2022 photographs.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP010",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Anchor_Meshes": [
+        "boat_port",
+        "boat_port_rhib"
+      ],
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT13",
+      "Name": "Y gun position",
+      "Name_MS": "",
+      "Group": "Armament",
+      "Config": "shared",
+      "Meshes": [
+        "y_gun_deck",
+        "y_gun_screens",
+        "y_gun_screen_frames"
+      ],
+      "Description": "The after gun position, conventionally called 'Y', on the 01 deck at the after end of the superstructure. The TLDM 01 Deck plan (p.31) shows two circular gun positions near the ship's sides; the briefing photograph is labelled 'Y GUN PORT & STBD' (p.25).",
+      "Function": "",
+      "History": "The briefing records two Bofors 40 mm/L60 support guns that were upgraded to Bofors 40 mm/L70 (p.11), without dates.",
+      "Model_Accuracy": "Approximate reconstruction. Phase 3: the platform is extended outboard to carry the two mountings at about ±3.9 m from the centreline (01 Deck plan); the mesh screens follow the 2022 and 2026 photographs and are shown only in the later configuration, because they are not recorded for 1977.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP003",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT14",
+      "Name": "Bofors 40 mm/L70 guns (port and starboard)",
+      "Name_MS": "Meriam Bofors 40mm/L70",
+      "Group": "Armament",
+      "Config": "later",
+      "Counterpart_ID": "EXT13",
+      "Meshes": [
+        "gun_40mm_port",
+        "gun_40mm_starboard"
+      ],
+      "Description": "Two support guns at the Y gun position, one on each side, each on a round pedestal with a tall angular shield and a frame of tubes on each side of the shield. Identified as Bofors 40 mm/L70 by the exhibition-board photograph 'Meriam (S1) Bofors 40mm/L70'.",
+      "Function": "",
+      "History": "Upgraded from Bofors 40 mm/L60 guns to the more advanced Bofors 40 mm/L70, the type more widely used in the TLDM fleet (briefing, p.11; also stated on the exhibition board). The date of the upgrade is not given. An older, undated 01 Deck plan labels these positions \"40MM BOFORS MK 9\"; it does not establish that 40 mm guns were fitted at the 1977 arrival, so the As built configuration shows none.",
+      "Model_Accuracy": "Approximate reconstruction. Positions about ±3.9 m from the centreline, derived from the 01 Deck plan (not a survey measurement). Shield, pedestal, barrel and side tube frames follow the 2026 photographs; proportions are estimated using people for scale. The function of the side tube frames is not stated in the sources.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC059",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP003",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT15",
+      "Name": "Helicopter deck",
+      "Name_MS": "",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Meshes": [
+        "deck_flight",
+        "deck_flight_marking",
+        "helideck_safety_nets"
+      ],
+      "Description": "Landing platform for a light helicopter at the after end of the ship, marked 'HELIDECK' in the TLDM No. 1 deck plan. The ship had no hangar.",
+      "Function": "Landing a light helicopter.",
+      "History": "The briefing calls it the 'Geladak Penerbangan' (flight deck) when describing the Limbo mortar.",
+      "Model_Accuracy": "Approximate. The landing circle follows the No. 1 deck plan; the deck markings and the angled safety nets along the edges follow the 2022 TLDM photograph (p.26).",
+      "Source_IDs": [
+        "SRC038",
+        "SRC017",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP013",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Anchor_Meshes": [
+        "deck_flight"
+      ],
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT16",
+      "Name": "Limbo Mk10 anti-submarine mortar",
+      "Name_MS": "Mortar Limbo Mk10",
+      "Group": "Armament",
+      "Config": "as_built",
+      "Counterpart_ID": "EXT15",
+      "Meshes": [
+        "limbo_mk10"
+      ],
+      "Description": "An anti-submarine mortar on the flight deck ('Geladak Penerbangan'), which the TLDM briefing describes as the ship's defence system against threats below the surface.",
+      "Function": "Anti-submarine defence (briefing, p.10).",
+      "History": "The briefing gives 2000 as the last year the Limbo Mk10 was operated, and shows it before and after removal.",
+      "Model_Accuracy": "Approximate shape and position on the flight deck.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP013",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT17",
+      "Name": "No. 1 deck (main deck)",
+      "Name_MS": "",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Meshes": [
+        "deck_main"
+      ],
+      "Description": "The main deck amidships, between the forecastle and the helicopter deck, with passages along each side (a TLDM photograph is labelled 'LALUAN STBD', p.26). Most of it is covered by the superstructure.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Marker": false,
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT18",
+      "Name": "Propellers and rudder",
+      "Name_MS": "",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Meshes": [
+        "propeller_port",
+        "propeller_starboard",
+        "rudder"
+      ],
+      "Description": "Below the waterline at the stern. The ship has two shafts.",
+      "Function": "Propulsion and steering.",
+      "History": "Seen out of the water in the TLDM photographs of the 2022 slipping (briefing, p.19).",
+      "Model_Accuracy": "Simplified shapes: four-bladed propellers on two shafts with A-brackets, and one rudder. Sizes and positions are estimates from the 2022 slipping photographs.",
+      "Source_IDs": [
+        "SRC015",
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Layer": "exterior",
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT19",
+      "Name": "Pennant number",
+      "Name_MS": "Nombor penant",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Layer": "exterior",
+      "Meshes": [
+        "pennant_f76_port",
+        "pennant_f76_starboard",
+        "pennant_76_port",
+        "pennant_76_starboard",
+        "pennant_76_shadow_port",
+        "pennant_76_shadow_starboard"
+      ],
+      "Description": "The ship's pennant number (nombor penant), F76, painted on both sides of the forward hull. The ship kept it when she was commissioned into the TLDM in 1977.",
+      "Function": "Identifies the ship.",
+      "History": "In the As built configuration the model shows 'F76', as painted in Royal Navy-era images. In the Later configuration it shows '76', as painted in the TLDM photographs (briefing, pp.19 and 25). When the painted marking changed is not recorded.",
+      "Model_Accuracy": "Approximate. The numerals are hand-drawn block shapes, not the original lettering; their size and position are estimated from the photographs. The marking follows the hull surface like paint. The ship's crest painted near the bow in the TLDM photographs is not modelled.",
+      "Source_IDs": [
+        "SRC016",
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Anchor_Meshes": [
+        "pennant_f76_port",
+        "pennant_76_port"
+      ],
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT20",
+      "Name": "Railings and guardrails",
+      "Name_MS": "",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Layer": "exterior",
+      "Meshes": [
+        "railing_forecastle",
+        "railing_main_deck_port",
+        "railing_main_deck_starboard",
+        "railing_quarterdeck",
+        "railing_01_deck",
+        "railing_02_deck",
+        "railing_bridge",
+        "railing_foremast_platforms",
+        "railing_anchor_platforms"
+      ],
+      "Description": "Guardrails with stanchions and horizontal rails along the deck edges and around the upper decks, the bridge wings and the mast platforms, as seen in the TLDM photographs of the forecastle, the starboard passage and the quarterdeck (briefing, pp.25 and 26).",
+      "Function": "Keeping people from falling overboard or off upper decks.",
+      "History": "",
+      "Model_Accuracy": "Approximate. The railings follow the modelled deck edges and levels; the stanchion spacing (about 1.6 m), the number of rails and the openings are conservative estimates. Each railing group is a separate part.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Marker": false,
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT21",
+      "Name": "Ladders",
+      "Name_MS": "",
+      "Group": "Superstructure",
+      "Config": "shared",
+      "Layer": "exterior",
+      "Meshes": [
+        "ladders"
+      ],
+      "Description": "Inclined ladders: at the front of the superstructure from the forecastle to the 01 deck, from the 01 deck up to the 02 deck beside the training bridge (port and starboard), and aft to the Y gun position.",
+      "Function": "Access between deck levels.",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. The forward ladders follow the 2022 photograph; the 01-to-02 deck ladders follow the 02 Signal Deck plan (p.32, about frames 20 to 18½). Phase 3 removed two ladders at the after end of the 02 deck that the plan does not show. The aft ladder is an estimate.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Marker": false,
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT22",
+      "Name": "Breakwater",
+      "Name_MS": "",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Layer": "exterior",
+      "Meshes": [
+        "breakwater"
+      ],
+      "Description": "A V-shaped plate across the forecastle ahead of the A gun, marked 'BREAKWATER' in the TLDM No. 1 deck plan (briefing, p.28) and visible in the forecastle photograph (p.26).",
+      "Function": "Deflects water coming over the bow away from the gun position.",
+      "History": "",
+      "Model_Accuracy": "Approximate. The position and V shape follow the deck plan; the height (about 0.75 m) and the braces are estimates.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP012",
+      "Imagery": [],
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT23",
+      "Name": "Anchoring and mooring fittings",
+      "Name_MS": "",
+      "Group": "Hull and decks",
+      "Config": "shared",
+      "Layer": "exterior",
+      "Meshes": [
+        "forecastle_fittings",
+        "quarterdeck_fittings",
+        "anchor_viewing_platforms"
+      ],
+      "Description": "Deck fittings marked on the TLDM No. 1 deck plan (briefing, p.28): electric capstans forward and aft, bollards, hawse pipes and deck pipes, the anchor viewing platforms on both sides of the bow, the jackstaff, the vent intake house on the quarterdeck and the ensign staff.",
+      "Function": "Anchoring, mooring and towing.",
+      "History": "",
+      "Model_Accuracy": "Approximate. Positions along the ship follow the deck plan; the shapes and sizes are simplified estimates. Fairleads and the towing fittings are not modelled.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Marker": false,
+      "Model_Status": "Approximate reconstruction"
+    },
+    {
+      "Component_ID": "EXT30",
+      "Name": "Deck levels (No. 2 and No. 3 decks)",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "structural",
+      "Meshes": [
+        "internal_deck_levels"
+      ],
+      "Description": "The internal decks below the No. 1 deck. The TLDM briefing has plans of No. 1, No. 2 and No. 3 decks (pp.28–30).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Conceptual. The decks are shown as flat levels at estimated heights (about 1.75 m above and 0.85 m below the waterline); their real heights, steps and openings are not documented in the listed sources.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT31",
+      "Name": "Watertight bulkheads",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "structural",
+      "Meshes": [
+        "internal_bulkheads"
+      ],
+      "Description": "Transverse watertight bulkheads, marked 'W.T.B' with frame numbers on the TLDM No. 3 deck plan (briefing, p.30): frames 2½, 6, 8, 10½, 14, 18½, 24, 25½, 30, 38, 44, 52, 58½, 64½ and 69.",
+      "Function": "Dividing the hull into watertight compartments.",
+      "History": "",
+      "Model_Accuracy": "Approximate positions; conceptual extent. Each bulkhead is placed at its frame, using a frame spacing of about 1.37 m derived from the deck plan's proportions (the plan has no scale). They are drawn from the keel to the No. 1 deck; how high each one really reaches is not documented.",
+      "Source_IDs": [
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT33",
+      "Name": "Engine room (approximate compartment)",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "internal",
+      "Meshes": [
+        "compartment_engine_room"
+      ],
+      "Description": "The engine room, between the watertight bulkheads at frames 52 and 44 on the TLDM No. 3 deck plan (briefing, p.30). The briefing lists the main engines from 1997 as two Wärtsilä diesels, with two gearboxes (p.20).",
+      "Function": "Main propulsion machinery.",
+      "History": "",
+      "Model_Accuracy": "Conceptual. Shown as the compartment between its bulkheads. Inspect the engine room to see the approximate reconstruction of its machinery.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP039",
+      "Imagery": [],
+      "Inspect_Space": "engine_room",
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT34",
+      "Name": "Machinery room (approximate compartment)",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "internal",
+      "Meshes": [
+        "compartment_machinery_room"
+      ],
+      "Description": "The machinery room, between the watertight bulkheads at frames 44 and 38 on the TLDM No. 3 deck plan (briefing, p.30).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Conceptual. Shown as the compartment between its bulkheads only; the machinery in it is not modelled.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP042",
+      "Imagery": [],
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT35",
+      "Name": "Machinery control room (approximate compartment)",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "internal",
+      "Meshes": [
+        "compartment_machinery_control_room"
+      ],
+      "Description": "The machinery control room (MCR), just forward of the bulkhead at frame 38 on the TLDM No. 3 deck plan (briefing, p.30).",
+      "Function": "Controlling and monitoring the machinery.",
+      "History": "",
+      "Model_Accuracy": "Conceptual. Its forward boundary and height are estimates.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP043",
+      "Imagery": [],
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT36",
+      "Name": "Generator room (approximate compartment)",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "internal",
+      "Meshes": [
+        "compartment_generator_room"
+      ],
+      "Description": "The generator room, frames 35½ to 30 on the TLDM No. 3 deck plan (briefing, p.30). The briefing records three Wärtsilä SACM generators with three Leroy Somer alternators (p.20).",
+      "Function": "Electrical power generation.",
+      "History": "",
+      "Model_Accuracy": "Conceptual. Its after boundary and height are estimates. Inspect the generator room to see three simple generator-set forms.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004",
+        "SRC002"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP040",
+      "Imagery": [],
+      "Inspect_Space": "generator_room",
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT37",
+      "Name": "Steering gear compartment (approximate compartment)",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "internal",
+      "Meshes": [
+        "compartment_steering_gear"
+      ],
+      "Description": "The steering gear compartment at the stern, aft of the watertight bulkhead at frame 69 on the TLDM No. 3 deck plan (briefing, p.30).",
+      "Function": "Houses the machinery that moves the rudder.",
+      "History": "",
+      "Model_Accuracy": "Conceptual. Shown as the compartment only; the steering machinery is not modelled.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP046",
+      "Imagery": [],
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT38",
+      "Name": "Cable locker (approximate compartment)",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "internal",
+      "Meshes": [
+        "compartment_cable_locker"
+      ],
+      "Description": "The cable locker near the bow, marked on the TLDM No. 3 deck plan (briefing, p.30), where the anchor cables are stowed.",
+      "Function": "Stowing the anchor cables.",
+      "History": "",
+      "Model_Accuracy": "Conceptual. Its extent is estimated from the plan; its depth is an estimate.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC004"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP038",
+      "Imagery": [],
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT39",
+      "Name": "Shaft lines (conceptual)",
+      "Name_MS": "",
+      "Group": "Internal (conceptual)",
+      "Config": "shared",
+      "Layer": "internal",
+      "Meshes": [
+        "shaft_lines_conceptual"
+      ],
+      "Description": "The ship has two propeller shafts. Inside the hull they are shown as straight lines from the engine room bulkhead to where the shafts leave the hull.",
+      "Function": "Carry the drive from the engines to the propellers.",
+      "History": "",
+      "Model_Accuracy": "Conceptual. The number of shafts is from the sources; the path, height and spacing inside the hull are not documented and are drawn as straight lines.",
+      "Source_IDs": [
+        "SRC015",
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Model_Status": "Conceptual"
+    },
+    {
+      "Component_ID": "EXT24",
+      "Name": "Ceremonial platform (former STD position)",
+      "Name_MS": "",
+      "Group": "Superstructure",
+      "Config": "later",
+      "Layer": "exterior",
+      "Meshes": [
+        "ceremonial_platform"
+      ],
+      "Description": "An open platform inside an octagonal enclosure on the 02 deck, forward of the training bridge, where the STD director stood (TLDM 02 Signal Deck plan, p.32).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Octagonal bulwark drawn from the plan outline; its height is an estimate.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC058"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": []
+    },
+    {
+      "Component_ID": "EXT50",
+      "Name": "Floor gratings",
+      "Name_MS": "",
+      "Group": "Main bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "mb_floor_gratings"
+      ],
+      "Description": "Dark slatted floor gratings over the bridge floor, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Slat size and spacing are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "main_bridge",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT51",
+      "Name": "Window ledge and under-window cabinets",
+      "Name_MS": "",
+      "Group": "Main bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "mb_window_ledge",
+        "mb_front_cabinets"
+      ],
+      "Description": "A wooden ledge below the front windows, with plain grey cabinets beneath it.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. The cabinets are shown as plain, unlabelled boxes; no panel layout is reproduced.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "main_bridge"
+    },
+    {
+      "Component_ID": "EXT52",
+      "Name": "Console with three lever controls",
+      "Name_MS": "",
+      "Group": "Main bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "mb_conning_console",
+        "mb_conning_levers"
+      ],
+      "Description": "A console near the front of the bridge with three large lever controls, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. A plain, unlabelled console; only the three levers are shown, as simple shapes. Its exact position is an estimate.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "main_bridge"
+    },
+    {
+      "Component_ID": "EXT53",
+      "Name": "Compass pedestal with brass ring",
+      "Name_MS": "",
+      "Group": "Main bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "mb_compass_pedestal",
+        "mb_compass_ring"
+      ],
+      "Description": "A pedestal with a bowl and a brass ring, seen on the bridge in the 2026 photographs. Its type is not identified in the sources.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Shape from the photographs; position estimated.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "main_bridge"
+    },
+    {
+      "Component_ID": "EXT54",
+      "Name": "Display consoles (unlabelled)",
+      "Name_MS": "",
+      "Group": "Main bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "mb_display_consoles",
+        "mb_display_screens"
+      ],
+      "Description": "Two pale-green consoles with display housings. Their function is not stated in the sources, so they are not identified.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Plain, unlabelled cabinets; the screens are shown blank.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "main_bridge"
+    },
+    {
+      "Component_ID": "EXT55",
+      "Name": "Chairs",
+      "Name_MS": "",
+      "Group": "Main bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "mb_chairs"
+      ],
+      "Description": "Two high-backed black chairs, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Simplified chairs; positions estimated.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "main_bridge",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT56",
+      "Name": "Chart desk and curtain",
+      "Name_MS": "",
+      "Group": "Main bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "mb_chart_desk",
+        "mb_curtain"
+      ],
+      "Description": "A wooden desk and cabinet at the after end, beside a dark curtain. The chart room is behind the bridge on the 01 Deck plan (p.31).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Positions estimated from the photographs.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP015",
+      "Imagery": [],
+      "Space": "main_bridge"
+    },
+    {
+      "Component_ID": "EXT57",
+      "Name": "Overhead trays, ducts and lights",
+      "Name_MS": "",
+      "Group": "Main bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "mb_overhead",
+        "mb_light_fittings"
+      ],
+      "Description": "Cable trays, a ventilation duct, fluorescent light fittings and plain overhead boxes under the deck head.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Overhead equipment is shown as plain, unidentified boxes.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "main_bridge",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT60",
+      "Name": "Slatted floor",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_floor"
+      ],
+      "Description": "A dark slatted floor, with an opening for the stairway at the after end.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Slat size and spacing are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT61",
+      "Name": "Chart table and air-conditioning unit",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_chart_table",
+        "tb_ac_unit"
+      ],
+      "Description": "A chart table at the after end, with a split air-conditioning unit above it. Stated on the exhibition board: the sketch labels a 'CHART TABLE' of about 1800 and a 'SPLIT A/C'.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Position and length from the exhibition-board sketch; which side of the room it is on is an estimate (the sketch does not mark port or starboard).",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC058",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge"
+    },
+    {
+      "Component_ID": "EXT62",
+      "Name": "Desks and cabinets",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_desks"
+      ],
+      "Description": "Wooden desks and cabinets along both sides and across the front, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Lengths and depths are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge"
+    },
+    {
+      "Component_ID": "EXT63",
+      "Name": "Standard compass binnacle",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_binnacle"
+      ],
+      "Description": "A dark-grey compass binnacle on the centreline, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Shape from the photographs; position estimated.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge"
+    },
+    {
+      "Component_ID": "EXT64",
+      "Name": "Chairs",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_chairs"
+      ],
+      "Description": "Black chairs, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Simplified chairs; positions estimated.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT65",
+      "Name": "Display console (unlabelled)",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_display_console",
+        "tb_display_screen"
+      ],
+      "Description": "A display console on a stand near the front. Its function is not stated in the sources, so it is not identified.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. A plain, unlabelled cabinet; the screen is shown blank.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge"
+    },
+    {
+      "Component_ID": "EXT66",
+      "Name": "Stairway from the after end",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_stairway"
+      ],
+      "Description": "A stairway with handrails entering the room through the floor at the after end. Stated on the exhibition board: the sketch labels a 'STEP LADDER' of about 1200 x 780.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Opening size from the sketch; where the stairway lands on the deck below is not documented.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC058",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge"
+    },
+    {
+      "Component_ID": "EXT67",
+      "Name": "Hatch in the deck head",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_deckhead_hatch"
+      ],
+      "Description": "A round hatch in the deck head (ceiling). Stated on the exhibition board: the sketch labels a 'HATCH FOR DECK HEAD'.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Position and size from the sketch; not visible in the photographs.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC058"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge"
+    },
+    {
+      "Component_ID": "EXT68",
+      "Name": "Ceiling lights and trim",
+      "Name_MS": "",
+      "Group": "Training bridge (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "tb_ceiling_fittings"
+      ],
+      "Description": "Round ceiling lights and wooden trim strips, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Positions estimated.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "training_bridge",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT70",
+      "Name": "Wheelhouse",
+      "Name_MS": "",
+      "Group": "Wheelhouse (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "wh_floor",
+        "wh_walls",
+        "wh_handrail"
+      ],
+      "Description": "The wheelhouse, a small compartment on the No. 2 deck (TLDM No. 2 deck plan, p.29), with a slatted wooden floor and a handrail along the bulkhead.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Position from the No. 2 deck plan; the room size and height are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "CMP030",
+      "Imagery": [],
+      "Space": "wheelhouse"
+    },
+    {
+      "Component_ID": "EXT71",
+      "Name": "Steering stand and wheel",
+      "Name_MS": "",
+      "Group": "Wheelhouse (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "wh_steering_stand",
+        "wh_steering_wheel",
+        "wh_gauges"
+      ],
+      "Description": "A green steering stand with a domed housing, a brass spoked wheel and four gauges above it, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Shape and proportions from the photographs; the gauges are plain discs with no markings.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "wheelhouse"
+    },
+    {
+      "Component_ID": "EXT72",
+      "Name": "Wall monitor (unlabelled)",
+      "Name_MS": "",
+      "Group": "Wheelhouse (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "wh_wall_monitor"
+      ],
+      "Description": "A monitor on the bulkhead. Its function is not stated, so it is not identified; the screen is shown blank.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "wheelhouse",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT73",
+      "Name": "Overhead pipes and light",
+      "Name_MS": "",
+      "Group": "Wheelhouse (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "wh_overhead",
+        "wh_light"
+      ],
+      "Description": "Lagged pipes, a cable tray and a fluorescent light under the deck head.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Representative only; pipe routes are not documented.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "wheelhouse",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT80",
+      "Name": "Main engines (two)",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_main_engine_port",
+        "er_main_engine_port_covers",
+        "er_main_engine_port_guard",
+        "er_main_engine_starboard",
+        "er_main_engine_starboard_covers",
+        "er_main_engine_starboard_guard"
+      ],
+      "Description": "Two main engines side by side, as seen in the 2026 photographs: a long block with two rows of cylinder-head covers, a turbocharger with a large circular intake at one end, and lagged exhaust overhead. The briefing records 2 x Stork Wärtsilä diesel 12V (SW 280) main engines (p.20).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction (photo-estimated). Each engine is about 5.4 m long, estimated from the photographs using people for scale; not a documented dimension. Which end the turbocharger is at, and the spacing between the engines, are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room",
+      "Anchor_Meshes": [
+        "er_main_engine_port",
+        "er_main_engine_starboard"
+      ]
+    },
+    {
+      "Component_ID": "EXT81",
+      "Name": "Gearboxes (two)",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_gearboxes",
+        "er_gearbox_filters"
+      ],
+      "Description": "A gearbox aft of each engine, on its shaft line. The briefing records 2 gearboxes (Volda ACG 750 HE, p.20); its photograph shows an upper casing with two black filters (p.22).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Simple forms; size and position are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room"
+    },
+    {
+      "Component_ID": "EXT82",
+      "Name": "Engine seatings",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_engine_seatings"
+      ],
+      "Description": "Foundations under each engine.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Inferred: the seatings are not visible in the photographs and are shown only as simple girders.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT83",
+      "Name": "Floor plates and walkway",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_floor_plates",
+        "er_floor_plate_seams",
+        "er_walkway_rails"
+      ],
+      "Description": "Chequer-plate floor plates around the engines, with a walkway between them, as seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. The floor level and the walkway rails are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT84",
+      "Name": "Exhaust trunking",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_exhaust_trunking"
+      ],
+      "Description": "Lagged exhaust trunking rising from each turbocharger, as seen overhead in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Only the part visible in the photographs is shown; its route beyond the engine room is not modelled.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room"
+    },
+    {
+      "Component_ID": "EXT85",
+      "Name": "Ventilation ducting and lights",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_vent_ducts",
+        "er_light_fittings"
+      ],
+      "Description": "A white ventilation duct and fluorescent light fittings overhead.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Positions are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT86",
+      "Name": "Representative pipework, valves and pump",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_pipes_blue",
+        "er_pipes_red",
+        "er_pipes_green",
+        "er_pump"
+      ],
+      "Description": "Colour-coded pipes with hand-wheel valves and an electric pump, of the kind seen in the 2026 photographs.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Representative only, not the real pipe routes: the photographs show the type of pipework but not where each pipe runs.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room"
+    },
+    {
+      "Component_ID": "EXT87",
+      "Name": "Local panels (unlabelled)",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_local_panels"
+      ],
+      "Description": "A local panel at the end of each engine (briefing photograph p.22).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Plain, unlabelled cabinets; no gauge or label is reproduced.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT88",
+      "Name": "Shafts from the gearboxes",
+      "Name_MS": "",
+      "Group": "Engine room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "er_shafts"
+      ],
+      "Description": "The two shafts leaving the gearboxes aft towards the propellers. The project records two shafts.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Straight lines; height and spacing are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC015",
+        "SRC038"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "engine_room",
+      "Marker": false
+    },
+    {
+      "Component_ID": "EXT90",
+      "Name": "Generator sets (three)",
+      "Name_MS": "",
+      "Group": "Generator room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "gr_generator_engines",
+        "gr_alternators",
+        "gr_base_frames"
+      ],
+      "Description": "Three generator sets, each an engine coupled to an alternator on a common base frame. The briefing records 3 x Wärtsilä SACM UD25 12V generators with 3 x Leroy Somer alternators (p.20); its photographs show the forms (p.22).",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction (simple labelled forms). Their arrangement in the room is not documented; sizes and spacing are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "generator_room"
+    },
+    {
+      "Component_ID": "EXT91",
+      "Name": "Floor plates and lights",
+      "Name_MS": "",
+      "Group": "Generator room (inside)",
+      "Config": "later",
+      "Layer": "interior",
+      "Meshes": [
+        "gr_floor_plates",
+        "gr_light_fittings"
+      ],
+      "Description": "Floor plates and light fittings in the generator room.",
+      "Function": "",
+      "History": "",
+      "Model_Accuracy": "Approximate reconstruction. Floor level and positions are estimates.",
+      "Model_Status": "Approximate reconstruction",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ],
+      "Verification": "Verified",
+      "Related_Space_ID": "",
+      "Imagery": [],
+      "Space": "generator_room",
+      "Marker": false
+    }
+  ],
+  "Spaces": [
+    {
+      "Space_ID": "main_bridge",
+      "Name": "Main bridge",
+      "Name_MS": "Anjungan",
+      "Component_ID": "EXT05",
+      "Note": "Main bridge, on the 01 deck (TLDM 01 Deck plan). Approximate reconstruction of the layout seen in the 2026 photographs; consoles and panels are plain, unlabelled shapes.",
+      "Note_MS": "Anjungan, di geladak 01 (pelan Geladak 01 TLDM). Rekonstruksi anggaran susun atur yang dilihat dalam gambar tahun 2026; konsol dan panel ialah bentuk ringkas tanpa label.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ]
+    },
+    {
+      "Space_ID": "training_bridge",
+      "Name": "Training bridge",
+      "Name_MS": "Anjungan Latihan",
+      "Component_ID": "EXT07",
+      "Note": "Training bridge, on the 02 (signal) deck one level above the main bridge (TLDM 02 Signal Deck plan). Layout from the exhibition-board sketch and the 2026 photographs; approximate reconstruction.",
+      "Note_MS": "Anjungan latihan, di geladak 02 (isyarat), satu aras di atas anjungan (pelan Geladak Isyarat 02 TLDM). Susun atur daripada lakaran papan pameran dan gambar tahun 2026; rekonstruksi anggaran.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC058",
+        "SRC060"
+      ]
+    },
+    {
+      "Space_ID": "wheelhouse",
+      "Name": "Wheelhouse",
+      "Name_MS": "Wheelhouse",
+      "Component_ID": "EXT70",
+      "Note": "Wheelhouse, on the No. 2 deck (TLDM No. 2 deck plan). Approximate reconstruction from the 2026 photographs; the room size is an estimate.",
+      "Note_MS": "Wheelhouse, di geladak No. 2 (pelan geladak No. 2 TLDM). Rekonstruksi anggaran daripada gambar tahun 2026; saiz bilik ialah anggaran.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ]
+    },
+    {
+      "Space_ID": "engine_room",
+      "Name": "Engine room",
+      "Name_MS": "",
+      "Component_ID": "EXT33",
+      "Note": "Engine room, between the watertight bulkheads at frames 52 and 44 (TLDM No. 3 deck plan). Approximate reconstruction: engine and gearbox forms, floor plates and overhead trunking seen in the 2026 photographs; sizes and spacing are estimates and the pipework is representative, not the real routes.",
+      "Note_MS": "Bilik enjin, antara sekat kedap air pada gading 52 dan 44 (pelan geladak No. 3 TLDM). Rekonstruksi anggaran: bentuk enjin dan kotak gear, plat lantai dan saluran atas yang dilihat dalam gambar tahun 2026; saiz dan jarak ialah anggaran dan paip hanya mewakili, bukan laluan sebenar.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ]
+    },
+    {
+      "Space_ID": "generator_room",
+      "Name": "Generator room",
+      "Name_MS": "",
+      "Component_ID": "EXT36",
+      "Note": "Generator room, frames 35½ to 30 (TLDM No. 3 deck plan). The briefing records three generators; their arrangement is not documented, so they are shown as simple labelled forms.",
+      "Note_MS": "Bilik penjana, gading 35½ hingga 30 (pelan geladak No. 3 TLDM). Taklimat merekodkan tiga penjana; susunannya tidak didokumenkan, jadi ia ditunjukkan sebagai bentuk ringkas berlabel.",
+      "Source_IDs": [
+        "SRC038",
+        "SRC060"
+      ]
+    }
+  ],
+  "Interior_Note": "Interiors are reconstructed from the deck plans and photographs taken on board in 2026. They show the later TLDM (present-day) arrangement, not the 1977 arrival, and are approximate: no label, screen content or control layout is reproduced.",
+  "Interior_Note_MS": "Ruang dalaman direkonstruksi daripada pelan geladak dan gambar yang diambil di atas kapal pada tahun 2026. Ia menunjukkan susunan TLDM kemudian (masa kini), bukan ketibaan 1977, dan ialah anggaran: tiada label, kandungan skrin atau susun atur kawalan dihasilkan semula."
+}

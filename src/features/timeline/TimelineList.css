@@ -1,0 +1,58 @@
+.tl { list-style: none; margin: 0; padding: 0; }
+.tl__item {
+  display: grid;
+  grid-template-columns: 4.5rem 24px 1fr;
+  align-items: stretch;
+}
+.tl__year {
+  font-family: var(--f-serif);
+  font-size: var(--fs-lg);
+  padding-top: var(--s-4);
+  color: var(--c-navy);
+  line-height: 1;
+}
+.tl__node { position: relative; }
+.tl__node::before { content: ''; position: absolute; left: 50%; top: 0; bottom: 0; width: 1px; background: var(--c-rule-strong); }
+.tl__item:first-child .tl__node::before { top: 1.6rem; }
+.tl__item:last-child .tl__node::before { bottom: calc(100% - 1.6rem); }
+.tl__node span {
+  position: absolute;
+  left: 50%;
+  top: 1.25rem;
+  width: 11px;
+  height: 11px;
+  margin-left: -5.5px;
+  border: 1.5px solid var(--c-navy);
+  border-radius: 50%;
+  background: var(--c-navy);
+}
+.tl__node span.is-hollow { background: var(--c-paper); }
+.tl__card {
+  display: flex;
+  gap: var(--s-4);
+  justify-content: space-between;
+  width: 100%;
+  margin: var(--s-1) 0;
+  padding: var(--s-3) var(--s-4);
+  border: 1px solid transparent;
+  border-left: 2px solid transparent;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out);
+}
+.tl__card:hover { background: rgba(255, 255, 255, 0.5); border-color: var(--c-rule); }
+.tl__card.is-selected { background: var(--c-offwhite); border-color: var(--c-rule); border-left-color: var(--c-brass); }
+.tl__text { display: flex; flex-direction: column; align-items: flex-start; gap: var(--s-1); min-width: 0; }
+.tl__date { font-family: var(--f-mono); font-size: 0.75rem; color: var(--c-brass-ink); }
+.tl__title { font-family: var(--f-serif); font-size: var(--fs-md); line-height: 1.3; }
+.tl__meta { font-size: var(--fs-xs); color: var(--c-ink-soft); margin-bottom: var(--s-1); }
+.tl__thumb { width: 84px; flex-shrink: 0; }
+.tl__thumb .imgframe__placeholder { padding: var(--s-1); }
+.tl__thumb .imgframe__ph-title, .tl__thumb .imgframe__ph-path { display: none; }
+@media (max-width: 560px) {
+  .tl__item { grid-template-columns: 3.2rem 18px 1fr; }
+  .tl__year { font-size: var(--fs-base); }
+  .tl__thumb { width: 64px; }
+  .tl__card { padding: var(--s-3); }
+}

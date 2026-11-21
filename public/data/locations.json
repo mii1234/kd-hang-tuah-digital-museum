@@ -1,0 +1,458 @@
+[
+  {
+    "Location_ID": "LOC001",
+    "Location_Name": "Yarrow shipyard, Scotstoun, Glasgow",
+    "Location_Name_MS": "Limbungan Yarrow, Scotstoun, Glasgow",
+    "Country": "United Kingdom",
+    "Latitude": 55.88,
+    "Longitude": -4.342,
+    "Location_Type": "Shipyard",
+    "Description": "Where the ship was built as Black Star (yard number 2284) and launched on 29 December 1966. Approximate position for the Scotstoun yard; the slipway is not recorded.",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate position of the yard — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC002",
+    "Location_Name": "Portsmouth Dockyard",
+    "Location_Name_MS": "Limbungan Portsmouth",
+    "Country": "United Kingdom",
+    "Latitude": 50.801,
+    "Longitude": -1.109,
+    "Location_Type": "Naval Dockyard",
+    "Description": "The ship was moved here from the Firth of Clyde in April 1972, and left from here on the 1977 voyage home. Approximate position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate position of the yard — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC003",
+    "Location_Name": "Chatham Dockyard",
+    "Location_Name_MS": "Limbungan Chatham",
+    "Country": "United Kingdom",
+    "Latitude": 51.398,
+    "Longitude": 0.527,
+    "Location_Type": "Naval Dockyard",
+    "Description": "Refitted here to Royal Navy standards after the move south in April 1972, before commissioning as HMS Mermaid in May 1973. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC016"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate position of the yard — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC006",
+    "Location_Name": "Waters off Iceland (Cod Wars)",
+    "Location_Name_MS": "Perairan Iceland (Perang Ikan Kod)",
+    "Country": "Iceland",
+    "Latitude": 65.5,
+    "Longitude": -11.5,
+    "Location_Type": "Sea area",
+    "Description": "Illustrative sea area — not a recorded position. HMS Mermaid was involved in the Cod Wars, the fisheries dispute between Britain and Iceland, protecting British trawlers.",
+    "Source_IDs": [
+      "SRC016",
+      "SRC017"
+    ],
+    "Verification": "Illustrative",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Illustrative — not a recorded position",
+    "Coordinate_Basis_MS": "Ilustrasi — bukan kedudukan yang direkodkan"
+  },
+  {
+    "Location_ID": "LOC009",
+    "Location_Name": "Jeddah",
+    "Location_Name_MS": "Jeddah",
+    "Country": "Saudi Arabia",
+    "Latitude": 21.47,
+    "Longitude": 39.17,
+    "Location_Type": "Port",
+    "Description": "Seven-day call from 10 to 17 September 1977, documented on the on-board panel. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC011",
+    "Location_Name": "Muscat",
+    "Location_Name_MS": "Muscat",
+    "Country": "Oman",
+    "Latitude": 23.63,
+    "Longitude": 58.57,
+    "Location_Type": "Port",
+    "Description": "Named as a port of call in the panel text; date not given. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC012",
+    "Location_Name": "Colombo",
+    "Location_Name_MS": "Colombo",
+    "Country": "Sri Lanka",
+    "Latitude": 6.95,
+    "Longitude": 79.85,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1977 voyage home, named in the panel text. The ship left Colombo on 9 October 1977 (Watan, 13 October 1977; Berita Harian, 15 October 1977); the panel map gives the same date as the planned departure. The arrival date is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001",
+      "SRC041",
+      "SRC042"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC013",
+    "Location_Name": "Port Klang",
+    "Location_Name_MS": "Pelabuhan Klang",
+    "Country": "Malaysia",
+    "Latitude": 3.0,
+    "Longitude": 101.39,
+    "Location_Type": "Port",
+    "Description": "First Malaysian port reached, at 9.00 am on 14 October 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC014",
+    "Location_Name": "Malacca",
+    "Location_Name_MS": "Melaka",
+    "Country": "Malaysia",
+    "Latitude": 2.19,
+    "Longitude": 102.25,
+    "Location_Type": "Port",
+    "Description": "Two-day call on 16 and 17 October 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC015",
+    "Location_Name": "TLDM Woodlands base (KD Malaya), Singapore",
+    "Location_Name_MS": "Pangkalan TLDM Woodlands (KD Malaya), Singapura",
+    "Country": "Singapore",
+    "Latitude": 1.452821,
+    "Longitude": 103.7785,
+    "Location_Type": "Naval Base",
+    "Description": "Royal Malaysian Navy base at Woodlands, Singapore, where KD Hang Tuah arrived on 18 October 1977. The navy moved from Woodlands to Lumut in 1984. The pin marks the shore end of the former base jetty, now Woodlands Waterfront Jetty. It shows where the base was, not KD Hang Tuah's berth, which is not recorded.",
+    "Source_IDs": [
+      "SRC001",
+      "SRC006",
+      "SRC035",
+      "SRC036",
+      "SRC037"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Shore end of the former base jetty — not the ship's berth",
+    "Coordinate_Basis_MS": "Hujung darat jeti bekas pangkalan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC016",
+    "Location_Name": "Lumut Naval Base, Perak",
+    "Location_Name_MS": "Pangkalan TLDM Lumut, Perak",
+    "Country": "Malaysia",
+    "Latitude": 4.22833,
+    "Longitude": 100.61167,
+    "Location_Type": "Naval Base",
+    "Description": "Royal Malaysian Navy base at Lumut, Perak, to which the navy moved from Woodlands in 1984. Scene of the 2018 museum-ship designation, the 2025 decommissioning and the 2026 handover. Provisional pin: its coordinates come from Wikipedia and have not been independently verified, so it shows the general location of the base, not an exact position. The museum's future berth has not been published.",
+    "Source_IDs": [
+      "SRC006",
+      "SRC007",
+      "SRC009",
+      "SRC012",
+      "SRC027"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Provisional pin (Wikipedia coordinates, not independently verified)",
+    "Coordinate_Basis_MS": "Pin sementara (koordinat Wikipedia, belum disahkan secara bebas)"
+  },
+  {
+    "Location_ID": "LOC017",
+    "Location_Name": "Malaysia Shipyard & Engineering, Pasir Gudang",
+    "Location_Name_MS": "Malaysia Shipyard & Engineering, Pasir Gudang",
+    "Country": "Malaysia",
+    "Latitude": 1.45,
+    "Longitude": 103.9,
+    "Location_Type": "Shipyard",
+    "Description": "Shipyard (now Malaysia Marine and Heavy Engineering) where the 1995–1997 re-engining was carried out. Pin placed at an approximate port position; the ship's position in the yard is not recorded.",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate position of the yard — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran limbungan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC004",
+    "Location_Name": "Southampton",
+    "Location_Name_MS": "Southampton",
+    "Country": "United Kingdom",
+    "Latitude": 50.897,
+    "Longitude": -1.39,
+    "Location_Type": "Port",
+    "Description": "Place of the handover and commissioning ceremony of KD Hang Tuah on 22 July 1977, as given in the TLDM briefing, Utusan Malaysia (19 October 1977) and the TLDM album of the ceremony. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC038",
+      "SRC044",
+      "SRC052"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC007",
+    "Location_Name": "Casablanca",
+    "Location_Name_MS": "Casablanca",
+    "Country": "Morocco",
+    "Latitude": 33.61,
+    "Longitude": -7.61,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1977 voyage home, named in a Ministry of Defence statement reported by Watan (13 October 1977), by Berita Harian (15 October 1977) and by the commanding officer (Utusan Malaysia, 15 October 1977), and labelled on the route map of the on-board panel. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC041",
+      "SRC042",
+      "SRC043",
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC008",
+    "Location_Name": "Alexandria",
+    "Location_Name_MS": "Iskandariah",
+    "Country": "Egypt",
+    "Latitude": 31.19,
+    "Longitude": 29.87,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1977 voyage home ('Aleksandariah' in Watan, 'Iskandariah' in Utusan Malaysia), named in a Ministry of Defence statement reported by Watan (13 October 1977), by Berita Harian (15 October 1977) and by the commanding officer (Utusan Malaysia, 15 October 1977), and labelled on the route map of the on-board panel. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC041",
+      "SRC042",
+      "SRC043",
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC010",
+    "Location_Name": "Abu Dhabi",
+    "Location_Name_MS": "Abu Dhabi",
+    "Country": "United Arab Emirates",
+    "Latitude": 24.52,
+    "Longitude": 54.38,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1977 voyage home, named in the TLDM briefing (p.6) and in 1977 newspaper reports (a Ministry of Defence statement and the commanding officer). The route map on the on-board panel gives the country as Saudi Arabia; Abu Dhabi is in the United Arab Emirates. The dates of the call are not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC038",
+      "SRC041",
+      "SRC042",
+      "SRC043"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC005",
+    "Location_Name": "Singapore",
+    "Location_Name_MS": "Singapura",
+    "Country": "Singapore",
+    "Latitude": 1.29,
+    "Longitude": 103.85,
+    "Location_Type": "Port",
+    "Description": "HMS Mermaid was based in Singapore in 1974 and 1975. Representative point only; her base berth is not recorded.",
+    "Source_IDs": [
+      "SRC046",
+      "SRC016"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Representative point — base berth not recorded",
+    "Coordinate_Basis_MS": "Titik wakil — tempat kapal berpangkalan tidak direkodkan"
+  },
+  {
+    "Location_ID": "LOC018",
+    "Location_Name": "Tunisia",
+    "Location_Name_MS": "Tunisia",
+    "Country": "Tunisia",
+    "Latitude": 36.81,
+    "Longitude": 10.3,
+    "Location_Type": "Port",
+    "Description": "Illustrative pin — not a recorded position. Tunisia is named as a port of call on the 1977 voyage home by a Ministry of Defence statement (Watan, 13 October 1977) and Berita Harian (15 October 1977); the commanding officer named Tunis (Utusan Malaysia, 15 October 1977). The port and dates of the call are not recorded, so the pin is placed at Tunis for illustration only.",
+    "Source_IDs": [
+      "SRC041",
+      "SRC042",
+      "SRC043"
+    ],
+    "Verification": "Illustrative",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Illustrative — not a recorded position",
+    "Coordinate_Basis_MS": "Ilustrasi — bukan kedudukan yang direkodkan"
+  },
+  {
+    "Location_ID": "LOC019",
+    "Location_Name": "Kuching (Pending)",
+    "Location_Name_MS": "Kuching (Pending)",
+    "Country": "Malaysia",
+    "Latitude": 1.56,
+    "Longitude": 110.39,
+    "Location_Type": "Port",
+    "Description": "KD Hang Tuah berthed at the Datuk Amar Sim Kheng Hong Port, Pending, during her May 1983 visit to Kuching. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC045"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC020",
+    "Location_Name": "Darwin",
+    "Location_Name_MS": "Darwin",
+    "Country": "Australia",
+    "Latitude": -12.47,
+    "Longitude": 130.85,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1985 South Pacific training cruise; the date of the call is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC048",
+      "SRC047"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC021",
+    "Location_Name": "Suva",
+    "Location_Name_MS": "Suva",
+    "Country": "Fiji",
+    "Latitude": -18.13,
+    "Longitude": 178.42,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1985 South Pacific training cruise (a three-day visit); the date is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC047",
+      "SRC048"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC022",
+    "Location_Name": "Nuku'alofa",
+    "Location_Name_MS": "Nuku'alofa",
+    "Country": "Tonga",
+    "Latitude": -21.13,
+    "Longitude": -175.2,
+    "Location_Type": "Port",
+    "Description": "Port of call on the 1985 South Pacific training cruise ('Tonga' in the Post-Courier); the date is not recorded. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC047",
+      "SRC048"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC023",
+    "Location_Name": "Port Moresby",
+    "Location_Name_MS": "Port Moresby",
+    "Country": "Papua New Guinea",
+    "Latitude": -9.47,
+    "Longitude": 147.15,
+    "Location_Type": "Port",
+    "Description": "Four-day visit from 31 July 1985 on the South Pacific training cruise. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC048"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC024",
+    "Location_Name": "Ho Chi Minh City (Saigon Port)",
+    "Location_Name_MS": "Bandar Raya Ho Chi Minh (Pelabuhan Saigon)",
+    "Country": "Vietnam",
+    "Latitude": 10.76,
+    "Longitude": 106.71,
+    "Location_Type": "Port",
+    "Description": "Three-day visit from 26 July 2000, when KD Hang Tuah led three Royal Malaysian Navy ships to Saigon Port. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC049"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  },
+  {
+    "Location_ID": "LOC025",
+    "Location_Name": "Sandakan",
+    "Location_Name_MS": "Sandakan",
+    "Country": "Malaysia",
+    "Latitude": 5.84,
+    "Longitude": 118.12,
+    "Location_Type": "Port",
+    "Description": "Two-day visit from 24 September 2007; the ship was open to the public at the naval base. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC050"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Coordinate_Basis": "Approximate port position — not the ship's berth",
+    "Coordinate_Basis_MS": "Kedudukan anggaran pelabuhan — bukan tempat kapal berlabuh"
+  }
+]

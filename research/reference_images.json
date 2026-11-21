@@ -1,0 +1,200 @@
+{
+  "_comment": "Research-only and unpublished images. Kept outside public/ so they are never published. Own photographs stay here until the project owner approves them. Change a Status only after permission or a licence is confirmed, then move the file into public/images/ and add it to gallery.json.",
+  "Own_Photographs_Unpublished": [
+    {
+      "File": "IMG_8987.HEIC",
+      "Project_Copy": "research/photos/onboard-panels-2026-09-30.jpg",
+      "Shows": "History panels on board, full view (30 Sep 2026). Contains TLDM panel text, archive photographs and a faint reflection of a person",
+      "Credit": "{project_photo_credit}",
+      "Status": "Own photograph — UNPUBLISHED until the project owner approves it"
+    },
+    {
+      "File": "IMG_8987.HEIC (crop)",
+      "Project_Copy": "research/photos/panel-kepulangan-ke-tanahair.jpg",
+      "Shows": "Panel 'Kepulangan ke Tanahair' (source SRC001)",
+      "Credit": "{project_photo_credit}",
+      "Status": "Own photograph — UNPUBLISHED until the project owner approves it"
+    },
+    {
+      "File": "IMG_8987.HEIC (crop)",
+      "Project_Copy": "research/photos/panel-pengenjinan-semula.jpg",
+      "Shows": "Panel 'Pengenjinan Semula KD HANG TUAH' (source SRC002)",
+      "Credit": "{project_photo_credit}",
+      "Status": "Own photograph — UNPUBLISHED until the project owner approves it"
+    },
+    {
+      "File": "IMG_20260930_141741.jpg",
+      "Project_Copy": "research/photos/propeller-hub-drawing.jpg",
+      "Shows": "Stone Marine Engineering general-arrangement drawing (source SRC005; intended for Life Onboard CMP049)",
+      "Credit": "{project_photo_credit}",
+      "Status": "Own photograph — UNPUBLISHED until the project owner approves it"
+    }
+  ],
+  "Images": [
+    {
+      "File": "1975-singapore guard.jpg",
+      "Shows": "HMS Mermaid under way (also in the 2024 Facebook post)",
+      "Rights_Holder": "Unknown; posted on Facebook",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "201512290845360.C1 Mermaid portside departs Freemantle mid 70s.jpg",
+      "Shows": "HMS Mermaid departing a port, captioned 'Fremantle mid 70s' (unconfirmed)",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown; place and date unconfirmed"
+    },
+    {
+      "File": "201512290845470.C2 Mermaid Cod war.jpg",
+      "Shows": "HMS Mermaid in a Cod War collision",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "201902181833270.Black Star, Rothesay Dock, 1 December 1968_1.jpg",
+      "Shows": "Black Star at Rothesay Dock, 1 December 1968",
+      "Rights_Holder": "Probably Clydeships / its contributors",
+      "Status": "Reference only — request permission"
+    },
+    {
+      "File": "201902181834300.Black Star, Queens Dock, 19 January 1969_1.jpg",
+      "Shows": "Black Star at Queen's Dock, Glasgow, 19 January 1969",
+      "Rights_Holder": "Probably Clydeships / its contributors",
+      "Status": "Reference only — request permission"
+    },
+    {
+      "File": "F76-HMS-Mermaid-Side View.jpg",
+      "Shows": "Profile drawing 'Great Britain, Mermaid Class'",
+      "Rights_Holder": "ShipBucket community",
+      "Status": "Reference only — not a photograph; licence unconfirmed"
+    },
+    {
+      "File": "F76_01.jpg",
+      "Shows": "KD Hang Tuah with 57 mm gun, three officers on the quay (duplicate of {7FC5…}.png)",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "{7FC5C2FA-B2F9-478B-992C-D1C23A6D2765}.png",
+      "Shows": "Same photograph as F76_01.jpg, with caption about the 57 mm gun",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — duplicate"
+    },
+    {
+      "File": "HMS MERMAID F76.jpg",
+      "Shows": "HMS Mermaid with ship's crest (postcard style)",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "KD_Hang_Tuah_Labuan_20070915.jpg",
+      "Shows": "KD Hang Tuah alongside Labuan, 15 September 2007",
+      "Rights_Holder": "Wikimedia Commons (author/licence not yet confirmed)",
+      "Status": "Reference only until the Commons licence and attribution are confirmed"
+    },
+    {
+      "File": "khhangtuah at labuan.png",
+      "Shows": "Screenshot of the Labuan 2007 photograph",
+      "Rights_Holder": "Wikimedia Commons",
+      "Status": "Reference only — duplicate screenshot"
+    },
+    {
+      "File": "Kdhangtuah aka hms mermaid .jpg",
+      "Shows": "HMS Mermaid (F76), black and white",
+      "Rights_Holder": "Wikipedia fair-use image",
+      "Status": "Not usable — fair use applies to Wikipedia only"
+    },
+    {
+      "File": "kdhangtuah as a hms mermaid.png",
+      "Shows": "Screenshot of the same fair-use image",
+      "Rights_Holder": "Wikipedia",
+      "Status": "Not usable — duplicate screenshot"
+    },
+    {
+      "File": "Kdhangtuah2.jpg",
+      "Shows": "KD Hang Tuah dressed overall (hazy colour photograph)",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "mermaid_2284.jpg",
+      "Shows": "KD Hang Tuah with twin 4-inch mounting",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "{95ACE6F0-9EA2-4D0E-B094-2B9FA2B57FC2}.png",
+      "Shows": "KD Hang Tuah with twin Mk 19 102 mm mounting (captioned)",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "Pictured patrolling during the Cod Wars..jpg",
+      "Shows": "HMS Mermaid patrolling during the Cod Wars",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "coast guard.jpeg",
+      "Shows": "HMS Mermaid colliding with ICGV Þór, March 1976 (exhibition photograph)",
+      "Rights_Holder": "Unknown Icelandic exhibition",
+      "Status": "Reference only — rights unknown; caption used as source SRC028"
+    },
+    {
+      "File": "crew kghangtuah 2018.jpeg",
+      "Shows": "Crew manning the side of KD Hang Tuah (captioned 2018)",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown; date unconfirmed"
+    },
+    {
+      "File": "tuah3.jpg",
+      "Shows": "KD Hang Tuah (76) under way with 57 mm gun",
+      "Rights_Holder": "Unknown",
+      "Status": "Reference only — rights unknown"
+    },
+    {
+      "File": "warship wednesday.jpg",
+      "Shows": "HMS Mermaid (F76) at a navy days event with tug Felicity",
+      "Rights_Holder": "Unknown; via Warship Wednesday",
+      "Status": "Reference only — rights unknown; place and date unknown"
+    },
+    {
+      "File": "type-61-aircraft-direction-frigate-hms-salisbury-f32-5th-december-1974.jpg",
+      "Shows": "HMS Salisbury (F32), a Type 61 frigate",
+      "Rights_Holder": "Imperial War Museums",
+      "Status": "NOT THIS SHIP — never display as KD Hang Tuah; design comparison only"
+    },
+    {
+      "File": "Antill, P. (30 January 2002), HMS Mermaid, https___www.historyofwar.org_articles_weapons_hmsmermaid.html.png",
+      "Shows": "Screenshot of the historyofwar article",
+      "Rights_Holder": "historyofwar.org",
+      "Status": "Source document (SRC016), not an image for display"
+    },
+    {
+      "File": "{95CE6468-6C6D-4361-A2E1-DCBDCCB4CD2B}.png",
+      "Shows": "Duplicate screenshot of the historyofwar article",
+      "Rights_Holder": "historyofwar.org",
+      "Status": "Source document — duplicate"
+    },
+    {
+      "File": "documen hng tuah.png",
+      "Shows": "Screenshot of the Clydeships record",
+      "Rights_Holder": "clydeships.co.uk",
+      "Status": "Source document (SRC015), not an image for display"
+    },
+    {
+      "File": "{B09F863A-FBF4-4142-AA9F-B0E8B450B071}.png",
+      "Shows": "Screenshot of a Facebook post by a former crew member",
+      "Rights_Holder": "Facebook (Bill Kidley)",
+      "Status": "Source document (SRC029), not an image for display"
+    }
+  ],
+  "Blocked_Public_Files": [
+    {
+      "Sha256": "df509b8d4614128d9d3fdeb898bc73a6510f5a960d6e2c38486a748639af13d6",
+      "Original_Path": "public/images/ship/hero.jpg (original project only; deleted by the project owner on 4 November 2026)",
+      "Shows": "KD Hang Tuah alongside with the ship's company manning the side; 'Let's Enhance.io' watermark",
+      "Reason": "Upscaled copy (1732×1155) of the third-party photograph 'crew kghangtuah 2018.jpeg' (1200×800) in the TLDM reference folder; source, rights and credit unknown. Must not be in public/ or dist/. Store it outside the website project and outside any repository.",
+      "Status": "BLOCKED from the public build. Deleted from the original project by the project owner on 4 November 2026 (watermark and unknown image rights). No restoration required. The Home hero keeps its labelled placeholder until the owner approves a properly sourced replacement."
+    }
+  ]
+}

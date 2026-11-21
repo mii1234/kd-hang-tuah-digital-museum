@@ -1,0 +1,28 @@
+[
+  {
+    "Image_ID": "GAL001",
+    "Image_URL": "/images/ship/kd-hang-tuah-exterior.jpg",
+    "Caption": "KD Hang Tuah at Lumut: exterior view (photograph to be supplied)",
+    "Category": "Ship",
+    "Date": null,
+    "Date_Precision": null,
+    "Related_Event_IDs": [],
+    "Credit": "",
+    "Rights_Status": "Not yet supplied",
+    "Is_Demo_Data": false
+  },
+  {
+    "Image_ID": "GAL002",
+    "Image_URL": "/images/museum/kd-hang-tuah-lumut-berth.jpg",
+    "Caption": "KD Hang Tuah at Lumut naval base awaiting conversion (photograph to be supplied)",
+    "Category": "Museum",
+    "Date": null,
+    "Date_Precision": null,
+    "Related_Event_IDs": [
+      "EVT032"
+    ],
+    "Credit": "",
+    "Rights_Status": "Not yet supplied",
+    "Is_Demo_Data": false
+  }
+]

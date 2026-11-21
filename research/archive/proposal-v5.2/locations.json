@@ -1,0 +1,303 @@
+[
+  {
+    "Location_ID": "LOC001",
+    "Location_Name": "Yarrow shipyard, Scotstoun, Glasgow",
+    "Location_Name_MS": "Limbungan Yarrow, Scotstoun, Glasgow",
+    "Country": "United Kingdom",
+    "Latitude": 55.88,
+    "Longitude": -4.342,
+    "Location_Type": "Shipyard",
+    "Description": "Where the ship was built as Black Star (yard number 2284) and launched on 29 December 1966. Pin placed at an approximate port position; the ship's slipway is not recorded.",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": ""
+  },
+  {
+    "Location_ID": "LOC002",
+    "Location_Name": "Portsmouth Dockyard",
+    "Location_Name_MS": "Limbungan Portsmouth",
+    "Country": "United Kingdom",
+    "Latitude": 50.801,
+    "Longitude": -1.109,
+    "Location_Type": "Naval Dockyard",
+    "Description": "Moved here from the Clyde in April 1972 for Royal Navy completion. Departure point of the 1977 voyage home. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "'for Royal Navy completion' removed: not stated in the cited sources."
+  },
+  {
+    "Location_ID": "LOC003",
+    "Location_Name": "Chatham Dockyard",
+    "Location_Name_MS": "Limbungan Chatham",
+    "Country": "United Kingdom",
+    "Latitude": 51.398,
+    "Longitude": 0.527,
+    "Location_Type": "Naval Dockyard",
+    "Description": "Refitted here to Royal Navy standards after the move south in April 1972, before commissioning as HMS Mermaid in May 1973. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC016",
+      "SRC019"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "R1: SRC019 removed from the public citation."
+  },
+  {
+    "Location_ID": "LOC004",
+    "Location_Name": "Southampton",
+    "Location_Name_MS": "Southampton",
+    "Country": "United Kingdom",
+    "Latitude": 50.897,
+    "Longitude": -1.39,
+    "Location_Type": "Port",
+    "Description": "Place of commissioning as KD Hang Tuah on 22 July 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC019",
+      "SRC003"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D1: Southampton withheld until panel 3 is fully re-photographed or a primary source is consulted."
+  },
+  {
+    "Location_ID": "LOC005",
+    "Location_Name": "Singapore (Far East service)",
+    "Location_Name_MS": "Singapura (perkhidmatan Timur Jauh)",
+    "Country": "Singapore",
+    "Latitude": 1.29,
+    "Longitude": 103.85,
+    "Location_Type": "Port",
+    "Description": "HMS Mermaid was based at Singapore during her Far East service. Representative point only; her base berth is not recorded.",
+    "Source_IDs": [
+      "SRC016",
+      "SRC017"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification (Far East service dates unconfirmed)."
+  },
+  {
+    "Location_ID": "LOC006",
+    "Location_Name": "Waters off Iceland (Cod War)",
+    "Location_Name_MS": "Perairan Iceland (Perang Ikan Kod)",
+    "Country": "Iceland",
+    "Latitude": 65.5,
+    "Longitude": -11.5,
+    "Location_Type": "Sea area",
+    "Description": "Area patrolled by HMS Mermaid during the Third Cod War, 1976. Representative point for a sea area, not a recorded position.",
+    "Source_IDs": [
+      "SRC016",
+      "SRC019",
+      "SRC028"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published as Illustrative",
+    "Public_Note": "D4: labelled 'Illustrative sea area — not a recorded position'. R1: 'Third Cod War, 1976' rested on Wikipedia; SRC028 not relied on."
+  },
+  {
+    "Location_ID": "LOC007",
+    "Location_Name": "Casablanca",
+    "Location_Name_MS": "Casablanca",
+    "Country": "Morocco",
+    "Latitude": 33.61,
+    "Longitude": -7.61,
+    "Location_Type": "Port",
+    "Description": "Labelled on the route map of the 'Kepulangan ke Tanahair' panel; not mentioned in the panel text and no date given. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: shown on the panel map only."
+  },
+  {
+    "Location_ID": "LOC008",
+    "Location_Name": "Alexandria",
+    "Location_Name_MS": "Iskandariah",
+    "Country": "Egypt",
+    "Latitude": 31.19,
+    "Longitude": 29.87,
+    "Location_Type": "Port",
+    "Description": "Labelled on the route map of the 'Kepulangan ke Tanahair' panel; not mentioned in the panel text and no date given. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: shown on the panel map only."
+  },
+  {
+    "Location_ID": "LOC009",
+    "Location_Name": "Jeddah",
+    "Location_Name_MS": "Jeddah",
+    "Country": "Saudi Arabia",
+    "Latitude": 21.47,
+    "Longitude": 39.17,
+    "Location_Type": "Port",
+    "Description": "Seven-day call from 10 to 17 September 1977, documented on the on-board panel. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": ""
+  },
+  {
+    "Location_ID": "LOC010",
+    "Location_Name": "Abu Dhabi",
+    "Location_Name_MS": "Abu Dhabi",
+    "Country": "United Arab Emirates",
+    "Latitude": 24.52,
+    "Longitude": 54.38,
+    "Location_Type": "Port",
+    "Description": "Named as a port of call in the panel text. The panel map labels it 'Abu Dabi, Saudi Arabia' and its arrow does not point to the Gulf, so the identification is disputed. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Disputed",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D3: panel text and map label conflict; withheld from the public map."
+  },
+  {
+    "Location_ID": "LOC011",
+    "Location_Name": "Muscat",
+    "Location_Name_MS": "Muscat",
+    "Country": "Oman",
+    "Latitude": 23.63,
+    "Longitude": 58.57,
+    "Location_Type": "Port",
+    "Description": "Named as a port of call in the panel text; date not given. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": ""
+  },
+  {
+    "Location_ID": "LOC012",
+    "Location_Name": "Colombo",
+    "Location_Name_MS": "Colombo",
+    "Country": "Sri Lanka",
+    "Latitude": 6.95,
+    "Longitude": 79.85,
+    "Location_Type": "Port",
+    "Description": "Named as a port of call in the panel text; the panel map gives a planned departure (ETD) of 9 October 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "Planned departure labelled as planned."
+  },
+  {
+    "Location_ID": "LOC013",
+    "Location_Name": "Port Klang",
+    "Location_Name_MS": "Pelabuhan Klang",
+    "Country": "Malaysia",
+    "Latitude": 3.0,
+    "Longitude": 101.39,
+    "Location_Type": "Port",
+    "Description": "First Malaysian port reached, at 9.00 am on 14 October 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": ""
+  },
+  {
+    "Location_ID": "LOC014",
+    "Location_Name": "Malacca",
+    "Location_Name_MS": "Melaka",
+    "Country": "Malaysia",
+    "Latitude": 2.19,
+    "Longitude": 102.25,
+    "Location_Type": "Port",
+    "Description": "Two-day call on 16 and 17 October 1977. Pin placed at an approximate port position; the ship's berth is not recorded.",
+    "Source_IDs": [
+      "SRC001"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": ""
+  },
+  {
+    "Location_ID": "LOC015",
+    "Location_Name": "TLDM Woodlands base (KD Malaya), Singapore",
+    "Location_Name_MS": "Pangkalan TLDM Woodlands (KD Malaya), Singapura",
+    "Country": "Singapore",
+    "Latitude": 1.44889,
+    "Longitude": 103.78083,
+    "Location_Type": "Naval Base",
+    "Description": "Royal Malaysian Navy base at Woodlands, Singapore, until 1997. KD Hang Tuah arrived here on 18 October 1977. Coordinates from Wikipedia.",
+    "Source_IDs": [
+      "SRC001",
+      "SRC026"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "R1: 'until 1997' rested on Wikipedia only and is withheld. N4 (approved 16 Oct 2026): public pin moved from the Wikipedia coordinate 1.44889, 103.78083 (kept in this record) to 1.452821, 103.7785, the shore end of the former base jetty; cited to NParks (SRC035), NHB (SRC036) and the OSM pier outline (SRC037); SRC026 (Wikipedia) no longer relied on. Evidence for the new pin: research/data/coordinate_review.json."
+  },
+  {
+    "Location_ID": "LOC016",
+    "Location_Name": "Lumut Naval Base, Perak",
+    "Location_Name_MS": "Pangkalan TLDM Lumut, Perak",
+    "Country": "Malaysia",
+    "Latitude": 4.22833,
+    "Longitude": 100.61167,
+    "Location_Type": "Naval Base",
+    "Description": "TLDM headquarters from 1984. Scene of the 2018 museum-ship designation, the 2025 decommissioning and the 2026 handover. Coordinates from Wikipedia; the museum's future berth has not been published.",
+    "Source_IDs": [
+      "SRC027",
+      "SRC007",
+      "SRC009",
+      "SRC012"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "R1/R2: the 1984 move cited to SRC006; Wikipedia used for the provisional pin coordinates only. N5 (16 Oct 2026, not approved for replacement): pin kept provisionally and labelled as not independently verified; owner's candidate 4.237655, 100.613708 kept as Needs Verification in coordinate_review.json. Limitations and next steps: research/data/coordinate_review.json."
+  },
+  {
+    "Location_ID": "LOC017",
+    "Location_Name": "Malaysia Shipyard & Engineering, Pasir Gudang",
+    "Location_Name_MS": "Malaysia Shipyard & Engineering, Pasir Gudang",
+    "Country": "Malaysia",
+    "Latitude": 1.45,
+    "Longitude": 103.9,
+    "Location_Type": "Shipyard",
+    "Description": "Shipyard (now Malaysia Marine and Heavy Engineering) where the 1995–1997 re-engining was carried out. Pin placed at an approximate port position; the ship's position in the yard is not recorded.",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": ""
+  }
+]

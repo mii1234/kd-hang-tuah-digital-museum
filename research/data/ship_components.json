@@ -1,0 +1,2095 @@
+[
+  {
+    "Component_ID": "CMP001",
+    "Component_Name": "Bridge",
+    "Component_Name_MS": "Anjungan",
+    "Category": "Bridge and Navigation",
+    "Description": "The ship's main control position, from which she was conned and navigated. Recorded on site as 'bridge'.",
+    "Ship_Section": "Deck 01",
+    "Image_URLs": [
+      "/images/components/deck-01-bridge-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): 01 deck 'BRIDGE'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP002",
+    "Component_Name": "Power supply compartment",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "Recorded as 'power supply'. Confirm on board what equipment this space holds. Recorded on site as 'power supply'.",
+    "Ship_Section": "Deck 01",
+    "Image_URLs": [
+      "/images/components/deck-01-power-supply-compartment-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification."
+  },
+  {
+    "Component_ID": "CMP003",
+    "Component_Name": "Y gun position",
+    "Component_Name_MS": "",
+    "Category": "Armament",
+    "Description": "The after gun position, conventionally called 'Y'. Confirm which gun is mounted here today. Recorded on site as 'y gun'.",
+    "Ship_Section": "Deck 01",
+    "Image_URLs": [
+      "/images/components/deck-01-y-gun-position-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "D-07: position confirmed by the TLDM 01 deck plan; 'Confirm which gun is mounted here today' removed from the public text.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): 01 deck 'Y GUN'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Needs Verification",
+        "After": "Verified",
+        "Evidence": "SRC038 pp.28–32 (deck plans): 01 deck 'Y GUN'; p.25 'Y GUN PORT & STBD'",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published (trimmed)",
+        "Evidence": "SRC038 pp.28–32 (deck plans)",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: Needs Verification.",
+        "After": "D-07: position confirmed by the TLDM 01 deck plan; 'Confirm which gun is mounted here today' removed from the public text.",
+        "Evidence": "SRC038 pp.28–32 (deck plans)",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP004",
+    "Component_Name": "Officer under training cabin 5",
+    "Component_Name_MS": "",
+    "Category": "Training Facilities",
+    "Description": "Cabin for officers under training (OUT). Recorded on site as 'o.u.t cabin 5'.",
+    "Ship_Section": "Deck 01",
+    "Image_URLs": [
+      "/images/components/deck-01-officer-under-training-cabin-5-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": ""
+  },
+  {
+    "Component_ID": "CMP005",
+    "Component_Name": "Officers under training wardroom",
+    "Component_Name_MS": "",
+    "Category": "Training Facilities",
+    "Description": "Mess and lounge for officers under training (OUT). Recorded on site as 'out wardroom'.",
+    "Ship_Section": "Deck 01",
+    "Image_URLs": [
+      "/images/components/deck-01-officers-under-training-wardroom-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): 01 deck 'OUT WARDROOM'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP006",
+    "Component_Name": "Exit door",
+    "Component_Name_MS": "",
+    "Category": "Other Components",
+    "Description": "Recorded as 'exit door'. Confirm its location and whether it is part of the visitor route. Recorded on site as 'exit door'.",
+    "Ship_Section": "Deck 01",
+    "Image_URLs": [
+      "/images/components/deck-01-exit-door-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification."
+  },
+  {
+    "Component_ID": "CMP007",
+    "Component_Name": "Bridge",
+    "Component_Name_MS": "Anjungan",
+    "Category": "Bridge and Navigation",
+    "Description": "Recorded on Deck 1 as 'anjungan'. Also recorded on Deck 01 and Deck 02; confirm whether these are the same space. Recorded on site as 'anjungan'.",
+    "Ship_Section": "Deck 1",
+    "Image_URLs": [
+      "/images/components/deck-1-bridge-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification."
+  },
+  {
+    "Component_ID": "CMP008",
+    "Component_Name": "Communications centre (COMCEN)",
+    "Component_Name_MS": "Bilik Pusat Komunikasi",
+    "Category": "Communication Equipment",
+    "Description": "Where signals were sent, received and handled. Recorded on site as 'comcen'.",
+    "Ship_Section": "Deck 1",
+    "Image_URLs": [
+      "/images/components/deck-1-communications-centre-comcen-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.1 deck 'COMCEN'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Bilik Pusat Komunikasi",
+        "Evidence": "SRC038 p.34",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP009",
+    "Component_Name": "Commanding officer's office",
+    "Component_Name_MS": "Pejabat Pegawai Memerintah",
+    "Category": "Other Components",
+    "Description": "Office of the ship's commanding officer. Recorded on site as 'pejabat pegawai memerintah'.",
+    "Ship_Section": "Deck 1",
+    "Image_URLs": [
+      "/images/components/deck-1-commanding-officer-s-office-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.1 deck 'PEJABAT PEGAWAI MEMERINTAH'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP010",
+    "Component_Name": "Port boat deck",
+    "Component_Name_MS": "",
+    "Category": "Deck",
+    "Description": "Deck area on the port (left) side where the ship's boats were carried. Recorded on site as 'port boat deck'.",
+    "Ship_Section": "Deck 1",
+    "Image_URLs": [
+      "/images/components/deck-1-port-boat-deck-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.1 deck 'PORT BOAT DECK'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP011",
+    "Component_Name": "Starboard boat deck",
+    "Component_Name_MS": "",
+    "Category": "Deck",
+    "Description": "Deck area on the starboard (right) side where the ship's boats were carried. Recorded on site as 'stbd boat deck'.",
+    "Ship_Section": "Deck 1",
+    "Image_URLs": [
+      "/images/components/deck-1-starboard-boat-deck-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.1 deck 'STBD BOAT DECK'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP012",
+    "Component_Name": "Forecastle (A gun)",
+    "Component_Name_MS": "Geladak Haluan (A gun)",
+    "Category": "Armament",
+    "Description": "Forward deck carrying the forward gun position, conventionally called 'A'. Recorded on site as 'galadak Haluan (A gun)'.",
+    "Ship_Section": "Deck 1",
+    "Image_URLs": [
+      "/images/components/deck-1-forecastle-a-gun-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.1 deck 'GELADAK HALUAN (A GUN)'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP013",
+    "Component_Name": "Helicopter deck",
+    "Component_Name_MS": "",
+    "Category": "Deck",
+    "Description": "Landing platform for a light helicopter; the ship had no hangar. Recorded on site as 'helideck'.",
+    "Ship_Section": "Deck 1",
+    "Image_URLs": [
+      "/images/components/deck-1-helicopter-deck-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "'light' and 'no hangar' removed; SRC017 added.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.1 deck 'HELIDECK'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP014",
+    "Component_Name": "Aft switchboard",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "Electrical switchboard serving the after part of the ship. Recorded on site as 'AFT Switchboard'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-aft-switchboard-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'AFT SWITCHBOARD'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP015",
+    "Component_Name": "Chart room",
+    "Component_Name_MS": "Bilik Peta",
+    "Category": "Bridge and Navigation",
+    "Description": "Where charts were kept and the ship's position was plotted. Recorded on site as 'Bilik Peta'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-chart-room-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": ""
+  },
+  {
+    "Component_ID": "CMP016",
+    "Component_Name": "Classroom",
+    "Component_Name_MS": "Bilik Kuliah",
+    "Category": "Training Facilities",
+    "Description": "Teaching space used during the ship's training role. Recorded on site as 'Classroom'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-classroom-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'CLASSROOM'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Bilik Kuliah",
+        "Evidence": "SRC038 p.36",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP017",
+    "Component_Name": "Damage control headquarters (DCHQ)",
+    "Component_Name_MS": "Bilik Kawalan Kerosakan",
+    "Category": "Safety Equipment",
+    "Description": "Centre for coordinating firefighting and damage control. Recorded on site as 'DCHQ'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-damage-control-headquarters-dchq-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'DCHQ'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Bilik Kawalan Kerosakan",
+        "Evidence": "SRC038 p.35",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP018",
+    "Component_Name": "Forward switchboard",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "Electrical switchboard serving the forward part of the ship. Recorded on site as 'FWD Switchboard'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-forward-switchboard-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'FWD SWITCHBOARD'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP019",
+    "Component_Name": "Galley",
+    "Component_Name_MS": "",
+    "Category": "Living Quarters",
+    "Description": "The ship's kitchen. Recorded on site as 'Galley'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-galley-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'GALLEY'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP020",
+    "Component_Name": "Junior rates' dining hall",
+    "Component_Name_MS": "",
+    "Category": "Living Quarters",
+    "Description": "Dining hall for junior ratings. Recorded on site as 'J.R Dining Hall'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-junior-rates-dining-hall-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'J.R DINING HALL'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "pp.28–38",
+            "Finding": "Possibly related to 'Junior Rate Club' (SRC038 p.35), but the deck plan says 'J.R DINING HALL'. Not applied."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "pp.28–38",
+        "Finding": "Possibly related to 'Junior Rate Club' (SRC038 p.35), but the deck plan says 'J.R DINING HALL'. Not applied."
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP021",
+    "Component_Name": "Library",
+    "Component_Name_MS": "Perpustakaan Kapal",
+    "Category": "Training Facilities",
+    "Description": "Reading and study space. Recorded on site as 'Library'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-library-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'LIBRARY'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Perpustakaan Kapal",
+        "Evidence": "SRC038 p.34",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP022",
+    "Component_Name": "Marine engineering workshop",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "Workshop for maintaining the ship's machinery. Recorded on site as 'ME Workshop'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-marine-engineering-workshop-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'ME WORKSHOP'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "pp.28–38",
+            "Finding": "Possibly 'Bengkel Teknikal' (SRC038 p.35); the deck plan says 'ME WORKSHOP'. Not applied."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "pp.28–38",
+        "Finding": "Possibly 'Bengkel Teknikal' (SRC038 p.35); the deck plan says 'ME WORKSHOP'. Not applied."
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP023",
+    "Component_Name": "Senior rates' club and mess",
+    "Component_Name_MS": "",
+    "Category": "Living Quarters",
+    "Description": "Mess and recreation space for senior ratings. Recorded on site as 'S.R Club and Mess'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-senior-rates-club-and-mess-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'S.R CLUB & MESS'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "pp.28–38",
+            "Finding": "Possibly 'Wisma Bintara' (SRC038 p.36); the deck plan says 'S.R CLUB & MESS'. Not applied (D-07: flagged for review)."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "pp.28–38",
+        "Finding": "Possibly 'Wisma Bintara' (SRC038 p.36); the deck plan says 'S.R CLUB & MESS'. Not applied (D-07: flagged for review)."
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP024",
+    "Component_Name": "Ship's office",
+    "Component_Name_MS": "",
+    "Category": "Other Components",
+    "Description": "Administrative office of the ship. Recorded on site as 'Ship Office'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-ship-s-office-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Disputed",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "Conflict: recorded on site on Deck 2 (SRC004), but the TLDM No.1 deck plan places 'PEJABAT KAPAL' on No.1 deck. Withheld until the deck is checked on board.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Verified",
+        "After": "Disputed",
+        "Evidence": "SRC038 p.28: 'PEJABAT KAPAL' on No.1 deck",
+        "Decision": "Phase 2: conflict kept for review"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Published",
+        "After": "Withheld",
+        "Evidence": "SRC038 p.28",
+        "Decision": "Phase 2: conflict kept for review"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "",
+        "After": "Conflict: recorded on site on Deck 2 (SRC004), but the TLDM No.1 deck plan places 'PEJABAT KAPAL' on No.1 deck. Withheld until the deck is checked on board.",
+        "Evidence": "SRC038 p.28",
+        "Decision": "Phase 2: conflict kept for review"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP025",
+    "Component_Name": "Sickbay",
+    "Component_Name_MS": "Sick Bay",
+    "Category": "Living Quarters",
+    "Description": "The ship's medical treatment room. Recorded on site as 'Sickbay'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-sickbay-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'SICK BAY'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Sick Bay",
+        "Evidence": "SRC038 p.38 (English term as written)",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP026",
+    "Component_Name": "Boatswain's store",
+    "Component_Name_MS": "Stor Bosun",
+    "Category": "Other Components",
+    "Description": "Store for deck equipment and supplies. Recorded on site as 'Stor Bosun'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-boatswain-s-store-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'STOR BOSUN'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP027",
+    "Component_Name": "Technical store",
+    "Component_Name_MS": "Stor Teknikal",
+    "Category": "Other Components",
+    "Description": "Store for technical spares and equipment. Recorded on site as 'Stor Teknikal'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-technical-store-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'STOR TEKNIKAL'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP028",
+    "Component_Name": "Prayer room (surau)",
+    "Component_Name_MS": "Surau",
+    "Category": "Living Quarters",
+    "Description": "Prayer room for Muslim crew members. Recorded on site as 'Surau'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-prayer-room-surau-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'SURAU'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP029",
+    "Component_Name": "Wardroom",
+    "Component_Name_MS": "Wisma Pegawai",
+    "Category": "Living Quarters",
+    "Description": "Officers' mess. Recorded on site as 'Wardroom'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-wardroom-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'WARDROOM'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Wisma Pegawai",
+        "Evidence": "SRC038 p.38",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP030",
+    "Component_Name": "Wheelhouse",
+    "Component_Name_MS": "Wheelhouse",
+    "Category": "Bridge and Navigation",
+    "Description": "Where the ship was steered. Recorded on site as 'Wheel House'.",
+    "Ship_Section": "Deck 2",
+    "Image_URLs": [
+      "/images/components/deck-2-wheelhouse-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.2 deck 'WHEEL HOUSE'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Wheelhouse",
+        "Evidence": "SRC038 p.35 (English term as written)",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP031",
+    "Component_Name": "Bridge (Deck 02)",
+    "Component_Name_MS": "Anjungan",
+    "Category": "Bridge and Navigation",
+    "Description": "Recorded on Deck 02 as 'anjungan'. Confirm how it relates to the bridge recorded on Decks 01 and 1. Recorded on site as 'anjungan'.",
+    "Ship_Section": "Deck 02",
+    "Image_URLs": [
+      "/images/components/deck-02-bridge-deck-02-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification."
+  },
+  {
+    "Component_ID": "CMP032",
+    "Component_Name": "Second bridge",
+    "Component_Name_MS": "Anjungan 2",
+    "Category": "Bridge and Navigation",
+    "Description": "Recorded as 'anjungan 2'. Confirm its function on board. Recorded on site as 'anjungan 2'.",
+    "Ship_Section": "Deck 02",
+    "Image_URLs": [
+      "/images/components/deck-02-second-bridge-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification."
+  },
+  {
+    "Component_ID": "CMP033",
+    "Component_Name": "Officers under training wardroom (Deck 02)",
+    "Component_Name_MS": "",
+    "Category": "Training Facilities",
+    "Description": "Recorded separately from the OUT wardroom on Deck 01; confirm whether these are the same space. Recorded on site as 'officer under training wardroom'.",
+    "Ship_Section": "Deck 02",
+    "Image_URLs": [
+      "/images/components/deck-02-officers-under-training-wardroom-deck-02-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification."
+  },
+  {
+    "Component_ID": "CMP034",
+    "Component_Name": "Searchlight position",
+    "Component_Name_MS": "",
+    "Category": "Deck",
+    "Description": "Recorded as 'sportlight'; assumed to mean a searchlight (spotlight) position. Confirm on board. Recorded on site as 'sportlight'.",
+    "Ship_Section": "Deck 02",
+    "Image_URLs": [
+      "/images/components/deck-02-searchlight-position-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification."
+  },
+  {
+    "Component_ID": "CMP035",
+    "Component_Name": "Training bridge",
+    "Component_Name_MS": "Anjungan Latihan",
+    "Category": "Training Facilities",
+    "Description": "Bridge used for training officers in navigation and ship handling. Recorded on site as 'training brigde'.",
+    "Ship_Section": "Deck 02",
+    "Image_URLs": [
+      "/images/components/deck-02-training-bridge-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2 (D-07): STD history added from SRC038 p.12.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): 02 signal deck 'TRAINING BRIDGE'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Anjungan Latihan",
+        "Evidence": "SRC038 pp.12, 33",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "",
+        "After": "Phase 2 (D-07): STD history added from SRC038 p.12.",
+        "Evidence": "SRC038 p.12",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP036",
+    "Component_Name": "Compartment (name incomplete)",
+    "Component_Name_MS": "Bilik",
+    "Category": "Other Components",
+    "Description": "Recorded only as 'Bilik' (room). The full name needs to be recorded on board. Recorded on site as 'Bilik'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-compartment-name-incomplete-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D9 (approved 16 Oct 2026): status changed from Verified to Needs Verification; off the public deck plan until its name is recorded."
+  },
+  {
+    "Component_ID": "CMP037",
+    "Component_Name": "Sleeping quarters ('Bilik Keamanan / Bilik Tido')",
+    "Component_Name_MS": "Bilik Keamanan / Bilik Tido",
+    "Category": "Living Quarters",
+    "Description": "Recorded as 'Bilik Keamanan / Bilik Tido'. Confirm the exact name on the door sign. Recorded on site as 'Bilik Keamanan / Bilik Tido'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-sleeping-quarters-bilik-keamanan-bilik-tido-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "pp.28–38",
+            "Finding": "The labelled photographs show 'BILIK TIDUR ANGGOTA KAPAL' (crew sleeping quarters, SRC038 p.37), which clarifies the name recorded on site, but its deck is not shown on the deck plans. Still withheld."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "pp.28–38",
+        "Finding": "The labelled photographs show 'BILIK TIDUR ANGGOTA KAPAL' (crew sleeping quarters, SRC038 p.37), which clarifies the name recorded on site, but its deck is not shown on the deck plans. Still withheld."
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP038",
+    "Component_Name": "Cable locker",
+    "Component_Name_MS": "Bilik Penyimpanan Rantai Sauh",
+    "Category": "Deck",
+    "Description": "Compartment where the anchor cable is stowed. Recorded on site as 'Cable Locker'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-cable-locker-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'CABLE LOCKER'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Bilik Penyimpanan Rantai Sauh",
+        "Evidence": "SRC038 p.37",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP039",
+    "Component_Name": "Engine room",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "Main propulsion machinery space. From 1997 it housed the two Wärtsilä 12SW28 main engines. Recorded on site as 'Engine Room'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-engine-room-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "SRC002 added for the Wärtsilä engines.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'ENGINE ROOM'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP040",
+    "Component_Name": "Generator room",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "Space housing the ship's electrical generators. Recorded on site as 'Generator Room'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-generator-room-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'GENERATOR ROOM'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP041",
+    "Component_Name": "Leading hands' mess",
+    "Component_Name_MS": "",
+    "Category": "Living Quarters",
+    "Description": "Mess for leading hands. Recorded on site as 'Leading Hand Mess'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-leading-hands-mess-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'LEADING HAND MESS'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP042",
+    "Component_Name": "Machinery room",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "Auxiliary machinery space. Recorded on site as 'Machinery Room'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-machinery-room-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'MACHINERY ROOM'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP043",
+    "Component_Name": "Machinery control room (MCR)",
+    "Component_Name_MS": "Bilik Kawalan Jentera Utama",
+    "Category": "Engine and Machinery",
+    "Description": "Where engineers monitored and controlled the ship's machinery. Recorded on site as 'MCR'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-machinery-control-room-mcr-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'MCR'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Component_Name_MS",
+        "Before": "",
+        "After": "Bilik Kawalan Jentera Utama",
+        "Evidence": "SRC038 p.37",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP044",
+    "Component_Name": "On-the-job training mess",
+    "Component_Name_MS": "",
+    "Category": "Training Facilities",
+    "Description": "Mess for trainees on on-the-job training (OJT). Recorded on site as 'OJT Mess'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-on-the-job-training-mess-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'OJT MESS'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP045",
+    "Component_Name": "Seamen's mess",
+    "Component_Name_MS": "",
+    "Category": "Living Quarters",
+    "Description": "Mess for seaman ratings. Recorded on site as 'Seaman Mess'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-seamen-s-mess-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'SEAMAN MESS'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP046",
+    "Component_Name": "Steering gear compartment",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "Houses the machinery that moves the rudders. Recorded on site as 'Steering Gear Compartment'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-steering-gear-compartment-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'STEERING GEAR COMPARTMENT'",
+        "Decision": "Phase 2: deck plan agrees"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "pp.28–38",
+            "Finding": "The labelled photograph says 'STEARING GEAR' (as written, SRC038 p.36); 'Bilik Kemudi Kecemasan' (emergency steering room, p.36) may be the same or a different space. Not applied."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "pp.28–38",
+        "Finding": "The labelled photograph says 'STEARING GEAR' (as written, SRC038 p.36); 'Bilik Kemudi Kecemasan' (emergency steering room, p.36) may be the same or a different space. Not applied."
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP047",
+    "Component_Name": "Supply branch mess",
+    "Component_Name_MS": "",
+    "Category": "Living Quarters",
+    "Description": "Mess for supply branch ratings. Recorded on site as 'Supply Mess'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-supply-branch-mess-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'SUPPLY MESS'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP048",
+    "Component_Name": "Technical branch mess",
+    "Component_Name_MS": "",
+    "Category": "Living Quarters",
+    "Description": "Mess for technical branch ratings. Recorded on site as 'Technical Mess'.",
+    "Ship_Section": "Deck 3",
+    "Image_URLs": [
+      "/images/components/deck-3-technical-branch-mess-1.jpg"
+    ],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC004",
+      "SRC038"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC004"
+        ],
+        "After": [
+          "SRC004",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 pp.28–32 (deck plans): No.3 deck 'TECHNICAL MESS'",
+        "Decision": "Phase 2: deck plan agrees"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP049",
+    "Component_Name": "Propeller hub drawing (Stone Marine Engineering)",
+    "Component_Name_MS": "",
+    "Category": "Engine and Machinery",
+    "Description": "General-arrangement drawing by Stone Marine Engineering of a propeller hub, showing sections through the automatic adjusting valve and by-pass valve, the O.D. box and a scale-and-pointer plan. Title partly legible. Photographed during the site visit on 30 September 2026 (photograph withheld until reviewed); where the drawing is kept and whether it relates to this ship's propellers are still to be confirmed.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [
+      "/images/components/cmp049-photo-pending-approval.jpg"
+    ],
+    "Image_Captions": [
+      "General-arrangement drawing, Stone Marine Engineering (photographed 30 September 2026)"
+    ],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC005"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification."
+  },
+  {
+    "Component_ID": "CMP050",
+    "Component_Name": "Kamar Pegawai Memerintah",
+    "Component_Name_MS": "Kamar Pegawai Memerintah",
+    "Category": "Other Components",
+    "Description": "Space shown in a labelled photograph in the TLDM briefing (p.34) as 'KAMAR PEGAWAI MEMERINTAH'. English gloss for review: commanding officer's cabin. Its deck is not shown on the deck plans.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-07: name as written; deck and any match with an existing space need checking.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038 p.34",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP051",
+    "Component_Name": "Bilik Peralatan Kelasi",
+    "Component_Name_MS": "Bilik Peralatan Kelasi",
+    "Category": "Other Components",
+    "Description": "Space shown in a labelled photograph in the TLDM briefing (p.33) as 'BILIK PERALATAN KELASI'. English gloss for review: seamen's equipment room. Its deck is not shown on the deck plans.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-07: name as written; deck and any match with an existing space need checking.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038 p.33",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP052",
+    "Component_Name": "Junior Rate Club",
+    "Component_Name_MS": "Junior Rate Club",
+    "Category": "Other Components",
+    "Description": "Space shown in a labelled photograph in the TLDM briefing (p.35) as 'JUNIOR RATE CLUB'. English gloss for review: junior rates' club. Its deck is not shown on the deck plans.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-07: name as written; deck and any match with an existing space need checking.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038 p.35",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP053",
+    "Component_Name": "Wisma Bintara",
+    "Component_Name_MS": "Wisma Bintara",
+    "Category": "Other Components",
+    "Description": "Space shown in a labelled photograph in the TLDM briefing (p.36) as 'WISMA BINTARA'. English gloss for review: senior rates' mess. Its deck is not shown on the deck plans.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-07: name as written; deck and any match with an existing space need checking.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038 p.36",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP054",
+    "Component_Name": "Bilik Kemudi Kecemasan",
+    "Component_Name_MS": "Bilik Kemudi Kecemasan",
+    "Category": "Other Components",
+    "Description": "Space shown in a labelled photograph in the TLDM briefing (p.36) as 'BILIK KEMUDI KECEMASAN'. English gloss for review: emergency steering room. Its deck is not shown on the deck plans.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-07: name as written; deck and any match with an existing space need checking.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038 p.36",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP055",
+    "Component_Name": "Bengkel Teknikal",
+    "Component_Name_MS": "Bengkel Teknikal",
+    "Category": "Other Components",
+    "Description": "Space shown in a labelled photograph in the TLDM briefing (p.35) as 'BENGKEL TEKNIKAL'. English gloss for review: technical workshop. Its deck is not shown on the deck plans.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-07: name as written; deck and any match with an existing space need checking.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038 p.35",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP056",
+    "Component_Name": "Ghetto",
+    "Component_Name_MS": "Ghetto",
+    "Category": "Other Components",
+    "Description": "Space shown in a labelled photograph in the TLDM briefing (p.38) as 'GHETTO'. English gloss for review: (term as written; meaning not stated). Its deck is not shown on the deck plans.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-07: name as written; deck and any match with an existing space need checking.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038 p.38",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Component_ID": "CMP057",
+    "Component_Name": "Dobi",
+    "Component_Name_MS": "Dobi",
+    "Category": "Other Components",
+    "Description": "Space shown in a labelled photograph in the TLDM briefing (p.38) as 'DOBI'. English gloss for review: laundry. Its deck is not shown on the deck plans.",
+    "Ship_Section": "Not recorded",
+    "Image_URLs": [],
+    "Image_Captions": [],
+    "Photo_Credit": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-07: name as written; deck and any match with an existing space need checking.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038 p.38",
+        "Decision": "D-07 (approved 4 Nov 2026)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2890 @@
+[
+  {
+    "Event_ID": "EVT001",
+    "Date": "1964",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Ordered by Ghana as Black Star",
+    "Event_Title_MS": "Ditempah oleh Ghana sebagai Black Star",
+    "Event_Category": "Construction and Origins",
+    "Location_ID": "LOC001",
+    "Description": "The Republic of Ghana, under President Kwame Nkrumah, ordered the ship from Yarrow Shipbuilders at Scotstoun, Glasgow. Named Black Star, she was to serve as the flagship of the Ghana Navy and as a presidential yacht.",
+    "Description_MS": "",
+    "Historical_Notes": "That Ghana ordered the ship is stated by several sources. The year 1964 comes from one blog (Warship Wednesday) only; the other sources do not date the order.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC021"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT002",
+      "EVT003"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 1,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-03: order, name and Nkrumah confirmed by SRC038 and published in the 'black-star' section; the order date (1964) is still unconfirmed, so the event is not placed on the timeline.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "p.4",
+            "Finding": "Confirms the order for the Ghana Navy as BLACK STAR for President Kwame Nkrumah. No date of the order is given, so the 1964 date remains unconfirmed and the event stays off the timeline (it has no confirmed date to be placed by). The order itself is published in the ship profile's 'Black Star' section, now also citing SRC038."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: Needs Verification; kept in the research register only.",
+        "After": "D-03: order, name and Nkrumah confirmed by SRC038 and published in the 'black-star' section; the order date (1964) is still unconfirmed, so the event is not placed on the timeline.",
+        "Evidence": "SRC038 p.4",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "p.4",
+        "Finding": "Confirms the order for the Ghana Navy as BLACK STAR for President Kwame Nkrumah. No date of the order is given, so the 1964 date remains unconfirmed and the event stays off the timeline (it has no confirmed date to be placed by). The order itself is published in the ship profile's 'Black Star' section, now also citing SRC038."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT002",
+    "Date": "1965",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Keel laid down at Scotstoun",
+    "Event_Title_MS": "Peletakan lunas di Scotstoun",
+    "Event_Category": "Construction and Origins",
+    "Location_ID": "LOC001",
+    "Description": "Construction began at Yarrow's Scotstoun yard as yard number 2284.",
+    "Description_MS": "",
+    "Historical_Notes": "The year 1965 appears only in naval-encyclopedia. The Malay Wikipedia infobox gives 'Mula dibina: 1973', which conflicts with the 1966 launch and is treated as an error rather than an alternative date. A builder's yard list or launch register is needed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC018",
+      "SRC015"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT001",
+      "EVT004"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 2,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification; kept in the research register only."
+  },
+  {
+    "Event_ID": "EVT003",
+    "Date": "1966-02",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Coup in Ghana; order cancelled",
+    "Event_Title_MS": "Rampasan kuasa di Ghana; tempahan dibatalkan",
+    "Event_Category": "Construction and Origins",
+    "Location_ID": null,
+    "Description": "President Nkrumah was overthrown in a military coup in February 1966. The new government cancelled the order, which was costing about £5 million, leaving Yarrow with a partly built ship.",
+    "Description_MS": "Presiden Nkrumah digulingkan dalam rampasan kuasa, lalu kerajaan baharu Ghana membatalkan tempahan kapal yang bernilai kira-kira £5 juta itu. Menurut taklimat TLDM, tempahan dibatalkan kerana harga kapal terlalu mahal.",
+    "Historical_Notes": "Sources agree the order was cancelled after the February 1966 coup; the exact date of the cancellation is not given.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC016",
+      "SRC017",
+      "SRC019",
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT001",
+      "EVT004"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 3,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "R1: the month 'February 1966' rests on Wikipedia (SRC019) only; published as 1966 (SRC017). Research keeps February 1966.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC016",
+          "SRC017",
+          "SRC019"
+        ],
+        "After": [
+          "SRC016",
+          "SRC017",
+          "SRC019",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 p.4: 'kerana harganya terlalu mahal (£5 juta)'",
+        "Decision": "Phase 2: supporting citation"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "",
+        "After": "Presiden Nkrumah digulingkan dalam rampasan kuasa, lalu kerajaan baharu Ghana membatalkan tempahan kapal yang bernilai kira-kira £5 juta itu. Menurut taklimat TLDM, tempahan dibatalkan kerana harga kapal terlalu mahal.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT004",
+    "Date": "1966-12-29",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Launched without ceremony",
+    "Event_Title_MS": "Dilancarkan tanpa upacara",
+    "Event_Category": "Construction and Origins",
+    "Location_ID": "LOC001",
+    "Description": "Yarrow decided to finish the ship in the hope of finding another buyer and launched her without ceremony on 29 December 1966.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC017",
+      "SRC050"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT003",
+      "EVT005"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 4,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC015",
+          "SRC016",
+          "SRC017"
+        ],
+        "After": [
+          "SRC015",
+          "SRC016",
+          "SRC017",
+          "SRC050"
+        ],
+        "Evidence": "SRC050 ('launched on 29 December 1966')",
+        "Decision": "Phase 2: supporting citation"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "p.4",
+            "Finding": "Conflict kept for review: 'Mula dibina pada 29 Dis 66' (construction began on 29 Dec 1966), whereas the launch date is 29 Dec 1966 in SRC015–SRC017 and SRC050. The public record is unchanged."
+          },
+          {
+            "Source_ID": "SRC040",
+            "Reference": "p.16",
+            "Finding": "Describes the ship in May 2009 as 'berusia mencecah 46 tahun' (nearly 46 years old); not used."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "p.4",
+        "Finding": "Conflict kept for review: 'Mula dibina pada 29 Dis 66' (construction began on 29 Dec 1966), whereas the launch date is 29 Dec 1966 in SRC015–SRC017 and SRC050. The public record is unchanged."
+      },
+      {
+        "Source_ID": "SRC040",
+        "Reference": "p.16",
+        "Finding": "Describes the ship in May 2009 as 'berusia mencecah 46 tahun' (nearly 46 years old); not used."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT005",
+    "Date": "1968-06",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Completed and laid up awaiting a buyer",
+    "Event_Title_MS": "Siap dibina dan ditambat menunggu pembeli",
+    "Event_Category": "Construction and Origins",
+    "Location_ID": "LOC001",
+    "Description": "The ship was completed but remained unsold, lying in the Clyde for several years.",
+    "Description_MS": "",
+    "Historical_Notes": "Completion date differs between sources: June 1968 (Wikipedia, uncited; naval-encyclopedia) and 1967 (Warship Wednesday). Reference photographs in the research folder show her as Black Star at Rothesay Dock (1 December 1968) and Queen's Dock, Glasgow (19 January 1969); they are not displayed until permission is confirmed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC019",
+      "SRC018",
+      "SRC016"
+    ],
+    "Alternative_Dates": [
+      {
+        "Date": "1967",
+        "Date_Precision": "year",
+        "Source_ID": "SRC021",
+        "Note": "Warship Wednesday: 'completed in 1967'."
+      }
+    ],
+    "Related_Event_IDs": [
+      "EVT004",
+      "EVT006"
+    ],
+    "Verification": "Disputed",
+    "Is_Demo_Data": false,
+    "Display_Order": 5,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Disputed; kept in the research register only.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "p.4",
+            "Finding": "'Kapal tidak dapat disiapkan sepenuhnya dan dibiarkan di Limbungan Yarrow' (not fully completed and left at Yarrow) — a further conflict with 'completed in 1968'. Stays Disputed."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "p.4",
+        "Finding": "'Kapal tidak dapat disiapkan sepenuhnya dan dibiarkan di Limbungan Yarrow' (not fully completed and left at Yarrow) — a further conflict with 'completed in 1968'. Stays Disputed."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT006",
+    "Date": "1971",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "British government decides to buy the ship",
+    "Event_Title_MS": "Kerajaan British memutuskan untuk membeli kapal",
+    "Event_Category": "Construction and Origins",
+    "Location_ID": null,
+    "Description": "The newly elected Conservative government decided to buy the ship for the Royal Navy, a purchase described as an indirect subsidy to an important shipbuilder.",
+    "Description_MS": "",
+    "Historical_Notes": "1971 is given by Wikipedia (uncited) and naval-encyclopedia. Warship Wednesday reports about £3.8 million of Crown loans to Ghana for the ship being written off in 1971. A UK parliamentary record (Hansard) would confirm the date.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC016",
+      "SRC019",
+      "SRC021"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT005",
+      "EVT007"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 6,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification; kept in the research register only."
+  },
+  {
+    "Event_ID": "EVT007",
+    "Date": "1972-04",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Moved to Portsmouth; refitted at Chatham",
+    "Event_Title_MS": "Dipindahkan ke Portsmouth; dibaik pulih di Chatham",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": "LOC002",
+    "Description": "In April 1972 the ship was moved from the Firth of Clyde to Portsmouth Dockyard, and then to Chatham Dockyard, where she was refitted to Royal Navy standards.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC019",
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT006",
+      "EVT008"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 7,
+    "Public_Status": "Published",
+    "Public_Note": "R1: SRC019 removed from the public citation; SRC015 and SRC016 state the claim.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC015",
+          "SRC016",
+          "SRC019"
+        ],
+        "After": [
+          "SRC015",
+          "SRC016",
+          "SRC019",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 p.4",
+        "Decision": "Phase 2: supporting citation"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT008",
+    "Date": "1973-05-16",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Commissioned as HMS Mermaid (F76)",
+    "Event_Title_MS": "Ditauliahkan sebagai HMS Mermaid (F76)",
+    "Event_Category": "Commissioning",
+    "Location_ID": null,
+    "Description": "Commissioned into the Royal Navy as HMS Mermaid with the pennant number F76.",
+    "Description_MS": "",
+    "Historical_Notes": "The place of commissioning is not stated in the sources reviewed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC015",
+      "SRC016",
+      "SRC017",
+      "SRC019",
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT007",
+      "EVT009"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 8,
+    "Public_Status": "Published",
+    "Public_Note": "R1: SRC019 removed from the public citation.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC015",
+          "SRC016",
+          "SRC017",
+          "SRC019"
+        ],
+        "After": [
+          "SRC015",
+          "SRC016",
+          "SRC017",
+          "SRC019",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 p.4",
+        "Decision": "Phase 2: supporting citation"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT009",
+    "Date": "1974",
+    "Date_Precision": "year",
+    "End_Date": "1975",
+    "Event_Title": "Based at Singapore",
+    "Event_Title_MS": "Berpangkalan di Singapura",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC005",
+    "Description": "As HMS Mermaid, the ship was based in Singapore in 1974 and 1975 during her Royal Navy service in the Far East.",
+    "Description_MS": "Sebagai HMS Mermaid, kapal ini berpangkalan di Singapura pada tahun 1974 dan 1975 semasa berkhidmat dengan Tentera Laut Diraja British di Timur Jauh.",
+    "Historical_Notes": "A Hong Kong newspaper report of a later visit by KD Hang Tuah states that, as HMS Mermaid, she was 'based in Singapore in 1974 and 1975'. When her Far East service began is not confirmed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC016",
+      "SRC017",
+      "SRC029",
+      "SRC046"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT008",
+      "EVT010"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 9,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "D-03: published for 1974–1975 (SRC046); the 1973 start, the Hong Kong guardship duty and SRC029 stay in research.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Needs Verification",
+        "After": "Verified",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC016",
+          "SRC017",
+          "SRC029"
+        ],
+        "After": [
+          "SRC016",
+          "SRC017",
+          "SRC029",
+          "SRC046"
+        ],
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published (trimmed)",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: Needs Verification; kept in the research register only.",
+        "After": "D-03: published for 1974–1975 (SRC046); the 1973 start, the Hong Kong guardship duty and SRC029 stay in research.",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Date",
+        "Before": "1973",
+        "After": "1974",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "End_Date",
+        "Before": "1976",
+        "After": "1975",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Event_Title",
+        "Before": "Far East service, based at Singapore",
+        "After": "Based at Singapore",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Event_Title_MS",
+        "Before": "Perkhidmatan di Timur Jauh, berpangkalan di Singapura",
+        "After": "Berpangkalan di Singapura",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "After working up, Mermaid was sent to the Far East and based at Singapore. Her light armament suited presence and 'defence diplomacy' duties, and she at times stood in for HMS Chichester as the Hong Kong guardship.",
+        "After": "As HMS Mermaid, the ship was based in Singapore in 1974 and 1975 during her Royal Navy service in the Far East.",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "",
+        "After": "Sebagai HMS Mermaid, kapal ini berpangkalan di Singapura pada 1974 dan 1975 semasa berkhidmat dengan Tentera Laut Diraja British di Timur Jauh.",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Historical_Notes",
+        "Before": "Sources give no exact dates. The period shown runs from her May 1973 commissioning to her return to home waters in 1976. A former crew member recalls joining her in Singapore in September 1975 as 'the last Singapore guardship' (Facebook, 2024). A photograph labelled 'departs Fremantle mid 70s' is in the research folder, but its date and place are unconfirmed.",
+        "After": "A Hong Kong newspaper report of a later visit by KD Hang Tuah states that, as HMS Mermaid, she was 'based in Singapore in 1974 and 1975'. When her Far East service began is not confirmed.",
+        "Evidence": "SRC046 ('based in Singapore in 1974 and 1975')",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC046",
+            "Reference": "",
+            "Finding": "SRC046 supports 1974–1975 only; the v4 start (1973) and end (1976) are kept here."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "Sebagai HMS Mermaid, kapal ini berpangkalan di Singapura pada 1974 dan 1975 semasa berkhidmat dengan Tentera Laut Diraja British di Timur Jauh.",
+        "After": "Sebagai HMS Mermaid, kapal ini berpangkalan di Singapura pada tahun 1974 dan 1975 semasa berkhidmat dengan Tentera Laut Diraja British di Timur Jauh.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC046",
+        "Reference": "",
+        "Finding": "SRC046 supports 1974–1975 only; the v4 start (1973) and end (1976) are kept here."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT010",
+    "Date": "1975",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Stood by for the evacuation of Saigon",
+    "Event_Title_MS": "Bersiap sedia bagi pemindahan dari Saigon",
+    "Event_Category": "Naval Service",
+    "Location_ID": null,
+    "Description": "At the end of the Vietnam War she stood by in case British nationals needed to be evacuated from Saigon.",
+    "Description_MS": "",
+    "Historical_Notes": "Dated 1975 because the sources place it at the end of the Vietnam War (Saigon fell in April 1975). naval-encyclopedia instead gives 1973 and says she carried out the evacuation; historyofwar and seaforces say only that she stood by.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC016",
+      "SRC017"
+    ],
+    "Alternative_Dates": [
+      {
+        "Date": "1973",
+        "Date_Precision": "year",
+        "Source_ID": "SRC018",
+        "Note": "naval-encyclopedia: 'in 1973, was used to evacuate British nationals from Saigon'."
+      }
+    ],
+    "Related_Event_IDs": [
+      "EVT009"
+    ],
+    "Verification": "Disputed",
+    "Is_Demo_Data": false,
+    "Display_Order": 10,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Disputed; kept in the research register only."
+  },
+  {
+    "Event_ID": "EVT011",
+    "Date": "1976-03",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Cod War collision with an Icelandic Coast Guard vessel",
+    "Event_Title_MS": "Perlanggaran dengan kapal Pengawal Pantai Iceland semasa Perang Ikan Kod",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC006",
+    "Description": "Back in home waters, Mermaid protected British trawlers off Iceland during the Third Cod War and was involved in collisions with Icelandic Coast Guard vessels.",
+    "Description_MS": "",
+    "Historical_Notes": "Sources disagree on the Icelandic vessel in March 1976. Wikipedia (citing Roberts 2009, p. 119) names ICGV Óðinn on 12 March 1976; an Icelandic exhibition caption in the research folder and Warship Wednesday name ICGV Þór (Thor) in March 1976. These may be separate incidents.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC028",
+      "SRC021",
+      "SRC019"
+    ],
+    "Alternative_Dates": [
+      {
+        "Date": "1976-03-12",
+        "Date_Precision": "day",
+        "Source_ID": "SRC019",
+        "Note": "Wikipedia (citing Roberts 2009): ramming incident with ICGV Óðinn on 12 March 1976."
+      }
+    ],
+    "Related_Event_IDs": [
+      "EVT012"
+    ],
+    "Verification": "Disputed",
+    "Is_Demo_Data": false,
+    "Display_Order": 11,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Disputed; kept in the research register only."
+  },
+  {
+    "Event_ID": "EVT012",
+    "Date": "1976-05-06",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Incident with ICGV Baldur",
+    "Event_Title_MS": "Insiden dengan ICGV Baldur",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC006",
+    "Description": "On 6 May 1976, during the Cod Wars, HMS Mermaid had an encounter with the Icelandic Coast Guard vessel Baldur. A contemporary photo board records it with the caption 'ICGV Baldur's can opening technique as attempted on H.M.S. Mermaid on 6th May 76'.",
+    "Description_MS": "Pada 6 Mei 1976, semasa Perang Ikan Kod (Cod Wars), HMS Mermaid berhadapan dengan kapal Pengawal Pantai Iceland, Baldur, dalam satu insiden. Sebuah papan gambar sezaman merakamkan insiden ini dengan kapsyen 'ICGV Baldur's can opening technique as attempted on H.M.S. Mermaid on 6th May 76'.",
+    "Historical_Notes": "The caption is quoted as written; photographs by G Wicks (not published). The board does not say whether the ships collided or whether Mermaid was damaged; that is still being checked.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC019",
+      "SRC031",
+      "SRC017",
+      "SRC051"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT011"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 12,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "D-03: date and ships confirmed by the captioned photo board (SRC051); 'collision damage' (SRC019, SRC031) stays in research as unconfirmed.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Needs Verification",
+        "After": "Verified",
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC019",
+          "SRC031",
+          "SRC017"
+        ],
+        "After": [
+          "SRC019",
+          "SRC031",
+          "SRC017",
+          "SRC051"
+        ],
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published (trimmed)",
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: Needs Verification; kept in the research register only.",
+        "After": "D-03: date and ships confirmed by the captioned photo board (SRC051); 'collision damage' (SRC019, SRC031) stays in research as unconfirmed.",
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Event_Title",
+        "Before": "Collision with ICGV Baldur",
+        "After": "Incident with ICGV Baldur",
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Event_Title_MS",
+        "Before": "Perlanggaran dengan ICGV Baldur",
+        "After": "Insiden dengan ICGV Baldur",
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "Mermaid suffered collision damage in an encounter with the Icelandic patrol vessel Baldur.",
+        "After": "On 6 May 1976, during the Cod Wars, HMS Mermaid had an encounter with the Icelandic Coast Guard vessel Baldur. A contemporary photo board records it with the caption 'ICGV Baldur's can opening technique as attempted on H.M.S. Mermaid on 6th May 76'.",
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "",
+        "After": "Pada 6 Mei 1976, semasa Perang Ikan Kod (Cod Wars), HMS Mermaid bertembung dengan kapal Pengawal Pantai Iceland, Baldur. Sebuah papan gambar sezaman merakamkan peristiwa ini dengan kapsyen 'ICGV Baldur's can opening technique as attempted on H.M.S. Mermaid on 6th May 76'.",
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Historical_Notes",
+        "Before": "The date comes from Wikipedia citing Roberts (2009), p. 119, which has not yet been checked. Seaforces mentions close contact with Baldur without a date.",
+        "After": "The caption is quoted as written; photographs by G Wicks (not published). The board does not say whether the ships collided or whether Mermaid was damaged; that is still being checked.",
+        "Evidence": "SRC051",
+        "Decision": "D-03 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC051",
+            "Reference": "",
+            "Finding": "SRC051 gives the date and ships only; 'collision damage' (v4 text, from SRC019/SRC031) is not confirmed."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "Pada 6 Mei 1976, semasa Perang Ikan Kod (Cod Wars), HMS Mermaid bertembung dengan kapal Pengawal Pantai Iceland, Baldur. Sebuah papan gambar sezaman merakamkan peristiwa ini dengan kapsyen 'ICGV Baldur's can opening technique as attempted on H.M.S. Mermaid on 6th May 76'.",
+        "After": "Pada 6 Mei 1976, semasa Perang Ikan Kod (Cod Wars), HMS Mermaid berhadapan dengan kapal Pengawal Pantai Iceland, Baldur, dalam satu insiden. Sebuah papan gambar sezaman merakamkan insiden ini dengan kapsyen 'ICGV Baldur's can opening technique as attempted on H.M.S. Mermaid on 6th May 76'.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC051",
+        "Reference": "",
+        "Finding": "SRC051 gives the date and ships only; 'collision damage' (v4 text, from SRC019/SRC031) is not confirmed."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT013",
+    "Date": "1976-09-20",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Collision with HMS Fittleton",
+    "Event_Title_MS": "Perlanggaran dengan HMS Fittleton",
+    "Event_Category": "Naval Service",
+    "Location_ID": null,
+    "Description": "The minesweeper HMS Fittleton collided with Mermaid while coming alongside, capsized and sank. Twelve men died, eleven of them Royal Naval Reserve volunteers.",
+    "Description_MS": "",
+    "Historical_Notes": "Accounts place the collision during or just after a NATO exercise, on passage to Hamburg; the exact position is not given in the sources reviewed. Some secondary sources say Mermaid 'rammed' Fittleton; the memorial and Forces News describe a collision as Fittleton came alongside.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC022",
+      "SRC023",
+      "SRC019"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT012",
+      "EVT014"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 13,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "R1: SRC019 removed; sentence about unnamed secondary sources ('rammed') kept in research only."
+  },
+  {
+    "Event_ID": "EVT014",
+    "Date": "1977",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Royal Navy service ends; radar trials",
+    "Event_Title_MS": "Perkhidmatan Tentera Laut British tamat; ujian radar",
+    "Event_Category": "Naval Service",
+    "Location_ID": null,
+    "Description": "After being paid off, Mermaid helped with trials of a moving target indicator, a system that helps radar pick out moving targets against sea clutter.",
+    "Description_MS": "",
+    "Historical_Notes": "'Early 1977' per Wikipedia citing Marriott (1990), p. 103, not yet checked. The order of events (trials, then transfer) is from historyofwar.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC016",
+      "SRC019",
+      "SRC030"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT013",
+      "EVT015"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 14,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Needs Verification; kept in the research register only."
+  },
+  {
+    "Event_ID": "EVT015",
+    "Date": "1977-05-16",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Placed in Royal Malaysian Navy service",
+    "Event_Title_MS": "Mula berkhidmat dalam TLDM",
+    "Event_Category": "Naval Service",
+    "Location_ID": null,
+    "Description": "HMS Mermaid was placed in Royal Malaysian Navy service on 16 May 1977, to be commissioned as KD Hang Tuah with her pennant number, F76, unchanged. She replaced the earlier KD Hang Tuah (F433), the former HMS Loch Insh.",
+    "Description_MS": "HMS Mermaid mula berkhidmat dalam Tentera Laut Diraja Malaysia pada 16 Mei 1977, sebelum ditauliahkan sebagai KD Hang Tuah dengan mengekalkan nombor penant F76. Kapal ini menggantikan KD Hang Tuah (F433) yang terdahulu, iaitu bekas HMS Loch Insh.",
+    "Historical_Notes": "Original wording (TLDM briefing, p.5): 'HMS MERMAID diletakkan dalam perkhidmatan TLDM pada 16 Mei 77'. New Times Sabah (2007) gives the same date. The commissioning ceremony took place later, on 22 July 1977 (next event). Some earlier sources give April 1977 for the transfer; that date is kept for review.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC016",
+      "SRC017",
+      "SRC019",
+      "SRC024",
+      "SRC025",
+      "SRC038",
+      "SRC050"
+    ],
+    "Alternative_Dates": [
+      {
+        "Date": "1977-05",
+        "Date_Precision": "month",
+        "Source_ID": "SRC015",
+        "Note": "Clydeships record: 'May 1977 transferred to the Malaysian Navy'."
+      },
+      {
+        "Date": "1977-04",
+        "Date_Precision": "month",
+        "Source_ID": "SRC016",
+        "Note": "April 1977, given for the transfer by most earlier sources (SRC016, SRC017, SRC019); kept for review (D-02)."
+      }
+    ],
+    "Related_Event_IDs": [
+      "EVT014",
+      "EVT016"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 15,
+    "Public_Status": "Published",
+    "Public_Note": "D-02: date of entry into TLDM service from SRC038 p.5 (and SRC050); April 1977 kept in Alternative_Dates.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Date",
+        "Before": "1977-04",
+        "After": "1977-05-16",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Date_Precision",
+        "Before": "month",
+        "After": "day",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Disputed",
+        "After": "Verified",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Alternative_Dates",
+        "Before": [
+          {
+            "Date": "1977-05",
+            "Date_Precision": "month",
+            "Source_ID": "SRC015",
+            "Note": "Clydeships record: 'May 1977 transferred to the Malaysian Navy'."
+          }
+        ],
+        "After": [
+          {
+            "Date": "1977-05",
+            "Date_Precision": "month",
+            "Source_ID": "SRC015",
+            "Note": "Clydeships record: 'May 1977 transferred to the Malaysian Navy'."
+          },
+          {
+            "Date": "1977-04",
+            "Date_Precision": "month",
+            "Source_ID": "SRC016",
+            "Note": "April 1977, given for the transfer by most earlier sources (SRC016, SRC017, SRC019); kept for review (D-02)."
+          }
+        ],
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC016",
+          "SRC017",
+          "SRC019",
+          "SRC024",
+          "SRC025"
+        ],
+        "After": [
+          "SRC016",
+          "SRC017",
+          "SRC019",
+          "SRC024",
+          "SRC025",
+          "SRC038",
+          "SRC050"
+        ],
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Event_Title",
+        "Before": "Transferred to the Royal Malaysian Navy",
+        "After": "Placed in Royal Malaysian Navy service",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Event_Title_MS",
+        "Before": "Dipindahkan kepada Tentera Laut Diraja Malaysia",
+        "After": "Diletakkan dalam perkhidmatan TLDM",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: Disputed; kept in the research register only.",
+        "After": "D-02: date of entry into TLDM service from SRC038 p.5 (and SRC050); April 1977 kept in Alternative_Dates.",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "The ship was transferred to the Royal Malaysian Navy (TLDM), replacing the earlier KD Hang Tuah (ex-HMS Loch Insh), a Second World War Loch-class frigate.",
+        "After": "HMS Mermaid was placed in Royal Malaysian Navy service on 16 May 1977, to be commissioned as KD Hang Tuah with her pennant number, F76, unchanged. She replaced the earlier KD Hang Tuah (F433), the former HMS Loch Insh.",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "",
+        "After": "HMS Mermaid diletakkan dalam perkhidmatan Tentera Laut Diraja Malaysia pada 16 Mei 1977 untuk ditauliahkan sebagai KD Hang Tuah dengan mengekalkan nombor penant F76. Kapal ini menggantikan KD Hang Tuah (F433) yang terdahulu, iaitu bekas HMS Loch Insh.",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Historical_Notes",
+        "Before": "Most sources give April 1977; the Clydeships record gives May 1977. The two dates may refer to the agreement and the handover.",
+        "After": "Original wording (TLDM briefing, p.5): 'HMS MERMAID diletakkan dalam perkhidmatan TLDM pada 16 Mei 77'. New Times Sabah (2007) gives the same date. The commissioning ceremony took place later, on 22 July 1977 (next event). Some earlier sources give April 1977 for the transfer; that date is kept for review.",
+        "Evidence": "SRC038 p.5; SRC050",
+        "Decision": "D-02 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Event_Title_MS",
+        "Before": "Diletakkan dalam perkhidmatan TLDM",
+        "After": "Mula berkhidmat dalam TLDM",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "HMS Mermaid diletakkan dalam perkhidmatan Tentera Laut Diraja Malaysia pada 16 Mei 1977 untuk ditauliahkan sebagai KD Hang Tuah dengan mengekalkan nombor penant F76. Kapal ini menggantikan KD Hang Tuah (F433) yang terdahulu, iaitu bekas HMS Loch Insh.",
+        "After": "HMS Mermaid mula berkhidmat dalam Tentera Laut Diraja Malaysia pada 16 Mei 1977, sebelum ditauliahkan sebagai KD Hang Tuah dengan mengekalkan nombor penant F76. Kapal ini menggantikan KD Hang Tuah (F433) yang terdahulu, iaitu bekas HMS Loch Insh.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT016",
+    "Date": "1977-07-22",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Commissioned as KD Hang Tuah at Southampton",
+    "Event_Title_MS": "Ditauliahkan sebagai KD Hang Tuah di Southampton",
+    "Event_Category": "Commissioning",
+    "Location_ID": "LOC004",
+    "Description": "KD Hang Tuah was commissioned into the Royal Malaysian Navy at Southampton on 22 July 1977, at a handover ceremony that followed naval tradition. The ship was named by Datin Badariah, and the commissioning address was given by her commanding officer, Lt Kol (Laut) Tuan Hashim bin Tuan Mohamed. She was named after Laksamana Hang Tuah, a warrior of Malay history, and kept her pennant number, F76.",
+    "Description_MS": "KD Hang Tuah ditauliahkan dalam perkhidmatan Tentera Laut Diraja Malaysia di Southampton pada 22 Julai 1977 dalam upacara penyerahan yang mengikut tradisi tentera laut. Upacara penamaan kapal disempurnakan oleh Datin Badariah, dan ucapan pentauliahan disampaikan oleh Pegawai Memerintahnya, Leftenan Kolonel (Laut) Tuan Hashim bin Tuan Mohamed. Kapal ini dinamakan sempena Laksamana Hang Tuah dan mengekalkan nombor penant F76.",
+    "Historical_Notes": "Place and date from the TLDM briefing (p.5) and Utusan Malaysia (19 October 1977); the TLDM album of the ceremony is titled 'Upacara Penamaan dan Pertauliahan KD Hang Tuah di Southamptom' and shows the White Ensign lowered and the Malaysian naval ensign raised (photographs not published). The sources differ on the title of the Malaysian representative and on the size of the first crew; these details are kept for review.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC007",
+      "SRC009",
+      "SRC003",
+      "SRC019",
+      "SRC032",
+      "SRC016",
+      "SRC038",
+      "SRC044",
+      "SRC052"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT015",
+      "EVT017"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 16,
+    "Public_Status": "Published",
+    "Public_Note": "D-01: Southampton published on SRC038 p.5, SRC044 and SRC052 (the primary source D1 required). Conflicts kept in TLDM_Evidence.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC007",
+          "SRC009",
+          "SRC003",
+          "SRC019",
+          "SRC032",
+          "SRC016"
+        ],
+        "After": [
+          "SRC007",
+          "SRC009",
+          "SRC003",
+          "SRC019",
+          "SRC032",
+          "SRC016",
+          "SRC038",
+          "SRC044",
+          "SRC052"
+        ],
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Published (trimmed)",
+        "After": "Published",
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D1: Southampton withheld (rests on Wikipedia and a partly visible panel). Clydeships' 'August 1977' kept in research (D8).",
+        "After": "D-01: Southampton published on SRC038 p.5, SRC044 and SRC052 (the primary source D1 required). Conflicts kept in TLDM_Evidence.",
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "Commissioned into the Royal Malaysian Navy as KD Hang Tuah, named after the legendary Malacca admiral Laksamana Hang Tuah. She kept her Royal Navy pennant number, F76.",
+        "After": "KD Hang Tuah was commissioned into the Royal Malaysian Navy at Southampton on 22 July 1977, at a handover ceremony that followed naval tradition. The ship was named by Datin Badariah, and the commissioning address was given by her commanding officer, Lt Kol (Laut) Tuan Hashim bin Tuan Mohamed. She was named after Laksamana Hang Tuah, a warrior of Malay history, and kept her pennant number, F76.",
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "",
+        "After": "KD Hang Tuah ditauliahkan ke dalam Tentera Laut Diraja Malaysia di Southampton pada 22 Julai 1977 dalam upacara penyerahan yang mengikut tradisi tentera laut. Upacara penamaan kapal disempurnakan oleh Datin Badariah, dan ucapan pentauliahan disampaikan oleh Pegawai Memerintahnya, Leftenan Kolonel (Laut) Tuan Hashim bin Tuan Mohamed. Kapal ini dinamakan sempena Laksamana Hang Tuah dan mengekalkan nombor penant F76.",
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Historical_Notes",
+        "Before": "The date is given by Bernama (2018) and by Utusan's report of the 2025 decommissioning ceremony. Southampton is given by Wikipedia (citing Ships Monthly, 1977) and is partly visible on an on-board panel ('…di Southampton'). The Clydeships record says instead that she was commissioned in August 1977 after a refit at Vosper Thornycroft; this is recorded here but not preferred.",
+        "After": "Place and date from the TLDM briefing (p.5) and Utusan Malaysia (19 October 1977); the TLDM album of the ceremony is titled 'Upacara Penamaan dan Pertauliahan KD Hang Tuah di Southamptom' and shows the White Ensign lowered and the Malaysian naval ensign raised (photographs not published). The sources differ on the title of the Malaysian representative and on the size of the first crew; these details are kept for review.",
+        "Evidence": "SRC038 p.5; SRC044; SRC052",
+        "Decision": "D-01 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "p.5",
+            "Finding": "Malaysia represented by 'Duta Besarnya di London Datuk Abdullah Ali'; naming by 'isteri beliau, Datin Badariah'; address by the CO 'bersama-sama krew pertama kapal seramai 205 krew'."
+          },
+          {
+            "Source_ID": "SRC044",
+            "Reference": "clipping c06",
+            "Finding": "Conflict kept for review: Datin Badariah binti Abdullah is described as the wife of the 'Pesuruhjaya Tinggi' (High Commissioner); 167 crew; the ship left 'that port' (Southampton) two weeks later — whereas SRC038 p.6 and SRC001 give Portsmouth, 15 Aug 1977."
+          },
+          {
+            "Source_ID": "SRC043",
+            "Reference": "clipping c07",
+            "Finding": "'more than 160' crew. Crew figures: 205 (SRC038), 167 (SRC044), more than 160 (SRC043); 47 cadet officers, 104 members and 13 officers under training (SRC042; SRC041 print unclear, 17 or 47)."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "KD Hang Tuah ditauliahkan ke dalam Tentera Laut Diraja Malaysia di Southampton pada 22 Julai 1977 dalam upacara penyerahan yang mengikut tradisi tentera laut. Upacara penamaan kapal disempurnakan oleh Datin Badariah, dan ucapan pentauliahan disampaikan oleh Pegawai Memerintahnya, Leftenan Kolonel (Laut) Tuan Hashim bin Tuan Mohamed. Kapal ini dinamakan sempena Laksamana Hang Tuah dan mengekalkan nombor penant F76.",
+        "After": "KD Hang Tuah ditauliahkan dalam perkhidmatan Tentera Laut Diraja Malaysia di Southampton pada 22 Julai 1977 dalam upacara penyerahan yang mengikut tradisi tentera laut. Upacara penamaan kapal disempurnakan oleh Datin Badariah, dan ucapan pentauliahan disampaikan oleh Pegawai Memerintahnya, Leftenan Kolonel (Laut) Tuan Hashim bin Tuan Mohamed. Kapal ini dinamakan sempena Laksamana Hang Tuah dan mengekalkan nombor penant F76.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "p.5",
+        "Finding": "Malaysia represented by 'Duta Besarnya di London Datuk Abdullah Ali'; naming by 'isteri beliau, Datin Badariah'; address by the CO 'bersama-sama krew pertama kapal seramai 205 krew'."
+      },
+      {
+        "Source_ID": "SRC044",
+        "Reference": "clipping c06",
+        "Finding": "Conflict kept for review: Datin Badariah binti Abdullah is described as the wife of the 'Pesuruhjaya Tinggi' (High Commissioner); 167 crew; the ship left 'that port' (Southampton) two weeks later — whereas SRC038 p.6 and SRC001 give Portsmouth, 15 Aug 1977."
+      },
+      {
+        "Source_ID": "SRC043",
+        "Reference": "clipping c07",
+        "Finding": "'more than 160' crew. Crew figures: 205 (SRC038), 167 (SRC044), more than 160 (SRC043); 47 cadet officers, 104 members and 13 officers under training (SRC042; SRC041 print unclear, 17 or 47)."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT017",
+    "Date": "1977-08-15",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Departs Portsmouth for Malaysia",
+    "Event_Title_MS": "Berlepas dari Portsmouth pulang ke tanah air",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC002",
+    "Description": "KD Hang Tuah began her voyage home at 3.00 pm local time on Monday, 15 August 1977, leaving the British naval dockyard at Portsmouth. The passage took about two months.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001",
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT016",
+      "EVT018"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 17,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001"
+        ],
+        "After": [
+          "SRC001",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 p.6",
+        "Decision": "Phase 2: supporting citation"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT018",
+    "Date": "1977-09-10",
+    "Date_Precision": "day",
+    "End_Date": "1977-09-17",
+    "Event_Title": "Seven days at Jeddah",
+    "Event_Title_MS": "Tujuh hari di Jeddah",
+    "Event_Category": "International Visits",
+    "Location_ID": "LOC009",
+    "Description": "During a seven-day stay at Jeddah from 10 to 17 September 1977, Muslim members of the crew were able to perform the Umrah and celebrate Hari Raya Aidilfitri in the Holy Land.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001",
+      "SRC041"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT017",
+      "EVT019"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 18,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001"
+        ],
+        "After": [
+          "SRC001",
+          "SRC041"
+        ],
+        "Evidence": "SRC041",
+        "Decision": "Phase 2: supporting citation"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT019",
+    "Date": "1977-10-14",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Arrives at Port Klang",
+    "Event_Title_MS": "Tiba di Pelabuhan Klang",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC013",
+    "Description": "KD Hang Tuah arrived at Port Klang at 9.00 am on 14 October 1977. She was welcomed by the Chief of the Armed Forces, General Tan Sri Ibrahim bin Ismail; the Chief of the Army, General Tan Sri Sany bin Abdul Ghaffar; the Chief of the Navy, Rear Admiral Datuk Mohd Zain bin Mohd Salleh; senior TLDM officers, members of the Armed Forces Council and Ministry of Defence staff.",
+    "Description_MS": "",
+    "Historical_Notes": "Names and ranks as written on the panel ('Laksamana Muda' translated as Rear Admiral). A photograph on the panel shows General Tan Sri Ibrahim bin Ismail performing the tepung tawar blessing on the ship at Port Klang.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001",
+      "SRC042",
+      "SRC043"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT018",
+      "EVT020"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 19,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "D2: 'LLP' kept as written; the earlier expansion 'Armed Forces Council' removed.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001"
+        ],
+        "After": [
+          "SRC001",
+          "SRC042",
+          "SRC043"
+        ],
+        "Evidence": "SRC042; SRC043",
+        "Decision": "Phase 2: supporting citation"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT020",
+    "Date": "1977-10-16",
+    "Date_Precision": "day",
+    "End_Date": "1977-10-17",
+    "Event_Title": "Two days at Malacca",
+    "Event_Title_MS": "Dua hari di Melaka",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC014",
+    "Description": "The ship called at Malacca on 16 and 17 October 1977 to commemorate the state's history and in honour of her name, before sailing for the TLDM base at Woodlands.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001",
+      "SRC041",
+      "SRC042"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT019",
+      "EVT021"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 20,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001"
+        ],
+        "After": [
+          "SRC001",
+          "SRC041",
+          "SRC042"
+        ],
+        "Evidence": "SRC041; SRC042",
+        "Decision": "Phase 2: supporting citation"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT021",
+    "Date": "1977-10-18",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Arrives at TLDM Woodlands base, Singapore",
+    "Event_Title_MS": "Tiba di Pangkalan TLDM Woodlands, Singapura",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC015",
+    "Description": "On 18 October 1977 KD Hang Tuah berthed at the jetty of the TLDM base at Woodlands, Singapore, then the navy's headquarters. She was welcomed by the Naval Region I commander, Commodore P. K. Nettur, the commanding officer of KD Malaya, M. W. Alvisse, and the families of the crew.",
+    "Description_MS": "",
+    "Historical_Notes": "Names as written on the panel: 'Panglima Wilayah Laut I, Komodor P.K. Nettur' and 'Pegawai Memerintah KD MALAYA, Kolonel M. W. Alvisse' (rank 'Kolonel' as written). TLDM headquarters moved from Woodlands to Lumut in 1984 (Wikipedia).",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC001",
+      "SRC026",
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT020",
+      "EVT022"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 21,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "R1: 'then the navy's headquarters' rested on Wikipedia (SRC026); replaced by the TLDM page's statement that the navy stayed at Woodlands until the 1984 move (SRC006).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC001",
+          "SRC026"
+        ],
+        "After": [
+          "SRC001",
+          "SRC026",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 p.7 (welcome at RMN Woodlands)",
+        "Decision": "Phase 2: supporting citation"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT022",
+    "Date": "1984-09-09",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Carries the navy's royal colours from Woodlands to Lumut",
+    "Event_Title_MS": "Membawa panji-panji Diraja TLDM dari Woodlands ke Lumut",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC016",
+    "Description": "As the TLDM moved its headquarters from Woodlands to Lumut, the navy's royal colours (panji-panji Diraja) were transferred to the new KD Malaya at Lumut by the Fleet Materiel Commander, Captain Khoo Tee Chuan, travelling aboard KD Hang Tuah.",
+    "Description_MS": "",
+    "Historical_Notes": "From the TLDM website. The same page also mentions 'KD Hang Tuah' in the 1960s; those references are to the earlier ship (ex-HMS Loch Insh), not this one.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC006",
+      "SRC027"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT021"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 26,
+    "Public_Status": "Published",
+    "Public_Note": "Audit: SRC024 added for the identification; SRC027 (Wikipedia) removed.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 22,
+        "After": 26,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT023",
+    "Date": "1992",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Becomes a training ship",
+    "Event_Title_MS": "Menjadi kapal latihan",
+    "Event_Category": "Training",
+    "Location_ID": null,
+    "Description": "KD Hang Tuah's main role shifted from front-line duty to training TLDM personnel. She served with the 21st Frigate Squadron (Skuadron Frigat ke-21).",
+    "Description_MS": "",
+    "Historical_Notes": "Sources disagree on when the training role began: 1992 (Wikipedia, uncited; naval-encyclopedia; seaforces) versus 'from the 1980s' in the Western Fleet Commander's remarks reported by Utusan (3 December 2025). Her service with the 21st Frigate Squadron is confirmed by Bernama (2018).",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC019",
+      "SRC018",
+      "SRC017",
+      "SRC009",
+      "SRC007"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT028"
+    ],
+    "Verification": "Disputed",
+    "Is_Demo_Data": false,
+    "Display_Order": 29,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Disputed; kept in the research register only.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC045",
+            "Reference": "",
+            "Finding": "Training duties are evidenced in 1983 (SRC045: sea training and patrol) and 1985 (SRC048: 'main training ship'); SRC038 p.8 lists training of cadet officers and junior sailors as a role but gives no start year. Stays Disputed."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 23,
+        "After": 29,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC045",
+        "Reference": "",
+        "Finding": "Training duties are evidenced in 1983 (SRC045: sea training and patrol) and 1985 (SRC048: 'main training ship'); SRC038 p.8 lists training of cadet officers and junior sailors as a role but gives no start year. Stays Disputed."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT024",
+    "Date": "1994-08",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Re-engining approved",
+    "Event_Title_MS": "Pengenjinan semula diluluskan",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "During Docking Essential Defect (DED) repairs at Naval Dockyard Sdn Bhd, the ship's 1940s-technology Admiralty Standard Range engines (eight ASR1 16 VTS main engines and four ASR1 8 LTS generators) were found worn, with genuine spare parts hard to obtain. In August 1994 a ministerial meeting approved the TLDM's proposal to fit new engines.",
+    "Description_MS": "",
+    "Historical_Notes": "The panel text is cut off at the right edge in the photograph; the year of the docking after '1 September' is not visible. The meeting is named on the panel as 'Mesyuarat Lembaga Menteri' (wording partly cut off). The panel also notes that spare parts supplied without certificates of origin were returned to the supplier.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC002",
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT025"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 30,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC002"
+        ],
+        "After": [
+          "SRC002",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 p.9 (original engines: 'lapan buah … ASR 1) 16 VTS dan empat buah janakuasa … 8 LTS')",
+        "Decision": "Phase 2: supporting citation"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 24,
+        "After": 30,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT025",
+    "Date": "1995-08-22",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Re-engining contract awarded to Wärtsilä",
+    "Event_Title_MS": "Kontrak pengenjinan semula diberikan kepada Wärtsilä",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "After evaluating offers from local and international firms, the TLDM awarded the contract to Wärtsilä, which offered two type 12SW28 main engines and three generator sets (type 12V UD 25S).",
+    "Description_MS": "",
+    "Historical_Notes": "The generator model, only partly legible on the panel ('…25S'), is given in full in the TLDM briefing (p.9) as 12V UD 25S. The two TLDM sources disagree on the contract date: 22 August 1995 (on-board panel, SRC002) and 22 August 1994 (briefing, SRC038).",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC002",
+      "SRC038"
+    ],
+    "Alternative_Dates": [
+      {
+        "Date": "1994-08-22",
+        "Date_Precision": "day",
+        "Source_ID": "SRC038",
+        "Note": "TLDM briefing p.9: 'Pada 22 ogos 1994 pihak TLDM akhirnya bersetuju menyerahkan kontrak kepada firma Wartsila'. The on-board panel (SRC002) gives 22 August 1995."
+      }
+    ],
+    "Related_Event_IDs": [
+      "EVT024",
+      "EVT026"
+    ],
+    "Verification": "Disputed",
+    "Is_Demo_Data": false,
+    "Display_Order": 32,
+    "Public_Status": "Withheld",
+    "Public_Note": "D-06: Disputed — two TLDM sources give 22 August 1994 (SRC038) and 22 August 1995 (SRC002). Kept in the research register; the re-engining section says the date is still being checked.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Verified",
+        "After": "Disputed",
+        "Evidence": "SRC038 p.9 vs SRC002",
+        "Decision": "D-06 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Alternative_Dates",
+        "Before": [],
+        "After": [
+          {
+            "Date": "1994-08-22",
+            "Date_Precision": "day",
+            "Source_ID": "SRC038",
+            "Note": "TLDM briefing p.9: 'Pada 22 ogos 1994 pihak TLDM akhirnya bersetuju menyerahkan kontrak kepada firma Wartsila'. The on-board panel (SRC002) gives 22 August 1995."
+          }
+        ],
+        "Evidence": "SRC038 p.9",
+        "Decision": "D-06 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "After evaluating offers from local and international firms, the TLDM awarded the contract to Wärtsilä, which offered two type 12SW28 main engines and three generator sets.",
+        "After": "After evaluating offers from local and international firms, the TLDM awarded the contract to Wärtsilä, which offered two type 12SW28 main engines and three generator sets (type 12V UD 25S).",
+        "Evidence": "SRC038 p.9: 'tiga buah janakuasa jenis 12V UD 25S'",
+        "Decision": "Phase 2: model completed"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Historical_Notes",
+        "Before": "The generator model is only partly legible in the photograph ('…25S').",
+        "After": "The generator model, only partly legible on the panel ('…25S'), is given in full in the TLDM briefing (p.9) as 12V UD 25S. The two TLDM sources disagree on the contract date: 22 August 1995 (on-board panel, SRC002) and 22 August 1994 (briefing, SRC038).",
+        "Evidence": "SRC038 p.9",
+        "Decision": "D-06 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC002"
+        ],
+        "After": [
+          "SRC002",
+          "SRC038"
+        ],
+        "Evidence": "SRC038 p.9",
+        "Decision": "D-06 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Published",
+        "After": "Withheld",
+        "Evidence": "SRC038 p.9",
+        "Decision": "D-06 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "",
+        "After": "D-06: Disputed — two TLDM sources give 22 August 1994 (SRC038) and 22 August 1995 (SRC002). Kept in the research register; the re-engining section says the date is still being checked.",
+        "Evidence": "SRC038 p.9",
+        "Decision": "D-06 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 25,
+        "After": 32,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT026",
+    "Date": "1995-10-09",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Towed to Pasir Gudang for re-engining",
+    "Event_Title_MS": "Ditunda ke Pasir Gudang untuk pengenjinan semula",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": "LOC017",
+    "Description": "The ship was towed to Malaysia Shipyard & Engineering (MSE), now Malaysia Marine and Heavy Engineering Sdn Bhd, at Pasir Gudang, Johor, where the re-engining was carried out.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT025",
+      "EVT027"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 33,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 26,
+        "After": 33,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT027",
+    "Date": "1997-02",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Re-engined ship accepted by the TLDM",
+    "Event_Title_MS": "Kapal diterima semula oleh TLDM selepas pengenjinan semula",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "The re-engining, which cost RM24 million, was completed and the ship was accepted by the TLDM in February 1997.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC002"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT026",
+      "EVT028"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 34,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 28,
+        "After": 34,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT028",
+    "Date": "1995",
+    "Date_Precision": "year",
+    "End_Date": "1997",
+    "Event_Title": "Twin 4-inch guns replaced by a 57 mm Bofors",
+    "Event_Title_MS": "Meriam berkembar 4 inci diganti dengan meriam Bofors 57 mm",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "The original twin 4-inch (102 mm) gun mounting was replaced by a single Bofors 57 mm gun, and the anti-submarine mortar and sonars were removed.",
+    "Description_MS": "",
+    "Historical_Notes": "Timing is disputed: Wikipedia (citing Baker 1998, p. 499) places this in the 1995–1997 refit; Warship Wednesday gives 1992. The legible part of the on-board re-engining panel does not mention the guns. Photographs in the research folder show the ship in Malaysian service both with the twin 4-inch mounting and with the 57 mm gun; they are not displayed until permission is confirmed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC019",
+      "SRC033",
+      "SRC021"
+    ],
+    "Alternative_Dates": [
+      {
+        "Date": "1992",
+        "Date_Precision": "year",
+        "Source_ID": "SRC021",
+        "Note": "Warship Wednesday: 4-inch gun replaced by a 57 mm Bofors in 1992."
+      }
+    ],
+    "Related_Event_IDs": [
+      "EVT023",
+      "EVT027"
+    ],
+    "Verification": "Disputed",
+    "Is_Demo_Data": false,
+    "Display_Order": 31,
+    "Public_Status": "Withheld",
+    "Public_Note": "D8: Disputed; kept in the research register only.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC038",
+            "Reference": "",
+            "Finding": "SRC038 p.11: the twin 4-inch Mk16 gun was replaced by a Bofors 57mm/L70 because spare parts were hard to obtain, and the 4-inch gun is now at Muzium TLDM, Melaka. No date is given, so the event stays Disputed; the undated facts are published in the ship profile."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 27,
+        "After": 31,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC038",
+        "Reference": "",
+        "Finding": "SRC038 p.11: the twin 4-inch Mk16 gun was replaced by a Bofors 57mm/L70 because spare parts were hard to obtain, and the 4-inch gun is now at Muzium TLDM, Melaka. No date is given, so the event stays Disputed; the undated facts are published in the ship profile."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT029",
+    "Date": "2009-02-04",
+    "Date_Precision": "day",
+    "End_Date": "2009-05-14",
+    "Event_Title": "Op Fajar deployment to the Gulf of Aden",
+    "Event_Title_MS": "Penugasan Op Fajar ke Teluk Aden",
+    "Event_Category": "Naval Service",
+    "Location_ID": null,
+    "Description": "On 4 February 2009 KD Hang Tuah sailed from Lumut for Op FAJAR 03/2008, the TLDM operation to escort Malaysian merchant ships safely through the Gulf of Aden, where ships were being seized by pirates. She took over the task from KD Sri Indera Sakti and returned to Lumut on 14 May 2009, 100 days after sailing.",
+    "Description_MS": "Pada 4 Februari 2009 KD Hang Tuah belayar dari Lumut untuk Op FAJAR 03/2008, operasi TLDM bagi mengiringi kapal-kapal dagang milik Malaysia dengan selamat melalui Teluk Aden, tempat kapal-kapal dirampas oleh lanun. Kapal ini mengambil alih tugas tersebut daripada KD Sri Indera Sakti dan kembali ke Lumut pada 14 Mei 2009, 100 hari selepas belayar.",
+    "Historical_Notes": "From a first-hand account by a TLDM officer on board, 'Noktah Pelayaran Op FAJAR 03/2008' (pp.2, 4, 5 and 16). Operational details are not published.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC013",
+      "SRC034",
+      "SRC040",
+      "SRC055"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 39,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "D-05 as revised in v6.1: general facts only — departure, mission, takeover from KD Sri Indera Sakti, return. Not published: handover location, port calls (Salalah, Aden), courtesy call, force composition, special-forces numbers, route points, escort details, task-group designation, operational photographs. The research record keeps the full v6.0 text in Change_Log.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Date",
+        "Before": "2009",
+        "After": "2009-02-04",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Date_Precision",
+        "Before": "year",
+        "After": "day",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "End_Date",
+        "Before": null,
+        "After": "2009-05-14",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Verification",
+        "Before": "Needs Verification",
+        "After": "Verified",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC013",
+          "SRC034"
+        ],
+        "After": [
+          "SRC013",
+          "SRC034",
+          "SRC040",
+          "SRC055"
+        ],
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Event_Title",
+        "Before": "Reported role in Ops Fajar, Gulf of Aden",
+        "After": "Op Fajar deployment to the Gulf of Aden",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Event_Title_MS",
+        "Before": "Dilaporkan menyertai Ops Fajar di Teluk Aden",
+        "After": "Penugasan Op Fajar ke Teluk Aden",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Status",
+        "Before": "Withheld",
+        "After": "Published (trimmed)",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D8: Needs Verification; kept in the research register only.",
+        "After": "D-05: general facts only. Not published: force composition, special-forces numbers, route points, escort details, task-group designation, operational photographs.",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Location_ID",
+        "Before": null,
+        "After": "LOC026",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "A 2026 newspaper report states that KD Hang Tuah took part in Ops Fajar in the Gulf of Aden in 2009, escorting Malaysian merchant ships against piracy.",
+        "After": "On 4 February 2009 KD Hang Tuah sailed from Lumut for Op FAJAR 03/2008, the TLDM operation to escort Malaysian merchant ships safely through the Gulf of Aden, where ships were being seized by pirates. On 13 February 2009, in waters off Salalah, Oman, she took over the task from KD Sri Indera Sakti. During the deployment she called at Salalah and at Aden, where her commanding officer called on the Governor of Aden. She returned to Lumut on 14 May 2009, 100 days after sailing.",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "",
+        "After": "Pada 4 Februari 2009 KD Hang Tuah belayar dari Lumut untuk Op FAJAR 03/2008, operasi TLDM bagi mengiringi kapal-kapal dagang milik Malaysia dengan selamat melalui Teluk Aden, tempat kapal-kapal dirampas oleh lanun. Pada 13 Februari 2009, di perairan Salalah, Oman, kapal ini mengambil alih tugas daripada KD Sri Indera Sakti. Sepanjang penugasan, kapal ini singgah di Salalah dan Aden, tempat Pegawai Memerintahnya membuat kunjungan hormat kepada Gabenor Aden. Kapal ini kembali ke Lumut pada 14 Mei 2009, 100 hari selepas belayar.",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Historical_Notes",
+        "Before": "Only one source (Ipoh Echo, 27 July 2026) makes this claim. A 2008 report on Ops Fajar names KD Lekiu, not KD Hang Tuah. TLDM records are needed.",
+        "After": "From a first-hand account by a TLDM officer on board, 'Noktah Pelayaran Op FAJAR 03/2008' (pp.2, 4, 7 and 16), and an Aden newspaper report. Details of the forces embarked, the route and the ships escorted are not published.",
+        "Evidence": "SRC040 pp.2, 4, 7, 16; SRC055",
+        "Decision": "D-05 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "TLDM_Evidence",
+        "Before": "(absent)",
+        "After": [
+          {
+            "Source_ID": "SRC040",
+            "Reference": "pp.2–16",
+            "Finding": "Research only (D-05): the account also gives the task-group designation, the embarked teams and their numbers, convoy route points and the names of escorted ships. These are not copied into the project."
+          }
+        ],
+        "Evidence": "see TLDM_Evidence",
+        "Decision": "Phase 2 review"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 29,
+        "After": 39,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description",
+        "Before": "On 4 February 2009 KD Hang Tuah sailed from Lumut for Op FAJAR 03/2008, the TLDM operation to escort Malaysian merchant ships safely through the Gulf of Aden, where ships were being seized by pirates. On 13 February 2009, in waters off Salalah, Oman, she took over the task from KD Sri Indera Sakti. During the deployment she called at Salalah and at Aden, where her commanding officer called on the Governor of Aden. She returned to Lumut on 14 May 2009, 100 days after sailing.",
+        "After": "On 4 February 2009 KD Hang Tuah sailed from Lumut for Op FAJAR 03/2008, the TLDM operation to escort Malaysian merchant ships safely through the Gulf of Aden, where ships were being seized by pirates. She took over the task from KD Sri Indera Sakti and returned to Lumut on 14 May 2009, 100 days after sailing.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "Pada 4 Februari 2009 KD Hang Tuah belayar dari Lumut untuk Op FAJAR 03/2008, operasi TLDM bagi mengiringi kapal-kapal dagang milik Malaysia dengan selamat melalui Teluk Aden, tempat kapal-kapal dirampas oleh lanun. Pada 13 Februari 2009, di perairan Salalah, Oman, kapal ini mengambil alih tugas daripada KD Sri Indera Sakti. Sepanjang penugasan, kapal ini singgah di Salalah dan Aden, tempat Pegawai Memerintahnya membuat kunjungan hormat kepada Gabenor Aden. Kapal ini kembali ke Lumut pada 14 Mei 2009, 100 hari selepas belayar.",
+        "After": "Pada 4 Februari 2009 KD Hang Tuah belayar dari Lumut untuk Op FAJAR 03/2008, operasi TLDM bagi mengiringi kapal-kapal dagang milik Malaysia dengan selamat melalui Teluk Aden, tempat kapal-kapal dirampas oleh lanun. Kapal ini mengambil alih tugas tersebut daripada KD Sri Indera Sakti dan kembali ke Lumut pada 14 Mei 2009, 100 hari selepas belayar.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Historical_Notes",
+        "Before": "From a first-hand account by a TLDM officer on board, 'Noktah Pelayaran Op FAJAR 03/2008' (pp.2, 4, 7 and 16), and an Aden newspaper report. Details of the forces embarked, the route and the ships escorted are not published.",
+        "After": "From a first-hand account by a TLDM officer on board, 'Noktah Pelayaran Op FAJAR 03/2008' (pp.2, 4, 5 and 16). Operational details are not published.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Location_ID",
+        "Before": "LOC026",
+        "After": null,
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Public_Note",
+        "Before": "D-05: general facts only. Not published: force composition, special-forces numbers, route points, escort details, task-group designation, operational photographs.",
+        "After": "D-05 as revised in v6.1: general facts only — departure, mission, takeover from KD Sri Indera Sakti, return. Not published: handover location, port calls (Salalah, Aden), courtesy call, force composition, special-forces numbers, route points, escort details, task-group designation, operational photographs. The research record keeps the full v6.0 text in Change_Log.",
+        "Evidence": "SRC040; SRC055",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ],
+    "TLDM_Evidence": [
+      {
+        "Source_ID": "SRC040",
+        "Reference": "pp.2–16",
+        "Finding": "Research only (D-05): the account also gives the task-group designation, the embarked teams and their numbers, convoy route points and the names of escorted ships. These are not copied into the project."
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT030",
+    "Date": "2018-11-21",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Designated the navy's museum ship",
+    "Event_Title_MS": "Diisytiharkan sebagai kapal muzium TLDM",
+    "Event_Category": "Museum and Preservation",
+    "Location_ID": "LOC016",
+    "Description": "At a ceremony at Lumut naval base, the Chief of Navy, Admiral Tan Sri Ahmad Kamarulzaman Ahmad Badaruddin, declared KD Hang Tuah, then the oldest ship in the fleet, the TLDM's museum ship. She remained in commission. Over her Malaysian career she had sailed about 500,000 km.",
+    "Description_MS": "",
+    "Historical_Notes": "Bernama reported that Boustead Naval Shipyard and the Ministry of Tourism, Arts and Culture would carry out the conversion, with opening expected in early 2019. Reports in 2026 describe the public opening as planned for 2027. Several secondary sources wrongly state that she was 'retired' in 2018; she was formally decommissioned in December 2025.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC007",
+      "SRC008",
+      "SRC056"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT031"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 40,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "Notes trimmed to what SRC007 and SRC008 state; 'over her Malaysian career' reworded to Bernama's 'had travelled some 500,000km'; the 2027 plan is shown on the Legacy page (D6).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Source_IDs",
+        "Before": [
+          "SRC007",
+          "SRC008"
+        ],
+        "After": [
+          "SRC007",
+          "SRC008",
+          "SRC056"
+        ],
+        "Evidence": "SRC056 (banner 'Majlis Pelancaran Kapal Muzium TLDM')",
+        "Decision": "Phase 2: supporting citation"
+      },
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 30,
+        "After": 40,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT031",
+    "Date": "2025-12-03",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Decommissioned at Lumut",
+    "Event_Title_MS": "Dilucutkan tauliah di Lumut",
+    "Event_Category": "Decommissioning",
+    "Location_ID": "LOC016",
+    "Description": "KD Hang Tuah was decommissioned with full military honours at Lumut naval base after nearly five decades of Malaysian service. The Western Fleet Commander, Vice Admiral Datuk Baharudin Wan Md Nor, officiated; the ship's bell was rung and her ensign lowered for the last time. The decommissioning formed part of the TLDM's '15 to 5' fleet transformation programme.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC009",
+      "SRC010",
+      "SRC011"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT030",
+      "EVT032"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 42,
+    "Public_Status": "Published (trimmed)",
+    "Public_Note": "Audit: 'with full military honours' replaced by 'in a military ceremony' (Utusan: 'istiadat ketenteraan').",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 31,
+        "After": 42,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT032",
+    "Date": "2026-07-27",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Handed over to the Perak state government",
+    "Event_Title_MS": "Diserahkan kepada Kerajaan Negeri Perak",
+    "Event_Category": "Museum and Preservation",
+    "Location_ID": "LOC016",
+    "Description": "At a ceremony at Himpitan 1, Lumut naval base, the TLDM handed the ship to the Perak state government, represented by the Menteri Besar, Datuk Seri Saarani Mohamad, for conversion into the Memorial Muzium Kapal Diraja Hang Tuah. The project is a public–private partnership between Menteri Besar Incorporated (MB Inc.) and Aero Art Sdn Bhd; its first phase is budgeted at RM30 million.",
+    "Description_MS": "",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC012",
+      "SRC013",
+      "SRC014"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT031",
+      "EVT033"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 43,
+    "Public_Status": "Published",
+    "Public_Note": "",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 32,
+        "After": 43,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT033",
+    "Date": "2027",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Planned opening as a memorial museum",
+    "Event_Title_MS": "Dijangka dibuka sebagai muzium memorial",
+    "Event_Category": "Museum and Preservation",
+    "Location_ID": null,
+    "Description": "The Memorial Muzium Kapal Diraja Hang Tuah in Lumut is planned to open to the public in 2027, together with a public park and community facilities at the Marina Wing and Lumut Esplanade.",
+    "Description_MS": "",
+    "Historical_Notes": "A plan announced in July–August 2026, not an event that has happened. Update this record when the opening is confirmed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC012",
+      "SRC014"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT032"
+    ],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 44,
+    "Public_Status": "Shown as planned (Legacy page)",
+    "Public_Note": "D6: shown on the Legacy page as a planned opening (site_content.json → Planned_Opening), not on the timeline.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "Display_Order",
+        "Before": 33,
+        "After": 44,
+        "Evidence": "chronological renumbering after adding events",
+        "Decision": "Phase 2"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT034",
+    "Date": "1983-05-05",
+    "Date_Precision": "day",
+    "End_Date": "1983-05-09",
+    "Event_Title": "Visit to Kuching",
+    "Event_Title_MS": "Lawatan ke Kuching",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC019",
+    "Description": "KD Hang Tuah visited Kuching, berthing at the Datuk Amar Sim Kheng Hong Port at Pending. It was her second visit since 1977. A newspaper report described her as responsible for sea training and patrol duties.",
+    "Description_MS": "KD Hang Tuah melawat Kuching dan bersandar di Pelabuhan Datuk Amar Sim Kheng Hong, Pending. Ini ialah lawatan keduanya sejak 1977. Laporan akhbar menyatakan bahawa kapal ini bertanggungjawab untuk tugas latihan laut dan rondaan.",
+    "Historical_Notes": "The dates (5–9 May 1983) are written by hand on the album page above the clipping; the newspaper's title and date are not visible. The commanding officer named, Nik Anis bin Nik Abdullah, commanded until 25 May 1983 (TLDM list).",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC045",
+      "SRC039"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 24,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new event (D-04).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC045; SRC039",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "KD Hang Tuah melawat Kuching dan berlabuh di Pelabuhan Datuk Amar Sim Kheng Hong, Pending. Ini ialah lawatan keduanya sejak 1977. Laporan akhbar menyatakan bahawa kapal ini bertanggungjawab untuk tugas latihan laut dan rondaan.",
+        "After": "KD Hang Tuah melawat Kuching dan bersandar di Pelabuhan Datuk Amar Sim Kheng Hong, Pending. Ini ialah lawatan keduanya sejak 1977. Laporan akhbar menyatakan bahawa kapal ini bertanggungjawab untuk tugas latihan laut dan rondaan.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT035",
+    "Date": "1985-06-24",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Training cruise to the South Pacific",
+    "Event_Title_MS": "Pelayaran latihan ke Pasifik Selatan",
+    "Event_Category": "International Visits",
+    "Location_ID": null,
+    "Description": "KD Hang Tuah left Malaysia on 24 June 1985 on a training cruise that took her to Darwin, Suva, Nuku'alofa and Port Moresby. The Fiji Sun described her as the first Malaysian naval ship to visit the South Pacific.",
+    "Description_MS": "KD Hang Tuah meninggalkan Malaysia pada 24 Jun 1985 untuk pelayaran latihan ke Darwin, Suva, Nuku'alofa dan Port Moresby. Akhbar Fiji Sun menyifatkannya sebagai kapal tentera laut Malaysia pertama yang melawat Pasifik Selatan.",
+    "Historical_Notes": "The dates of the calls at Darwin, Suva and Nuku'alofa are not given in the clippings reviewed.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC048",
+      "SRC047"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT036"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 27,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new event (D-04).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC048; SRC047",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT036",
+    "Date": "1985-07-31",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Visit to Port Moresby",
+    "Event_Title_MS": "Lawatan ke Port Moresby",
+    "Event_Category": "International Visits",
+    "Location_ID": "LOC023",
+    "Description": "On her way home from Tonga, KD Hang Tuah began a four-day visit to Port Moresby on 31 July 1985. The Post-Courier described her as the first modern military ship to visit Papua New Guinea.",
+    "Description_MS": "Dalam pelayaran pulang dari Tonga, KD Hang Tuah memulakan lawatan selama empat hari ke Port Moresby pada 31 Julai 1985. Akhbar Post-Courier menyifatkannya sebagai kapal tentera moden pertama yang melawat Papua New Guinea.",
+    "Historical_Notes": "",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC048"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [
+      "EVT035"
+    ],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 28,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new event (D-04).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC048",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT037",
+    "Date": "2000-07-26",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Visit to Ho Chi Minh City",
+    "Event_Title_MS": "Lawatan ke Bandar Raya Ho Chi Minh",
+    "Event_Category": "International Visits",
+    "Location_ID": "LOC024",
+    "Description": "KD Hang Tuah led three Royal Malaysian Navy ships, with KD Kelewang and KD Kris, on a three-day visit to Ho Chi Minh City, berthing at Saigon Port on 26 July 2000. The Saigon Times described her as a training ship for reserve officers.",
+    "Description_MS": "KD Hang Tuah mengetuai tiga buah kapal Tentera Laut Diraja Malaysia, bersama KD Kelewang dan KD Kris, dalam lawatan selama tiga hari ke Bandar Raya Ho Chi Minh dan bersandar di Pelabuhan Saigon pada 26 Julai 2000. Akhbar The Saigon Times menyifatkannya sebagai kapal latihan bagi pegawai simpanan.",
+    "Historical_Notes": "The report (27 July 2000) says the ships berthed 'yesterday'.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC049"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 36,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new event (D-04).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC049",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "KD Hang Tuah mengetuai tiga buah kapal Tentera Laut Diraja Malaysia, bersama KD Kelewang dan KD Kris, dalam lawatan selama tiga hari ke Bandar Raya Ho Chi Minh dan berlabuh di Pelabuhan Saigon pada 26 Julai 2000. Akhbar The Saigon Times menyifatkannya sebagai kapal latihan bagi pegawai simpanan.",
+        "After": "KD Hang Tuah mengetuai tiga buah kapal Tentera Laut Diraja Malaysia, bersama KD Kelewang dan KD Kris, dalam lawatan selama tiga hari ke Bandar Raya Ho Chi Minh dan bersandar di Pelabuhan Saigon pada 26 Julai 2000. Akhbar The Saigon Times menyifatkannya sebagai kapal latihan bagi pegawai simpanan.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT038",
+    "Date": "2000",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Last year of the Limbo Mk10 mortar",
+    "Event_Title_MS": "Tahun terakhir mortar Limbo Mk10",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "According to the TLDM briefing, 2000 was the last year in which the ship's Limbo Mk10 anti-submarine mortar, mounted on the flight deck, was operated.",
+    "Description_MS": "Menurut taklimat TLDM, tahun 2000 ialah tahun terakhir mortar antikapal selam Limbo Mk10 kapal ini, yang terletak di geladak penerbangan, beroperasi.",
+    "Historical_Notes": "Original wording (p.10): 'Tahun 2000 merupakan tahun terakhir bagi pengoperasian sistem Mortar Limbo Mk10'.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 35,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new event (D-04).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "Menurut taklimat TLDM, tahun 2000 ialah tahun terakhir mortar anti-kapal selam Limbo Mk10 kapal ini, yang terletak di geladak penerbangan, beroperasi.",
+        "After": "Menurut taklimat TLDM, tahun 2000 ialah tahun terakhir mortar antikapal selam Limbo Mk10 kapal ini, yang terletak di geladak penerbangan, beroperasi.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT039",
+    "Date": "2001-10",
+    "Date_Precision": "month",
+    "End_Date": null,
+    "Event_Title": "Ship's boats replaced by RHIBs",
+    "Event_Title_MS": "Bot kapal digantikan dengan RHIB",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "The Captain's Barge and the Sea Boat Whaler, in use for almost 35 years, were replaced by 7.62 m rigid inflatable boats (RHIBs) in October 2001.",
+    "Description_MS": "Captain's Barge dan Sea Boat Whaler, yang telah digunakan hampir 35 tahun, digantikan dengan Rigid Inflatable Boat (RHIB) 7.62 m pada Oktober 2001.",
+    "Historical_Notes": "Original wording (TLDM briefing, p.13): 'Penukaran Sea Boat Whaler dan Captain Barge kepada 7.62M Rigid Inflatable Boat (RHIB) pada Okt 01'.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 37,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new event (D-04).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      },
+      {
+        "Version": "v6.1",
+        "Date": "2026-11-04",
+        "Field": "Description_MS",
+        "Before": "Captain's Barge dan Sea Boat Whaler, yang telah digunakan hampir 35 tahun, digantikan dengan bot kembung tegar (RHIB) 7.62 m pada Oktober 2001.",
+        "After": "Captain's Barge dan Sea Boat Whaler, yang telah digunakan hampir 35 tahun, digantikan dengan Rigid Inflatable Boat (RHIB) 7.62 m pada Oktober 2001.",
+        "Evidence": "Malay review",
+        "Decision": "Owner's v6.1 corrections (4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT040",
+    "Date": "2007-09-24",
+    "Date_Precision": "day",
+    "End_Date": "2007-09-26",
+    "Event_Title": "Visit to Sandakan",
+    "Event_Title_MS": "Lawatan ke Sandakan",
+    "Event_Category": "Naval Service",
+    "Location_ID": "LOC025",
+    "Description": "The training ship KD Hang Tuah anchored at Sandakan on 24 September 2007 for a two-day visit and was opened to the public at the naval base before leaving for Tawau. Her commanding officer was Cdr Yee Tai Peng.",
+    "Description_MS": "Kapal latihan KD Hang Tuah berlabuh di Sandakan pada 24 September 2007 untuk lawatan selama dua hari dan dibuka kepada orang awam di pangkalan tentera laut sebelum belayar ke Tawau. Pegawai Memerintahnya ialah Komander Yee Tai Peng.",
+    "Historical_Notes": "The report (Tuesday, 25 September 2007) says the ship anchored on Monday and would leave for Tawau the next day. The figures it gives for speed, crew and dimensions differ from the TLDM briefing and are not used.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC050"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 38,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new event (D-04).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC050",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT041",
+    "Date": "2022-09-05",
+    "Date_Precision": "day",
+    "End_Date": null,
+    "Event_Title": "Slipping completed",
+    "Event_Title_MS": "Kerja slipping selesai",
+    "Event_Category": "Maintenance and Refits",
+    "Location_ID": null,
+    "Description": "The TLDM briefing records that the ship's slipping was completed on 5 September 2022.",
+    "Description_MS": "Taklimat TLDM merekodkan bahawa kerja slipping kapal ini selesai pada 5 September 2022.",
+    "Historical_Notes": "Original wording (p.19): 'GAMBAR KAPAL SELESAI SLIPPING PADA 5 SEP 22'. Where the work was done is not stated.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC038"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Verified",
+    "Is_Demo_Data": false,
+    "Display_Order": 41,
+    "Public_Status": "Published",
+    "Public_Note": "Phase 2: new event (D-04).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC038",
+        "Decision": "D-04 (approved 4 Nov 2026)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT042",
+    "Date": "1978",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Visits to Fremantle and Port Hedland",
+    "Event_Title_MS": "Lawatan ke Fremantle dan Port Hedland",
+    "Event_Category": "International Visits",
+    "Location_ID": null,
+    "Description": "Visit to Fremantle, described as the first by a Malaysian navy vessel to Western Australia, and to Port Hedland. 180 crew; the former presidential day cabin was in use as a cadet lecture room.",
+    "Description_MS": "",
+    "Historical_Notes": "The clippings are undated. The year is inferred only from the commanding officer named (Mohamed Shariff bin Ishak, CO 28 Dec 1977 – 28 Dec 1978).",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC053",
+      "SRC039"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 22,
+    "Public_Status": "Withheld",
+    "Public_Note": "Phase 2: research only. Date not confirmed (inferred from the CO's dates only).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC053; SRC039",
+        "Decision": "Phase 2 review (kept for review)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT043",
+    "Date": "1979",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Training cruise to India, Pakistan and Sri Lanka",
+    "Event_Title_MS": "Pelayaran latihan ke India, Pakistan dan Sri Lanka",
+    "Event_Category": "International Visits",
+    "Location_ID": null,
+    "Description": "Clippings and programmes from 1979 mention visits to India (Cochin), Pakistan and Sri Lanka, an invitation from the Pakistan Naval Academy for 7 June 1979 and a talent night held on board on 9 June 1979.",
+    "Description_MS": "",
+    "Historical_Notes": "The sports reports are undated, and the two reports of the match at PNS Karsaz disagree (won 4–2; lost 2–4). The link between the undated reports and June 1979 is not stated in the sources.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC054"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 23,
+    "Public_Status": "Withheld",
+    "Public_Note": "Phase 2: research only. Phase 1 proposal P-22 not applied: the cruise dates are not printed on the clippings.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC054",
+        "Decision": "Phase 2 review (kept for review)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT044",
+    "Date": "1984",
+    "Date_Precision": "year",
+    "End_Date": null,
+    "Event_Title": "Visit to Hong Kong",
+    "Event_Title_MS": "Lawatan ke Hong Kong",
+    "Event_Category": "International Visits",
+    "Location_ID": null,
+    "Description": "Four-day visit to Hong Kong, berthing at HMS Tamar, on a training mission continuing to South Korea; her second Hong Kong visit.",
+    "Description_MS": "",
+    "Historical_Notes": "Undated clipping; the commanding officer named, Cdr Udin bin Ujud, commanded from 13 Dec 1983 to 20 Nov 1984, so the visit falls in that period (inferred).",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC046",
+      "SRC039"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 25,
+    "Public_Status": "Withheld",
+    "Public_Note": "Phase 2: research only. Date not confirmed (inferred from the CO's dates only).",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC046; SRC039",
+        "Decision": "Phase 2 review (kept for review)"
+      }
+    ]
+  },
+  {
+    "Event_ID": "EVT045",
+    "Date": null,
+    "Date_Precision": null,
+    "End_Date": null,
+    "Event_Title": "Gun salute at Langkawi",
+    "Event_Title_MS": "Tembakan hormat di Langkawi",
+    "Event_Category": "Naval Service",
+    "Location_ID": null,
+    "Description": "KD Hang Tuah fired a seven-gun salute when Langkawi was declared a Bandaraya Pelancongan on 24 March.",
+    "Description_MS": "",
+    "Historical_Notes": "The year is not shown in the clipping.",
+    "Image_URL": "",
+    "Image_Caption": "",
+    "Image_Credit": "",
+    "Source_URL": "",
+    "Source_IDs": [
+      "SRC057"
+    ],
+    "Alternative_Dates": [],
+    "Related_Event_IDs": [],
+    "Verification": "Needs Verification",
+    "Is_Demo_Data": false,
+    "Display_Order": 45,
+    "Public_Status": "Withheld",
+    "Public_Note": "Phase 2: research only. Year not recorded.",
+    "Change_Log": [
+      {
+        "Version": "v6",
+        "Date": "2026-11-04",
+        "Field": "(record added)",
+        "Before": null,
+        "After": null,
+        "Evidence": "SRC057",
+        "Decision": "Phase 2 review (kept for review)"
+      }
+    ]
+  }
+]

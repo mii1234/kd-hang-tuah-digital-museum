@@ -1,0 +1,77 @@
+.ship-record { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); gap: var(--s-7); align-items: start; }
+
+/* Record card modelled on a ship's index card: ruled rows, label column, value, status */
+.record-card {
+  background: var(--c-offwhite);
+  border: 1px solid var(--c-rule-strong);
+  box-shadow: 6px 6px 0 rgba(16, 42, 67, 0.06);
+}
+.record-card__head { padding: var(--s-5) var(--s-5) var(--s-4); border-bottom: 2px solid var(--c-navy); }
+.record-card__head h2 { font-size: var(--fs-xl); margin-bottom: var(--s-2); }
+.record-card__summary { font-size: var(--fs-sm); color: var(--c-ink-soft); margin: 0; }
+.record-card__rows { margin: 0; }
+.record-card__row {
+  display: grid;
+  grid-template-columns: 11rem minmax(0, 1fr) auto;
+  gap: var(--s-4);
+  align-items: center;
+  padding: var(--s-3) var(--s-5);
+  border-bottom: 1px solid var(--c-rule);
+}
+.record-card__row:last-child { border-bottom: 0; }
+.record-card__row dt { font-size: var(--fs-xs); font-weight: 600; color: var(--c-ink-soft); }
+.record-card__row dd { margin: 0; display: flex; flex-direction: column; }
+.record-card__value { font-family: var(--f-serif); font-size: var(--fs-md); }
+.record-card__unit { font-family: var(--f-sans); font-size: var(--fs-xs); color: var(--c-ink-soft); }
+.record-card__pending {
+  font-family: var(--f-serif);
+  font-style: italic;
+  color: var(--c-ink-soft);
+  border-bottom: 1px dashed var(--c-rule-strong);
+  align-self: flex-start;
+}
+.record-card__src { font-size: 0.6875rem; color: var(--c-ink-soft); }
+.record-card__status { align-items: flex-end; }
+
+.ship-names h2 { font-size: var(--fs-xl); }
+.ship-names ol { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s-5); }
+.ship-names li { display: flex; flex-direction: column; align-items: flex-start; gap: var(--s-1); padding-left: var(--s-4); border-left: 2px solid var(--c-brass); }
+.ship-names__years { font-size: 0.75rem; color: var(--c-brass-ink); }
+.ship-names__name { font-family: var(--f-serif); font-size: var(--fs-lg); }
+.ship-names__navy { font-size: var(--fs-sm); color: var(--c-ink-soft); }
+.ship-names__notes { font-size: var(--fs-xs); color: var(--c-ink-soft); margin: var(--s-1) 0 0; }
+
+.ship-sections__title { margin-bottom: var(--s-6); }
+.ship-sections { display: grid; gap: var(--s-8); }
+.ship-section { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: var(--s-7); align-items: center; }
+.ship-section--flip > :first-child { order: 2; }
+.ship-section--text { grid-template-columns: minmax(0, 1fr); max-width: 68ch; }
+.ship-section__text { display: flex; flex-direction: column; align-items: flex-start; gap: var(--s-3); }
+.ship-section__text h3 { font-size: var(--fs-xl); margin: 0; }
+.ship-section__text p { margin: 0; font-family: var(--f-serif); font-size: var(--fs-md); line-height: 1.7; }
+
+.photo-grid { list-style: none; margin: var(--s-5) 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--s-6) var(--s-5); }
+.photo-grid__caption { display: flex; flex-direction: column; margin: var(--s-2) 0 0; font-size: var(--fs-sm); }
+.photo-grid__caption span:first-child { font-family: var(--f-serif); }
+.photo-grid__caption .muted { font-size: var(--fs-xs); }
+
+@media (max-width: 900px) {
+  .ship-record, .ship-section { grid-template-columns: 1fr; gap: var(--s-5); }
+  .ship-section--flip > :first-child { order: 0; }
+}
+@media (max-width: 560px) {
+  .record-card__row { grid-template-columns: 1fr auto; padding-inline: var(--s-4); }
+  .record-card__row dt { grid-column: 1 / -1; }
+}
+
+/* Commanding officers (TLDM list; names, ranks and dates only) */
+.ship-cos { display: flex; flex-direction: column; align-items: flex-start; gap: var(--s-3); }
+.ship-cos h2 { font-size: var(--fs-xl); margin: 0; }
+.ship-cos__intro { margin: 0; max-width: 68ch; font-size: var(--fs-sm); color: var(--c-ink-soft); }
+.ship-cos__note { margin: 0; max-width: 68ch; font-size: var(--fs-sm); padding: var(--s-3) var(--s-4); border-left: 3px solid var(--c-brass); background: var(--c-offwhite); }
+.ship-cos__scroll { width: 100%; overflow-x: auto; }
+.ship-cos__table { width: 100%; border-collapse: collapse; font-size: var(--fs-sm); }
+.ship-cos__table th, .ship-cos__table td { text-align: left; padding: var(--s-2) var(--s-3); border-bottom: 1px solid var(--c-rule); vertical-align: top; }
+.ship-cos__table th { font-size: var(--fs-xs); color: var(--c-ink-soft); font-weight: 600; border-bottom: 2px solid var(--c-navy); }
+.ship-cos__table td.mono { white-space: nowrap; font-size: 0.75rem; }
+.ship-cos__later { display: block; font-size: var(--fs-xs); color: var(--c-brass-ink); }

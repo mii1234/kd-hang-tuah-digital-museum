@@ -1,0 +1,40 @@
+.vbadge-group { display: inline-flex; flex-wrap: wrap; align-items: center; gap: var(--s-2); }
+.vbadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  font-family: var(--f-sans);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.3em 0.55em 0.3em 0.45em;
+  border: 1px solid currentColor;
+  border-radius: var(--radius);
+  white-space: nowrap;
+}
+.vbadge--verified { color: var(--c-v-verified); }
+.vbadge--needs { color: var(--c-v-needs); }
+.vbadge--illustrative { color: var(--c-v-illustrative); border-style: dashed; }
+.vbadge--disputed { color: var(--c-v-disputed); }
+.on-dark .vbadge--verified, .on-navy .vbadge--verified { color: #8fc2a1; }
+.on-dark .vbadge--needs, .on-navy .vbadge--needs { color: #e0c27a; }
+.on-dark .vbadge--illustrative, .on-navy .vbadge--illustrative { color: var(--c-on-dark-soft); }
+.on-dark .vbadge--disputed, .on-navy .vbadge--disputed { color: #e49a8f; }
+
+.demo-tag {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--f-mono);
+  font-size: 0.6875rem;
+  line-height: 1;
+  padding: 0.35em 0.5em;
+  border-radius: var(--radius);
+  background: var(--c-navy);
+  color: var(--c-paper);
+  letter-spacing: 0.04em;
+}
+.on-dark .demo-tag, .on-navy .demo-tag { background: var(--c-paper); color: var(--c-navy); }
+
+.vbadge__help { flex-basis: 100%; font-size: var(--fs-xs); color: var(--c-ink-soft); }
+.on-dark .vbadge__help { color: var(--c-on-dark-soft); }
+.vbadge-group--md .vbadge { font-size: var(--fs-sm); }

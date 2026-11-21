@@ -1,0 +1,285 @@
+/* Base element styles and shared layout primitives. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--header-h) + 1rem);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
+body {
+  margin: 0;
+  background: var(--c-paper);
+  color: var(--c-ink);
+  font-family: var(--f-sans);
+  font-size: var(--fs-base);
+  line-height: 1.6;
+  font-feature-settings: 'kern', 'liga';
+  text-rendering: optimizeLegibility;
+}
+
+img { max-width: 100%; display: block; }
+
+h1, h2, h3, h4 {
+  font-family: var(--f-serif);
+  font-weight: 400;
+  line-height: 1.15;
+  margin: 0 0 var(--s-4);
+  letter-spacing: -0.005em;
+  text-wrap: balance;
+}
+h1 { font-size: var(--fs-3xl); }
+h2 { font-size: var(--fs-2xl); }
+h3 { font-size: var(--fs-lg); }
+h4 { font-size: var(--fs-md); }
+
+p { margin: 0 0 var(--s-4); max-width: 68ch; text-wrap: pretty; }
+
+a {
+  color: inherit;
+  text-decoration-color: var(--c-brass);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  transition: text-decoration-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out);
+}
+a:hover { text-decoration-color: currentColor; }
+
+button { font: inherit; color: inherit; }
+
+:focus-visible {
+  outline: 2px solid var(--c-brass);
+  outline-offset: 3px;
+}
+.on-dark :focus-visible { outline-color: var(--c-brass); }
+
+::selection { background: rgba(182, 154, 98, 0.35); }
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0);
+  white-space: nowrap; border: 0;
+}
+
+.skip-link {
+  position: absolute;
+  left: var(--s-4);
+  top: -100px;
+  z-index: 2000;
+  background: var(--c-brass);
+  color: var(--c-midnight);
+  padding: var(--s-2) var(--s-4);
+  font-weight: 600;
+}
+.skip-link:focus { top: var(--s-2); }
+
+/* ---- Layout primitives */
+.wrap {
+  width: 100%;
+  max-width: var(--page-max);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.section { padding-block: var(--s-8); }
+.section--tight { padding-block: var(--s-7); }
+
+.on-dark {
+  background: var(--c-midnight);
+  color: var(--c-on-dark);
+}
+.on-navy {
+  background: var(--c-navy);
+  color: var(--c-on-dark);
+}
+.on-offwhite { background: var(--c-offwhite); }
+
+.mono {
+  font-family: var(--f-mono);
+  font-size: 0.8125rem;
+  letter-spacing: 0.01em;
+}
+
+.muted { color: var(--c-ink-soft); }
+.on-dark .muted, .on-navy .muted { color: var(--c-on-dark-soft); }
+
+.lede {
+  font-family: var(--f-serif);
+  font-size: var(--fs-md);
+  line-height: 1.65;
+  max-width: 60ch;
+}
+
+/* A short brass rule used to open a section — structural, marks the start of a new exhibit panel */
+.rule-brass {
+  width: 3rem;
+  height: 1px;
+  background: var(--c-brass);
+  border: 0;
+  margin: 0 0 var(--s-5);
+}
+
+/* ---- Page header used at the top of each inner page */
+.page-head {
+  padding-block: var(--s-8) var(--s-7);
+  border-bottom: 1px solid var(--c-rule);
+}
+.page-head h1 { margin-bottom: var(--s-4); }
+.page-head .lede { color: var(--c-ink-soft); }
+.page-head__number {
+  font-family: var(--f-mono);
+  font-size: var(--fs-sm);
+  color: var(--c-brass-ink);
+  margin-bottom: var(--s-3);
+  display: block;
+}
+
+/* ---- Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--s-2);
+  min-height: 44px;
+  padding: 0 var(--s-5);
+  border: 1px solid currentColor;
+  border-radius: var(--radius);
+  background: transparent;
+  font-family: var(--f-sans);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out);
+}
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.btn--primary {
+  background: var(--c-brass);
+  border-color: var(--c-brass);
+  color: var(--c-midnight);
+}
+.btn--primary:hover:not(:disabled) { background: #c7ad78; border-color: #c7ad78; }
+.btn--ghost:hover:not(:disabled) { background: rgba(182, 154, 98, 0.12); }
+.btn--ink { background: var(--c-navy); color: var(--c-offwhite); border-color: var(--c-navy); }
+.btn--ink:hover:not(:disabled) { background: var(--c-midnight); }
+.btn--small { min-height: 36px; padding: 0 var(--s-3); font-size: var(--fs-xs); }
+
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+  background: transparent;
+  cursor: pointer;
+  transition: background-color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out);
+}
+.icon-btn:hover:not(:disabled) { border-color: currentColor; }
+.icon-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+/* Text link with an arrow glyph supplied by an icon, not a character */
+.text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--s-2);
+  font-weight: 600;
+  font-size: var(--fs-sm);
+  text-decoration: underline;
+  text-decoration-color: var(--c-brass);
+}
+
+/* ---- Form controls */
+.field { display: flex; flex-direction: column; gap: var(--s-1); }
+.field label, .field__label {
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  color: var(--c-ink-soft);
+}
+.input, .select {
+  min-height: 44px;
+  padding: 0 var(--s-3);
+  border: 1px solid var(--c-rule-strong);
+  border-radius: var(--radius);
+  background: var(--c-offwhite);
+  color: var(--c-ink);
+  font: inherit;
+  font-size: var(--fs-sm);
+}
+.input:focus, .select:focus { border-color: var(--c-navy); }
+
+/* Chips used for category filters */
+.chips { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.chip {
+  min-height: 36px;
+  padding: 0 var(--s-3);
+  border: 1px solid var(--c-rule-strong);
+  border-radius: 999px;
+  background: transparent;
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out);
+}
+.chip[aria-pressed='true'] { background: var(--c-navy); border-color: var(--c-navy); color: var(--c-offwhite); }
+.chip:hover:not([aria-pressed='true']) { border-color: var(--c-navy); }
+
+/* ---- Page enter transition (route changes only, never blocks navigation) */
+.page-enter { animation: page-in var(--t-slow) var(--ease-out) both; }
+@keyframes page-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+
+/* Section reveal, used sparingly on major exhibit panels */
+.reveal { opacity: 0; transform: translateY(14px); transition: opacity var(--t-slow) var(--ease-out), transform var(--t-slow) var(--ease-out); }
+.reveal.is-visible { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  .reveal { opacity: 1; transform: none; }
+  .page-enter { animation: none; }
+}
+
+/* ---- Status screens */
+.status-screen {
+  min-height: 60vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: var(--s-8) var(--gutter);
+}
+.status-screen p { margin-inline: auto; }
+
+.empty-note {
+  padding: var(--s-6);
+  border: 1px dashed var(--c-rule-strong);
+  color: var(--c-ink-soft);
+  text-align: center;
+}
+.empty-note p { margin-inline: auto; }
+
+/* ---- Demo notice strip */
+.demo-notice {
+  background: var(--c-navy);
+  color: var(--c-on-dark);
+  font-size: var(--fs-xs);
+  border-bottom: 1px solid var(--c-rule-dark);
+}
+.demo-notice__inner { display: flex; align-items: center; gap: var(--s-2); flex-wrap: wrap; padding-block: var(--s-2); }
+.demo-notice svg { color: var(--c-brass); flex-shrink: 0; }
+.demo-notice a { color: var(--c-brass); margin-left: auto; }
+
+/* ---- Loading line: a single brass rule that sweeps once per second */
+.loading-line { width: 160px; height: 1px; margin: 0 auto var(--s-4); background: var(--c-rule-strong); position: relative; overflow: hidden; }
+.loading-line::after { content: ''; position: absolute; inset: 0; width: 40%; background: var(--c-brass); animation: sweep 1.1s var(--ease-in-out) infinite; }
+@keyframes sweep { from { transform: translateX(-100%); } to { transform: translateX(260%); } }
+@media (prefers-reduced-motion: reduce) { .loading-line::after { animation: none; width: 100%; } }
+main:focus { outline: none; }
